@@ -4,13 +4,143 @@
  <title>Civic Hacking and Journalism</title>
  <link href="http://0.0.0.0:4000//atom.xml" rel="self"/>
  <link href="http://0.0.0.0:4000//"/>
- <updated>2015-11-13T14:13:50+01:00</updated>
+ <updated>2015-11-19T21:01:00+01:00</updated>
  <id>http://0.0.0.0:4000/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Scraping the global civic tech community on GitHub, part 2</title>
+   <link href="http://0.0.0.0:4000//2015/11/19/scraping-the-global-civic-tech-community-on-github-part-2.html"/>
+   <updated>2015-11-19T17:20:00+01:00</updated>
+   <id>http://0.0.0.0:4000//2015/11/19/scraping-the-global-civic-tech-community-on-github-part-2</id>
+   <content type="html">&lt;p&gt;After I shared the post about my little &lt;a href=&quot;/2015/11/17/mapping-the-civic-hacking-community.html&quot;&gt;GitHub experiment&lt;/a&gt; in &lt;a href=&quot;https://groups.google.com/a/mysociety.org/d/msg/mysociety-community/DyCFE7bk4_U/Diq9f9kqDwAJ&quot;&gt;mySociety’s community mailing list&lt;/a&gt;, it became much more &lt;a href=&quot;https://twitter.com/jwyg/status/667056707504316416&quot;&gt;popular than I anticipated&lt;/a&gt;. In the meantime, I got some help to compile &lt;a href=&quot;http://0.0.0.0:4000//downloads/organizations.txt&quot;&gt;a more complete list of civic tech organizations on GitHub&lt;/a&gt; and spent all day scraping day. Will the more complete list yield different results? Let’s see!&lt;/p&gt;
+&lt;p&gt;I want to emphasize again that GitHub is an &lt;em&gt;inaccurate proxy&lt;/em&gt; to describe the global civic tech community. Individuals or groups who are not using GitHub’s social features (such as following or starring) are underrepresented in this data. Moreover, when we talk about civic tech on a global scale we are not only talking about developers. Naturally, activist groups are not using GitHub as much so they are underrepresented as well. Nevertheless, there are some interesting tendencies that this data reveals. If you’re interested, you can find my scraper &lt;a href=&quot;https://github.com/sbaack/github-scraper&quot;&gt;here&lt;/a&gt; and the data used for this post &lt;a href=&quot;https://www.dropbox.com/sh/y2dcr9dy96xg7uc/AAAobZh8G36C4gtuJfCt7z08a?dl=0&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;the-follower-network&quot;&gt;The follower network&lt;/h2&gt;
+&lt;p&gt;First, let’s recreate the follower network with the new dataset. Each node is a user; it’s color indicates the organization he or she belongs to, while the size of the nodes reflects the number of followers (the more the bigger):&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://0.0.0.0:4000//images/follower-network_2015-11-19.png&quot; alt=&quot;Download HiRes version&quot; /&gt;&lt;figcaption&gt;&lt;a href=&quot;http://0.0.0.0:4000//images/follower-network_2015-11-19.png&quot;&gt;Download HiRes version&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/maxogden&quot;&gt;maxogden&lt;/a&gt; still has a very central position and is best connected across different continents. In my last post, I suggested that this is due to his extensive use of GitHub’s social features and because he develops one of the most popular tools among civic hackers, &lt;a href=&quot;https://github.com/maxogden/dat&quot;&gt;dat&lt;/a&gt;. Meanwhile maxogden &lt;a href=&quot;https://groups.google.com/a/mysociety.org/d/msg/mysociety-community/DyCFE7bk4_U/_rAKxaw7DwAJ&quot;&gt;commented&lt;/a&gt; on it in mySociety’s community mailing list:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I’m guessing the reason I appear as a ‘hub’ is that I’ve had the privilege of being able to travel to the UK and Taiwan multiple times and meet the civic hacking communities there, as well as getting to contribute to open source civic hacking projects for the last 5 years more or less full time starting at Code for America in 2010. Hopefully over the next 5 years a lot more people will get the opportunity to get paid to work on civic software and travel to meet other communities!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I think his comment is very interesting because it points out how economic factors influence the structure of the network. It also underlines that the dominant European civic tech groups are stationed in the UK.&lt;/p&gt;
+&lt;p&gt;Similar to the previous version we can see how the community groups up by region:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;On the right side, we have civic tech groups from Asia: &lt;a href=&quot;https://github.com/g0v&quot;&gt;g0v&lt;/a&gt; from Taiwan and &lt;a href=&quot;https://github.com/teampopong&quot;&gt;Team POPONG&lt;/a&gt; from Korea.&lt;/li&gt;
+&lt;li&gt;At the bottom we have the US cluster with &lt;a href=&quot;https://github.com/codeforamerica&quot;&gt;Code for America&lt;/a&gt;, &lt;a href=&quot;https://github.com/sunlightlabs&quot;&gt;Sunlight Labs&lt;/a&gt;, &lt;a href=&quot;https://github.com/azavea&quot;&gt;Azavea&lt;/a&gt; and more.&lt;/li&gt;
+&lt;li&gt;At the top left, we have the most diverse cluster, mainly with groups from Europe and Latin America (&lt;a href=&quot;https://github.com/okfn/&quot;&gt;OKFN&lt;/a&gt;, &lt;a href=&quot;https://github.com/mysociety&quot;&gt;mySociety&lt;/a&gt;, and &lt;a href=&quot;https://github.com/ciudadanointeligente&quot;&gt;Ciudadano Inteligente&lt;/a&gt; being the biggest groups), but also &lt;a href=&quot;https://github.com/sinar&quot;&gt;Sinar&lt;/a&gt; from Malaysia, several African groups (like &lt;a href=&quot;https://github.com/ushahidi/&quot;&gt;Ushahidi&lt;/a&gt; or &lt;a href=&quot;https://github.com/CodeForAfrica&quot;&gt;Code for Africa&lt;/a&gt;), &lt;a href=&quot;https://github.com/opennorth&quot;&gt;Open North&lt;/a&gt; from Canada, or &lt;a href=&quot;https://github.com/openaustralia&quot;&gt;Open Australia&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Why are US groups and g0v relatively separate from the rest? One possible reason is size: g0v and Code for America are probably the biggest civic tech organizations, at least when it comes down to the number of developers. This means they have more connections among each other and thus get clustered in the graph. Whether there is really something like a ‘filter bubble’ going on I cannot tell.&lt;/p&gt;
+&lt;h2 id=&quot;the-contributor-network&quot;&gt;The contributor network&lt;/h2&gt;
+&lt;p&gt;As &lt;a href=&quot;https://groups.google.com/a/mysociety.org/d/msg/mysociety-community/DyCFE7bk4_U/7Gu9SLo3DwAJ&quot;&gt;Zarino rightfully pointed out&lt;/a&gt;, we might get a more realistic picture of actual community ties when we look at who contributes to repos. I suggest that we can best understand the follower network above as a proxy for &lt;em&gt;exchange&lt;/em&gt; (of ideas etc.), while the contributor network is more a proxy for &lt;em&gt;collaboration&lt;/em&gt;. This time the color of the edges illustrates to which organization a repo belongs, while the size of the nodes reflects how many repositories a user has contributed to (the more the bigger):&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://0.0.0.0:4000//images/contributor-network_2015-11-19.png&quot; alt=&quot;Download HiRes version&quot; /&gt;&lt;figcaption&gt;&lt;a href=&quot;http://0.0.0.0:4000//images/contributor-network_2015-11-19.png&quot;&gt;Download HiRes version&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;This network is a lot busier. I should point out that I had to filter out nodes with a low degree range to allow the remaining nodes to group up nicely. This means, to be precise, that every user who has contributed to less than five repos is filtered out.&lt;/p&gt;
+&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;First, there are some important similarities to the follower network: US groups are relatively close and separate from the rest, while groups from Europe, Latin America, Australia and elsewhere are close to each other at the bottom. However, we can see that Sunlight Labs has closer ties to Europe than Code for America.&lt;/li&gt;
+&lt;li&gt;When we look at collaboration, g0v seems to have much more ties to European groups than to the US.&lt;/li&gt;
+&lt;li&gt;It’s interesting how the African groups split up here. In the follower network above they were close to each other and to the European groups. Here, Ushahidi is far outside on the right, while Code for Africa and Code for South Africa are much closer to the European and Latin American groups. It seems there is a lot of exchange, but not much collaboration between Ushahidi and groups from Europe or elsewhere.&lt;/li&gt;
+&lt;li&gt;An Asian group which was almost invisible in the follower network is much more prominent here: &lt;a href=&quot;https://github.com/neo/&quot;&gt;Neo&lt;/a&gt; from Singapore. Despite being geographically close to g0v (relatively speaking) they do not seem to collaborate very much. Moreover, Neo seems to be closer to US groups, while g0v is closer to Europe.&lt;/li&gt;
+&lt;li&gt;maxogden lost his central position. When we look at where he works or where he contributes to, he is much closer to the US groups than to other groups around the world (you can find his node above the ‘Sunlight Labs’ label).&lt;/li&gt;
+&lt;li&gt;In case anybody wonders: Rufus Pollock aka &lt;a href=&quot;https://github.com/rgrp&quot;&gt;rgrp&lt;/a&gt; from Open Knowledge contributed to the most repos.&lt;/li&gt;
+&lt;li&gt;In the middle, the different clusters seem to be connected by a relatively thin web of tools which are popular among civic hackers but do not necessarily belong to any civic tech organization (like Discourse).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;the-most-popular-repositories&quot;&gt;The most popular repositories&lt;/h2&gt;
+&lt;p&gt;Let’s check GitHub’s starring feature again:&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://0.0.0.0:4000//images/starred-repos_2015-11-19.png&quot; alt=&quot;&quot; /&gt;
+&lt;/figure&gt;
+&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;As before, the left side lists the repositories owned by the civic tech organizations sorted by the number of stars. This means it shows which civic tech repositories are most starred among GitHub users in total, including those who are not part of any civic tech organization. Surprisingly, we have a new winner: &lt;a href=&quot;https://github.com/neo/ruby_koans&quot;&gt;Neo’s Ruby Koans&lt;/a&gt; tops &lt;a href=&quot;https://github.com/okfn/recline&quot;&gt;Recline&lt;/a&gt;. Beside that, not much has changed: the most popular civic tech repositories are a mix of data tools, tutorials, and ‘proof of concept’ exemplars of civic tech applications.&lt;/li&gt;
+&lt;li&gt;The right side again shows the repositories which have been starred by the members of the civic tech organizations in our dataset, regardless of whether the starred repositories are own by civic tech organizations or not. No big changes here either: The most popular repos among civic hackers are tools to help developing websites and working with data. As mentioned before, the popularity of &lt;a href=&quot;https://github.com/impress/impress.js&quot;&gt;impress.js&lt;/a&gt; and &lt;a href=&quot;https://github.com/hakimel/reveal.js&quot;&gt;reveal.js&lt;/a&gt; indicates that presenting at conferences or workshops about ideas and experiences is very common, which suggests that civic tech is still a relatively new field with a lot of experimentation. Still wondering about the popularity of &lt;a href=&quot;https://github.com/discourse/discourse&quot;&gt;Discourse&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;locations-and-differences-in-civic-tech-around-the-world&quot;&gt;Locations and differences in civic tech around the world&lt;/h2&gt;
+&lt;p&gt;Last but not least, I recreated the map showing the location of different civic hackers around the world. Again, GitHub allows users to specify their location in whatever way they want, if they specify their location at all. Often, only the home country or the continent is mentioned, which means that &lt;a href=&quot;http://www.mapcustomizer.com/map/civic_tech_scrape2&quot;&gt;this map&lt;/a&gt; is inaccurate but shows some general tendencies:&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://0.0.0.0:4000//images/locations_civic-hackers_2015-11-19.png&quot; alt=&quot;&quot; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;Again, not much changed. We have a few more civic hackers in Mexico, the Middle East and Asia, but my previous analysis still holds, so I just repeat it here: Despite being increasingly global, this maps shows how much civic tech is a Western phenomenon. This is reflected in the interviews I had with members of mySociety, where it was pointed out the UK websites are a “magnitude busier and perhaps more successful” than in other places (especially in Africa) because they had ten years to grow.&lt;/p&gt;
+&lt;p&gt;Given that GitHub is platform for developers, this map also seems to underline some of the other comments from my interviews about the cultural differences in civic tech around the world. The dominance of developers in Europe and the US might be due to the fact that civic tech has stronger roots in the technology scene in these areas. By contrast, civic tech in Latin America is driven more strongly by activist groups who have discovered how useful civic tech application can be to support their cause.&lt;/p&gt;
+&lt;h2 id=&quot;feedback-welcome&quot;&gt;Feedback welcome!&lt;/h2&gt;
+&lt;p&gt;As mentioned above, this was all a little experiment to get a grasp about the civic tech community on a global scale. I would love to hear from people involved in this community how they read these information and whether my interpretation somewhat matches reality.&lt;/p&gt;
+&lt;div id=&quot;refs&quot; class=&quot;references&quot;&gt;
+
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>(Outdated) Mapping the civic tech community on GitHub</title>
+   <link href="http://0.0.0.0:4000//2015/11/17/mapping-the-civic-hacking-community.html"/>
+   <updated>2015-11-17T15:05:00+01:00</updated>
+   <id>http://0.0.0.0:4000//2015/11/17/mapping-the-civic-hacking-community</id>
+   <content type="html">&lt;p&gt;How can we describe the global civic tech community? To date, it’s pretty hard to find answers to this question given that there is not even a consensus &lt;a href=&quot;https://www.mysociety.org/2014/09/08/civic-tech-has-won-the-name-game-but-what-does-it-mean/&quot;&gt;on how to define civic tech&lt;/a&gt;. However, there are some interesting proxies to explore this community. One of them is &lt;a href=&quot;https://github.com/&quot;&gt;GitHub&lt;/a&gt; as most civic tech projects and developers are using it. Another one is the &lt;a href=&quot;http://poplus.org/&quot;&gt;Poplus community&lt;/a&gt;, which is a deliberate attempt to create a ‘global federation for civic tech’.&lt;/p&gt;
+&lt;p&gt;I took &lt;a href=&quot;https://www.google.com/maps/d/u/0/edit?mid=zIRpJTfhUk3U.kz3_0IC6HoQ4&quot;&gt;this list&lt;/a&gt; of Poplus members and added a few organizations which were mentioned in the interviews I had with members of &lt;a href=&quot;https://www.mysociety.org/&quot;&gt;mySociety&lt;/a&gt;. Then I searched each organization on GitHub and ended up with this list of accounts:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mysociety
+poplus
+everypolitician
+sinar
+opennorth
+okfn
+codeforamerica
+Code-for-All
+okfde
+openaustralia
+ushahidi
+sunlightlabs
+datauy
+congresointeractivo
+ciudadanointeligente
+govtrack
+MuckRock
+g0v
+civio
+openkratio
+KohoVolit
+regardscitoyens
+teampopong
+openpolis
+TEDICpy
+e-democracy
+azavea&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;I then wrote a &lt;a href=&quot;https://github.com/sbaack/github-scraper&quot;&gt;GitHub scraper&lt;/a&gt; to gather some information about the activities of the members of these organizations. I should note directly that GitHub is just an &lt;em&gt;inaccurate proxy&lt;/em&gt; to describe this community. To illustrate this with a very specific example, I talked with &lt;a href=&quot;https://github.com/mhl&quot;&gt;Mark Longair&lt;/a&gt; who is a senior developer at mySociety. He has worked on many projects over the years and is an active member of the Poplus community – but this is poorly reflected in my data because he is not making much use of GitHub’s social features such as following other users or starring repositories. Therefore, these findings should be met with skepticism. Nevertheless, I think a few interesting tendencies surfaced.&lt;/p&gt;
+&lt;h2 id=&quot;the-follower-network&quot;&gt;The follower network&lt;/h2&gt;
+&lt;p&gt;I generated a follower network to see how these organizations are connected with each other and which individuals are best connected within the larger civic tech community, i.e. who has the most connections across different organizations. This is the result (with the size of the nodes reflecting how many followers a user has):&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://0.0.0.0:4000//images/narrow_follower_network.png&quot; alt=&quot;&quot; /&gt;
+&lt;/figure&gt;
+&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;The most striking result is the key position of &lt;a href=&quot;https://github.com/maxogden&quot;&gt;maxogden&lt;/a&gt;. One reason: He develops some of the most popular tools among civic hackers, especially &lt;a href=&quot;https://github.com/maxogden/dat&quot;&gt;dat&lt;/a&gt; (see below). Another, more simple explanation is that he makes extensive use of GitHub’s social features.&lt;/li&gt;
+&lt;li&gt;It’s interesting to see how the different organizations group up by regions. In the upper right we have Asian groups, especially &lt;a href=&quot;https://github.com/g0v&quot;&gt;g0v&lt;/a&gt; (green). At the bottom is the US with &lt;a href=&quot;https://github.com/codeforamerica&quot;&gt;Code for America&lt;/a&gt; (red) being the dominant actor. Most interestingly, at the upper left we have a mix of mostly European and Latin American groups, but also some groups from Canada or Australia. This might be unsurprising considering that the Poplus federation was founded by mySociety from the UK and &lt;a href=&quot;http://en.ciudadanointeligente.org/&quot;&gt;Ciudadano Inteligente&lt;/a&gt; from Chile. Still, it’s curious that European and Latin American groups seem so well connected, while North American and Asian groups are relatively separate (with the exception of maxogden, who is well connected to every continent).&lt;/li&gt;
+&lt;li&gt;At the far left is the African NGO &lt;a href=&quot;https://github.com/ushahidi&quot;&gt;Ushahidi&lt;/a&gt;, which only has a few connections to European groups. I would have expected them to be better connected. Maybe this is due to GitHub being an inaccurate proxy to illustrate these larger structures.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;the-most-popular-repositories&quot;&gt;The most popular repositories&lt;/h2&gt;
+&lt;p&gt;To get a sense of which repositories are most popular among civic hackers, I looked at GitHub’s ‘starring’ feature:&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://0.0.0.0:4000//images/starred_repos.png&quot; alt=&quot;&quot; /&gt;
+&lt;/figure&gt;
+&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;The left side lists the repositories owned by the civic tech organizations sorted by the number of stars. This means it shows which civic tech repositories are most starred among GitHub users in total, including those who are not part of any civic tech organization. Most popular by far is &lt;a href=&quot;https://github.com/okfn/recline&quot;&gt;Recline&lt;/a&gt;, a library for ‘building data applications in pure Javascript and HTML’. Ushahidi appears twice in the top 20, which indicates again that the follower network above is a bit off. In general, it’s interesting to see how the most popular civic tech repositories are a mix of data tools, tutorials, and ‘proof of concept’ exemplars of civic tech applications.&lt;/li&gt;
+&lt;li&gt;The right side shows the repositories which have been starred by the members of the civic tech organizations listed above, regardless of whether the starred repositories are own by civic tech organizations or not. A bit surprisingly, there are &lt;em&gt;no&lt;/em&gt; civic tech repositories in the top 20. Beside that, the results are pretty much what one would expect: Tools to help developing websites and working with data. The popularity of &lt;a href=&quot;https://github.com/impress/impress.js&quot;&gt;impress.js&lt;/a&gt; and &lt;a href=&quot;https://github.com/hakimel/reveal.js&quot;&gt;reveal.js&lt;/a&gt; indicates that presenting at conferences or workshops about ideas and experiences is very common. I suggest that is also an expression of civic tech being a relatively new field with a lot of experimentation. What I could not figure out is the popularity of &lt;a href=&quot;https://github.com/discourse/discourse&quot;&gt;Discourse&lt;/a&gt;, an open source discussion platform.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;locations-and-differences-in-civic-tech-around-the-world&quot;&gt;Locations and differences in civic tech around the world&lt;/h2&gt;
+&lt;p&gt;GitHub allows users to specify their location. However, users are free to do that in whatever way they want, if they specify their location at all. Often, users just mention their home country or in some cases the continent they live on. It goes without saying that the &lt;a href=&quot;http://www.mapcustomizer.com/map/civic_tech_scrape&quot;&gt;resulting map&lt;/a&gt; is inaccurate, but good enough to show the general direction:&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://0.0.0.0:4000//images/locations_civic_hackers.png&quot; alt=&quot;&quot; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;Despite being increasingly global, this maps shows how much civic tech is a Western phenomenon. This is reflected in the interviews I had with members of mySociety, where it was pointed out the UK websites are a “magnitude busier and perhaps more successful” than in other places (especially in Africa) because they had ten years to grow.&lt;/p&gt;
+&lt;p&gt;Given that GitHub is platform for developers, this map also seems to underline some of the other comments from my interviews about the cultural differences in civic tech around the world. The dominance of developers in Europe and the US might be due to the fact that civic tech has stronger roots in the technology scene in these areas. By contrast, civic tech in Latin America is driven more strongly by activist groups who have discovered how useful civic tech application can be to support their cause.&lt;/p&gt;
+&lt;div id=&quot;refs&quot; class=&quot;references&quot;&gt;
+
+&lt;/div&gt;
+</content>
+ </entry>
  
  <entry>
    <title>A few thoughts about data journalism from the Mozfest 2015</title>
@@ -26,7 +156,7 @@
 &lt;h3 id=&quot;references&quot; class=&quot;unnumbered&quot;&gt;References&lt;/h3&gt;
 &lt;div id=&quot;refs&quot; class=&quot;references&quot;&gt;
 &lt;div id=&quot;ref-Coddington2015Clarifying&quot;&gt;
-&lt;p&gt;Coddington, Mark. 2015. “Clarifying Journalism’s Quantitative Turn.” &lt;em&gt;Digital Journalism&lt;/em&gt; 3 (3): 331–48. doi:&lt;a href=&quot;http://doi.org/10.1080/21670811.2014.976400&quot;&gt;10.1080/21670811.2014.976400&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Coddington, Mark. 2015. “Clarifying Journalism’s Quantitative Turn.” &lt;em&gt;Digital Journalism&lt;/em&gt; 3 (3): 331–48. doi:&lt;a href=&quot;https://doi.org/10.1080/21670811.2014.976400&quot;&gt;10.1080/21670811.2014.976400&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&quot;ref-Diakopoulos2016Computational&quot;&gt;
 &lt;p&gt;Diakopoulos, Nicholas. 2016. “Computational Journalism and the Emergence of News Platforms.” In &lt;em&gt;The Routledge Companion to Digital Journalism Studies&lt;/em&gt;, edited by Scott Eldridge II and Bob Franklin. &lt;a href=&quot;http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/Computational-Journalism-and-the-Emergence-of-News-Platforms.pdf&quot; class=&quot;uri&quot;&gt;http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/Computational-Journalism-and-the-Emergence-of-News-Platforms.pdf&lt;/a&gt;.&lt;/p&gt;
@@ -149,7 +279,7 @@ Data journalism and programming? &lt;a href=&quot;https://twitter.com/hashtag/da
 &lt;h2 id=&quot;references&quot; class=&quot;unnumbered&quot;&gt;References&lt;/h2&gt;
 &lt;div id=&quot;refs&quot; class=&quot;references&quot;&gt;
 &lt;div id=&quot;ref-Couldry2014Inaugural&quot;&gt;
-&lt;p&gt;Couldry, Nick. 2014. “Inaugural: A Necessary Disenchantment: Myth, Agency and Injustice in a Digital World.” &lt;em&gt;The Sociological Review&lt;/em&gt; 62 (4): 880–97. doi:&lt;a href=&quot;http://doi.org/10.1111/1467-954X.12158&quot;&gt;10.1111/1467-954X.12158&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Couldry, Nick. 2014. “Inaugural: A Necessary Disenchantment: Myth, Agency and Injustice in a Digital World.” &lt;em&gt;The Sociological Review&lt;/em&gt; 62 (4): 880–97. doi:&lt;a href=&quot;https://doi.org/10.1111/1467-954X.12158&quot;&gt;10.1111/1467-954X.12158&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&quot;ref-Couldry2014Advertising&quot;&gt;
 &lt;p&gt;Couldry, Nick, and Joseph Turow. 2014. “Advertising, Big Data and the Clearance of the Public Realm: Marketers’ New Approaches to the Content Subsidy.” &lt;em&gt;International Journal of Communication&lt;/em&gt; 8: 1710–26. &lt;a href=&quot;http://ijoc.org/index.php/ijoc/article/view/2166&quot; class=&quot;uri&quot;&gt;http://ijoc.org/index.php/ijoc/article/view/2166&lt;/a&gt;.&lt;/p&gt;
