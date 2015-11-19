@@ -4,7 +4,7 @@
  <title>Civic Hacking and Journalism</title>
  <link href="http://0.0.0.0:4000//atom.xml" rel="self"/>
  <link href="http://0.0.0.0:4000//"/>
- <updated>2015-11-19T21:28:43+01:00</updated>
+ <updated>2015-11-19T21:33:37+01:00</updated>
  <id>http://0.0.0.0:4000/</id>
  <author>
    <name></name>
@@ -22,7 +22,7 @@
 &lt;h2 id=&quot;the-follower-network&quot;&gt;The follower network&lt;/h2&gt;
 &lt;p&gt;First, let’s recreate the follower network with the new dataset. Each node is a user; it’s color indicates the organization he or she belongs to, while the size of the nodes reflects the number of followers (the more the bigger):&lt;/p&gt;
 &lt;figure&gt;
-&lt;img src=&quot;http://0.0.0.0:4000//downloads/follower-network_2015-11-19.png&quot; alt=&quot;Download HiRes version&quot; /&gt;&lt;figcaption&gt;&lt;a href=&quot;http://0.0.0.0:4000//downloads/follower-network_2015-11-19.png&quot;&gt;Download HiRes version&lt;/a&gt;&lt;/figcaption&gt;
+&lt;img src=&quot;https://github.com/sbaack/sbaack.github.io/raw/master/downloads/follower-network_2015-11-19.png&quot; alt=&quot;Download HiRes version&quot; /&gt;&lt;figcaption&gt;&lt;a href=&quot;https://github.com/sbaack/sbaack.github.io/raw/master/downloads/follower-network_2015-11-19.png&quot;&gt;Download HiRes version&lt;/a&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/maxogden&quot;&gt;maxogden&lt;/a&gt; still has a very central position and is best connected across different continents. In my last post, I suggested that this is due to his extensive use of GitHub’s social features and because he develops one of the most popular tools among civic hackers, &lt;a href=&quot;https://github.com/maxogden/dat&quot;&gt;dat&lt;/a&gt;. Meanwhile maxogden &lt;a href=&quot;https://groups.google.com/a/mysociety.org/d/msg/mysociety-community/DyCFE7bk4_U/_rAKxaw7DwAJ&quot;&gt;commented&lt;/a&gt; on it in mySociety’s community mailing list:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -39,7 +39,7 @@
 &lt;h2 id=&quot;the-contributor-network&quot;&gt;The contributor network&lt;/h2&gt;
 &lt;p&gt;As &lt;a href=&quot;https://groups.google.com/a/mysociety.org/d/msg/mysociety-community/DyCFE7bk4_U/7Gu9SLo3DwAJ&quot;&gt;Zarino rightfully pointed out&lt;/a&gt;, we might get a more realistic picture of actual community ties when we look at who contributes to repos. I suggest that we can best understand the follower network above as a proxy for &lt;em&gt;exchange&lt;/em&gt; (of ideas etc.), while the contributor network is more a proxy for &lt;em&gt;collaboration&lt;/em&gt;. This time the color of the edges illustrates to which organization a repo belongs, while the size of the nodes reflects how many repositories a user has contributed to (the more the bigger):&lt;/p&gt;
 &lt;figure&gt;
-&lt;img src=&quot;http://0.0.0.0:4000//downloads/contributor-network_2015-11-19.png&quot; alt=&quot;Download HiRes version&quot; /&gt;&lt;figcaption&gt;&lt;a href=&quot;http://0.0.0.0:4000//downloads/contributor-network_2015-11-19.png&quot;&gt;Download HiRes version&lt;/a&gt;&lt;/figcaption&gt;
+&lt;img src=&quot;https://github.com/sbaack/sbaack.github.io/raw/master/downloads/contributor-network_2015-11-19.png&quot; alt=&quot;Download HiRes version&quot; /&gt;&lt;figcaption&gt;&lt;a href=&quot;https://github.com/sbaack/sbaack.github.io/raw/master/downloads/contributor-network_2015-11-19.png&quot;&gt;Download HiRes version&lt;/a&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;This network is a lot busier. I should point out that I had to filter out nodes with a low degree range to allow the remaining nodes to group up nicely. This means, to be precise, that every user who has contributed to less than five repos is filtered out.&lt;/p&gt;
 &lt;ol type=&quot;1&quot;&gt;
@@ -54,7 +54,7 @@
 &lt;h2 id=&quot;the-most-popular-repositories&quot;&gt;The most popular repositories&lt;/h2&gt;
 &lt;p&gt;Let’s check GitHub’s starring feature again:&lt;/p&gt;
 &lt;figure&gt;
-&lt;img src=&quot;http://0.0.0.0:4000//images/starred-repos_2015-11-19.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;https://github.com/sbaack/sbaack.github.io/raw/master/downloads/starred-repos_2015-11-19.png&quot; alt=&quot;&quot; /&gt;
 &lt;/figure&gt;
 &lt;ol type=&quot;1&quot;&gt;
 &lt;li&gt;As before, the left side lists the repositories owned by the civic tech organizations sorted by the number of stars. This means it shows which civic tech repositories are most starred among GitHub users in total, including those who are not part of any civic tech organization. Surprisingly, we have a new winner: &lt;a href=&quot;https://github.com/neo/ruby_koans&quot;&gt;Neo’s Ruby Koans&lt;/a&gt; tops &lt;a href=&quot;https://github.com/okfn/recline&quot;&gt;Recline&lt;/a&gt;. Beside that, not much has changed: the most popular civic tech repositories are a mix of data tools, tutorials, and ‘proof of concept’ exemplars of civic tech applications.&lt;/li&gt;
@@ -63,7 +63,7 @@
 &lt;h2 id=&quot;locations-and-differences-in-civic-tech-around-the-world&quot;&gt;Locations and differences in civic tech around the world&lt;/h2&gt;
 &lt;p&gt;Last but not least, I recreated the map showing the location of different civic hackers around the world. Again, GitHub allows users to specify their location in whatever way they want, if they specify their location at all. Often, only the home country or the continent is mentioned, which means that &lt;a href=&quot;http://www.mapcustomizer.com/map/civic_tech_scrape2&quot;&gt;this map&lt;/a&gt; is inaccurate but shows some general tendencies:&lt;/p&gt;
 &lt;figure&gt;
-&lt;img src=&quot;http://0.0.0.0:4000//images/locations_civic-hackers_2015-11-19.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;https://github.com/sbaack/sbaack.github.io/raw/master/downloads/locations_civic-hackers_2015-11-19.png&quot; alt=&quot;&quot; /&gt;
 &lt;/figure&gt;
 &lt;p&gt;Again, not much changed. We have a few more civic hackers in Mexico, the Middle East and Asia, but my previous analysis still holds, so I just repeat it here: Despite being increasingly global, this maps shows how much civic tech is a Western phenomenon. This is reflected in the interviews I had with members of mySociety, where it was pointed out the UK websites are a “magnitude busier and perhaps more successful” than in other places (especially in Africa) because they had ten years to grow.&lt;/p&gt;
 &lt;p&gt;Given that GitHub is platform for developers, this map also seems to underline some of the other comments from my interviews about the cultural differences in civic tech around the world. The dominance of developers in Europe and the US might be due to the fact that civic tech has stronger roots in the technology scene in these areas. By contrast, civic tech in Latin America is driven more strongly by activist groups who have discovered how useful civic tech application can be to support their cause.&lt;/p&gt;
