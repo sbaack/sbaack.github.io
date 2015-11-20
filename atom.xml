@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Civic Hacking and Journalism</title>
- <link href="http://0.0.0.0:4000//atom.xml" rel="self"/>
- <link href="http://0.0.0.0:4000//"/>
- <updated>2015-11-19T21:33:37+01:00</updated>
- <id>http://0.0.0.0:4000/</id>
+ <link href="https://sbaack.github.io/atom.xml" rel="self"/>
+ <link href="https://sbaack.github.io/"/>
+ <updated>2015-11-20T11:23:10+01:00</updated>
+ <id>https://sbaack.github.io</id>
  <author>
    <name></name>
    <email></email>
@@ -14,10 +14,10 @@
  
  <entry>
    <title>Scraping the global civic tech community on GitHub, part 2</title>
-   <link href="http://0.0.0.0:4000//2015/11/19/scraping-the-global-civic-tech-community-on-github-part-2.html"/>
+   <link href="https://sbaack.github.io/2015/11/19/scraping-the-global-civic-tech-community-on-github-part-2.html"/>
    <updated>2015-11-19T17:20:00+01:00</updated>
-   <id>http://0.0.0.0:4000//2015/11/19/scraping-the-global-civic-tech-community-on-github-part-2</id>
-   <content type="html">&lt;p&gt;After I shared the post about my little &lt;a href=&quot;/2015/11/17/mapping-the-civic-hacking-community.html&quot;&gt;GitHub experiment&lt;/a&gt; in &lt;a href=&quot;https://groups.google.com/a/mysociety.org/d/msg/mysociety-community/DyCFE7bk4_U/Diq9f9kqDwAJ&quot;&gt;mySociety’s community mailing list&lt;/a&gt;, it became much more &lt;a href=&quot;https://twitter.com/jwyg/status/667056707504316416&quot;&gt;popular than I anticipated&lt;/a&gt;. In the meantime, I got some help to compile &lt;a href=&quot;http://0.0.0.0:4000//downloads/organizations.txt&quot;&gt;a more complete list of civic tech organizations on GitHub&lt;/a&gt; and spent all day scraping day. Will the more complete list yield different results? Let’s see!&lt;/p&gt;
+   <id>https://sbaack.github.io/2015/11/19/scraping-the-global-civic-tech-community-on-github-part-2</id>
+   <content type="html">&lt;p&gt;After I shared the post about my little &lt;a href=&quot;/2015/11/17/mapping-the-civic-hacking-community.html&quot;&gt;GitHub experiment&lt;/a&gt; in &lt;a href=&quot;https://groups.google.com/a/mysociety.org/d/msg/mysociety-community/DyCFE7bk4_U/Diq9f9kqDwAJ&quot;&gt;mySociety’s community mailing list&lt;/a&gt;, it became much more &lt;a href=&quot;https://twitter.com/jwyg/status/667056707504316416&quot;&gt;popular than I anticipated&lt;/a&gt;. In the meantime, I got some help to compile &lt;a href=&quot;https://sbaack.github.io/downloads/organizations.txt&quot;&gt;a more complete list of civic tech organizations on GitHub&lt;/a&gt; and spent all day scraping day. Will the more complete list yield different results? Let’s see!&lt;/p&gt;
 &lt;p&gt;I want to emphasize again that GitHub is an &lt;em&gt;inaccurate proxy&lt;/em&gt; to describe the global civic tech community. Individuals or groups who are not using GitHub’s social features (such as following or starring) are underrepresented in this data. Moreover, when we talk about civic tech on a global scale we are not only talking about developers. Naturally, activist groups are not using GitHub as much so they are underrepresented as well. Nevertheless, there are some interesting tendencies that this data reveals. If you’re interested, you can find my scraper &lt;a href=&quot;https://github.com/sbaack/github-scraper&quot;&gt;here&lt;/a&gt; and the data used for this post &lt;a href=&quot;https://www.dropbox.com/sh/y2dcr9dy96xg7uc/AAAobZh8G36C4gtuJfCt7z08a?dl=0&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&quot;the-follower-network&quot;&gt;The follower network&lt;/h2&gt;
 &lt;p&gt;First, let’s recreate the follower network with the new dataset. Each node is a user; it’s color indicates the organization he or she belongs to, while the size of the nodes reflects the number of followers (the more the bigger):&lt;/p&gt;
@@ -77,9 +77,9 @@
  
  <entry>
    <title>(Outdated) Mapping the civic tech community on GitHub</title>
-   <link href="http://0.0.0.0:4000//2015/11/17/mapping-the-civic-hacking-community.html"/>
+   <link href="https://sbaack.github.io/2015/11/17/mapping-the-civic-hacking-community.html"/>
    <updated>2015-11-17T15:05:00+01:00</updated>
-   <id>http://0.0.0.0:4000//2015/11/17/mapping-the-civic-hacking-community</id>
+   <id>https://sbaack.github.io/2015/11/17/mapping-the-civic-hacking-community</id>
    <content type="html">&lt;p&gt;How can we describe the global civic tech community? To date, it’s pretty hard to find answers to this question given that there is not even a consensus &lt;a href=&quot;https://www.mysociety.org/2014/09/08/civic-tech-has-won-the-name-game-but-what-does-it-mean/&quot;&gt;on how to define civic tech&lt;/a&gt;. However, there are some interesting proxies to explore this community. One of them is &lt;a href=&quot;https://github.com/&quot;&gt;GitHub&lt;/a&gt; as most civic tech projects and developers are using it. Another one is the &lt;a href=&quot;http://poplus.org/&quot;&gt;Poplus community&lt;/a&gt;, which is a deliberate attempt to create a ‘global federation for civic tech’.&lt;/p&gt;
 &lt;p&gt;I took &lt;a href=&quot;https://www.google.com/maps/d/u/0/edit?mid=zIRpJTfhUk3U.kz3_0IC6HoQ4&quot;&gt;this list&lt;/a&gt; of Poplus members and added a few organizations which were mentioned in the interviews I had with members of &lt;a href=&quot;https://www.mysociety.org/&quot;&gt;mySociety&lt;/a&gt;. Then I searched each organization on GitHub and ended up with this list of accounts:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;mysociety
@@ -113,7 +113,7 @@ azavea&lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&quot;the-follower-network&quot;&gt;The follower network&lt;/h2&gt;
 &lt;p&gt;I generated a follower network to see how these organizations are connected with each other and which individuals are best connected within the larger civic tech community, i.e. who has the most connections across different organizations. This is the result (with the size of the nodes reflecting how many followers a user has):&lt;/p&gt;
 &lt;figure&gt;
-&lt;img src=&quot;http://0.0.0.0:4000//images/narrow_follower_network.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;https://sbaack.github.io/images/narrow_follower_network.png&quot; alt=&quot;&quot; /&gt;
 &lt;/figure&gt;
 &lt;ol type=&quot;1&quot;&gt;
 &lt;li&gt;The most striking result is the key position of &lt;a href=&quot;https://github.com/maxogden&quot;&gt;maxogden&lt;/a&gt;. One reason: He develops some of the most popular tools among civic hackers, especially &lt;a href=&quot;https://github.com/maxogden/dat&quot;&gt;dat&lt;/a&gt; (see below). Another, more simple explanation is that he makes extensive use of GitHub’s social features.&lt;/li&gt;
@@ -123,7 +123,7 @@ azavea&lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&quot;the-most-popular-repositories&quot;&gt;The most popular repositories&lt;/h2&gt;
 &lt;p&gt;To get a sense of which repositories are most popular among civic hackers, I looked at GitHub’s ‘starring’ feature:&lt;/p&gt;
 &lt;figure&gt;
-&lt;img src=&quot;http://0.0.0.0:4000//images/starred_repos.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;https://sbaack.github.io/images/starred_repos.png&quot; alt=&quot;&quot; /&gt;
 &lt;/figure&gt;
 &lt;ol type=&quot;1&quot;&gt;
 &lt;li&gt;The left side lists the repositories owned by the civic tech organizations sorted by the number of stars. This means it shows which civic tech repositories are most starred among GitHub users in total, including those who are not part of any civic tech organization. Most popular by far is &lt;a href=&quot;https://github.com/okfn/recline&quot;&gt;Recline&lt;/a&gt;, a library for ‘building data applications in pure Javascript and HTML’. Ushahidi appears twice in the top 20, which indicates again that the follower network above is a bit off. In general, it’s interesting to see how the most popular civic tech repositories are a mix of data tools, tutorials, and ‘proof of concept’ exemplars of civic tech applications.&lt;/li&gt;
@@ -132,7 +132,7 @@ azavea&lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&quot;locations-and-differences-in-civic-tech-around-the-world&quot;&gt;Locations and differences in civic tech around the world&lt;/h2&gt;
 &lt;p&gt;GitHub allows users to specify their location. However, users are free to do that in whatever way they want, if they specify their location at all. Often, users just mention their home country or in some cases the continent they live on. It goes without saying that the &lt;a href=&quot;http://www.mapcustomizer.com/map/civic_tech_scrape&quot;&gt;resulting map&lt;/a&gt; is inaccurate, but good enough to show the general direction:&lt;/p&gt;
 &lt;figure&gt;
-&lt;img src=&quot;http://0.0.0.0:4000//images/locations_civic_hackers.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;https://sbaack.github.io/images/locations_civic_hackers.png&quot; alt=&quot;&quot; /&gt;
 &lt;/figure&gt;
 &lt;p&gt;Despite being increasingly global, this maps shows how much civic tech is a Western phenomenon. This is reflected in the interviews I had with members of mySociety, where it was pointed out the UK websites are a “magnitude busier and perhaps more successful” than in other places (especially in Africa) because they had ten years to grow.&lt;/p&gt;
 &lt;p&gt;Given that GitHub is platform for developers, this map also seems to underline some of the other comments from my interviews about the cultural differences in civic tech around the world. The dominance of developers in Europe and the US might be due to the fact that civic tech has stronger roots in the technology scene in these areas. By contrast, civic tech in Latin America is driven more strongly by activist groups who have discovered how useful civic tech application can be to support their cause.&lt;/p&gt;
@@ -144,9 +144,9 @@ azavea&lt;/code&gt;&lt;/pre&gt;
  
  <entry>
    <title>A few thoughts about data journalism from the Mozfest 2015</title>
-   <link href="http://0.0.0.0:4000//2015/11/11/a-few-thoughts-from-mozfest-2015.html"/>
+   <link href="https://sbaack.github.io/2015/11/11/a-few-thoughts-from-mozfest-2015.html"/>
    <updated>2015-11-11T21:54:00+01:00</updated>
-   <id>http://0.0.0.0:4000//2015/11/11/a-few-thoughts-from-mozfest-2015</id>
+   <id>https://sbaack.github.io/2015/11/11/a-few-thoughts-from-mozfest-2015</id>
    <content type="html">&lt;p&gt;A few days ago I attended my very first &lt;a href=&quot;https://2015.mozillafestival.org/&quot;&gt;Mozfest&lt;/a&gt;. Now I understand why &lt;a href=&quot;http://digitalbydefault.com/2013/10/19/mozfest-survival-guide/&quot;&gt;survival guides&lt;/a&gt; have been written for this event. It’s so huge and busy you can easily get lost and overwhelmed! Just as I &lt;a href=&quot;/2015/10/26/daten-labor-2015.html&quot;&gt;did with the Daten Labor conference a few weeks ago&lt;/a&gt;, I want to write down some interesting observations here.&lt;/p&gt;
 &lt;h2 id=&quot;the-importance-of-programming-languages-and-computational-thinking-in-data-journalism&quot;&gt;The importance of programming languages and computational thinking in data journalism&lt;/h2&gt;
 &lt;p&gt;I talked with a lot of coding journalists and technologists working in journalism. What I found striking was the amount of self-taught programmers. For many, the journey into data journalism began with a personal interest in programming. This made me thinking: When we talk about data journalism we talk a lot about, well, data. But I never read about the importance of high-level programming languages like Python or Ruby and their frameworks and libraries to make programming relatively easy to learn and fast. It seems hard to imagine data and programming would play such a big role in journalism today without them. It also became apparent that Stack Overflow does contribute a lot to this development. Out of curiosity I asked several coding journalists: &lt;strong&gt;What would happen if Stack Overflow was suddenly gone?&lt;/strong&gt; The answers ranged from “my productivity would drop considerably” to “I don’t want to think about it”. It seems that the ubiquitous availability of data alone would not have been enough to make data journalism such a big deal. Only in combination with developments that made programming relatively easy to learn and compatible with journalistic workflows data journalism could become more widespread.&lt;/p&gt;
@@ -170,9 +170,9 @@ azavea&lt;/code&gt;&lt;/pre&gt;
  
  <entry>
    <title>Daten Labor 2015: Data journalism and science</title>
-   <link href="http://0.0.0.0:4000//2015/10/26/daten-labor-2015.html"/>
+   <link href="https://sbaack.github.io/2015/10/26/daten-labor-2015.html"/>
    <updated>2015-10-26T13:30:00+01:00</updated>
-   <id>http://0.0.0.0:4000//2015/10/26/daten-labor-2015</id>
+   <id>https://sbaack.github.io/2015/10/26/daten-labor-2015</id>
    <content type="html">&lt;p&gt;Last week I visited the &lt;a href=&quot;https://netzwerkrecherche.org/termine/konferenzen/fachkonferenzen/daten-labor15/&quot;&gt;Daten Labor conference&lt;/a&gt; in Germany, which brought together data journalists and scientists and offered workshops. It was a great opportunity to meet both established and aspiring data journalists and to get an impression of the ‘state of the art’ in Germany. It’s impossible to do justice to this conference in just one blogpost, but I’ll try to collect some interesting observations here.&lt;/p&gt;
 &lt;h2 id=&quot;data-journalists-just-want-to-be-journalists&quot;&gt;1. Data journalists just want to be journalists&lt;/h2&gt;
 &lt;p&gt;A discussion panel about how data journalism and science could profit from each other showed that scientists and data journalists have different views on what data journalism is or should be about. Some of the scientists in the panel were hoping that data journalists could help to explain the meaning and the consequences of big data technologies to the public and thereby hold Google accountable (I mention Google here because Google – and not governments – was the example used in the discussion). In other words: data journalists should be involved in what Nicholas Diakopoulos has called &lt;a href=&quot;http://towcenter.org/research/algorithmic-accountability-on-the-investigation-of-black-boxes-2/&quot;&gt;algorithmic accountability&lt;/a&gt;, the investigation of algorithms used by companies like Google or governments. This implies that data journalists and scientists should work closely together and that data journalists’ primary task is communicating the insights to the public. Recognizing that journalists and scientists work in different time scales and have different constraints, scientists should provide journalists with tools that help them to profit from scientific insights during their investigations.&lt;/p&gt;
@@ -211,9 +211,9 @@ Data journalism and programming? &lt;a href=&quot;https://twitter.com/hashtag/da
  
  <entry>
    <title>Talk about the practices of values of civic hacking at mySociety</title>
-   <link href="http://0.0.0.0:4000//2015/06/29/talk-about-the-practices-of-values-of-civic-hacking-at-mysociety.html"/>
+   <link href="https://sbaack.github.io/2015/06/29/talk-about-the-practices-of-values-of-civic-hacking-at-mysociety.html"/>
    <updated>2015-06-29T00:00:00+02:00</updated>
-   <id>http://0.0.0.0:4000//2015/06/29/talk-about-the-practices-of-values-of-civic-hacking-at-mysociety</id>
+   <id>https://sbaack.github.io/2015/06/29/talk-about-the-practices-of-values-of-civic-hacking-at-mysociety</id>
    <content type="html">&lt;p&gt;Last week I gave a talk at the great &lt;a href=&quot;https://www.sheffield.ac.uk/socstudies/datapower/programme&quot;&gt;Data Power Conference&lt;/a&gt; at the University of Sheffield which had a &lt;a href=&quot;https://www.sheffield.ac.uk/socstudies/datapower/panel-9&quot;&gt;panel dedicated to civic hacking&lt;/a&gt;. This was a great opportunity to present some findings from my ongoing case study about the practices and values of civic hacking at mySociety.&lt;/p&gt;
 &lt;p&gt;Here are the slides from the presentation:&lt;/p&gt;
 &lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/HfkiMqNeVl99zi&quot; width=&quot;425&quot; height=&quot;355&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt;
@@ -254,9 +254,9 @@ Data journalism and programming? &lt;a href=&quot;https://twitter.com/hashtag/da
  
  <entry>
    <title>#asmc14 afterthoughts: Big Data and Democracy</title>
-   <link href="http://0.0.0.0:4000//2014/07/04/asmc14-afterthoughts-big-data-and-democracy.html"/>
+   <link href="https://sbaack.github.io/2014/07/04/asmc14-afterthoughts-big-data-and-democracy.html"/>
    <updated>2014-07-04T13:05:00+02:00</updated>
-   <id>http://0.0.0.0:4000//2014/07/04/asmc14-afterthoughts-big-data-and-democracy</id>
+   <id>https://sbaack.github.io/2014/07/04/asmc14-afterthoughts-big-data-and-democracy</id>
    <content type="html">&lt;p&gt;‘Big data’ is usually conceived as a way to generate knowledge by analyzing ever larger and ‘messier’ quantities of data. The rationality behind big data is often associated with centralized control and surveillance: Grab as much (if possible: all) data there is about a phenomenon and analyze it to discover patterns and predict future behavior. Not something one would easily associate with democratic values or citizen empowerment.&lt;/p&gt;
 &lt;p&gt;However, from a historical perspective it seems that big data is the latest expression of what can be described as the “two-faced nature of quantifying society”. Porter illustrates this two-faced nature when he points out that the notion of “objectivity” is&lt;/p&gt;
 &lt;blockquote&gt;
@@ -305,9 +305,9 @@ Data journalism and programming? &lt;a href=&quot;https://twitter.com/hashtag/da
  
  <entry>
    <title>#asmc14 afterthoughts: Thinking about public social media</title>
-   <link href="http://0.0.0.0:4000//2014/06/22/asmc14-afterthoughts-thinking-about-public-social-media.html"/>
+   <link href="https://sbaack.github.io/2014/06/22/asmc14-afterthoughts-thinking-about-public-social-media.html"/>
    <updated>2014-06-22T12:56:00+02:00</updated>
-   <id>http://0.0.0.0:4000//2014/06/22/asmc14-afterthoughts-thinking-about-public-social-media</id>
+   <id>https://sbaack.github.io/2014/06/22/asmc14-afterthoughts-thinking-about-public-social-media</id>
    <content type="html">&lt;p&gt;Last week I attended the great &lt;a href=&quot;http://asca.uva.nl/events/start-events/start-events/content/folder/conferences/2014/06/social-media.html&quot;&gt;Social Media and the Transformation of Public Space conference&lt;/a&gt; in Amsterdam. It was an exhausting, but very inspiring week! Here, I want to share some of the ideas and impressions while they are still fresh. I want to start with a question that I asked twice in two different Plenary Conversations:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Why is there no discussion about ‘public’ social media (in the sense of public broadcasting)?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;I didn’t raise this question because I think it is very realistic to have public social media any time soon, or that they would be a solution to all the problems and concerns raised about social media during the conference, but because it just struck me that there is absolutely &lt;em&gt;no&lt;/em&gt; discussion about this idea.&lt;/p&gt;
