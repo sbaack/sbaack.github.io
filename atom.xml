@@ -4,7 +4,7 @@
  <title>Civic Hacking and Journalism</title>
  <link href="https://sbaack.github.io/atom.xml" rel="self"/>
  <link href="https://sbaack.github.io/"/>
- <updated>2015-11-20T12:19:17+01:00</updated>
+ <updated>2015-11-20T12:21:03+01:00</updated>
  <id>https://sbaack.github.io</id>
  <author>
    <name></name>
@@ -18,7 +18,7 @@
    <updated>2015-11-19T17:20:00+01:00</updated>
    <id>https://sbaack.github.io/2015/11/19/scraping-the-global-civic-tech-community-on-github-part-2</id>
    <content type="html">&lt;p&gt;After I shared the post about my little &lt;a href=&quot;/2015/11/17/mapping-the-civic-hacking-community.html&quot;&gt;GitHub experiment&lt;/a&gt; in &lt;a href=&quot;https://groups.google.com/a/mysociety.org/d/msg/mysociety-community/DyCFE7bk4_U/Diq9f9kqDwAJ&quot;&gt;mySociety’s community mailing list&lt;/a&gt;, it became much more &lt;a href=&quot;https://twitter.com/jwyg/status/667056707504316416&quot;&gt;popular than I anticipated&lt;/a&gt;. In the meantime, I got some help to compile &lt;a href=&quot;https://sbaack.github.io/downloads/data_github_scrape_civic-tech_2015-11-19/organizations.txt&quot;&gt;a more complete list of civic tech organizations on GitHub&lt;/a&gt; and spent all day scraping day. Will the more complete list yield different results? Let’s see!&lt;/p&gt;
-&lt;p&gt;I want to emphasize again that GitHub is an &lt;em&gt;inaccurate proxy&lt;/em&gt; to describe the global civic tech community. Individuals or groups who are not using GitHub’s social features (such as following or starring) are underrepresented in this data. Moreover, when we talk about civic tech on a global scale we are not only talking about developers. Naturally, activist groups are not using GitHub as much so they are underrepresented as well. Nevertheless, there are some interesting tendencies that this data reveals. If you’re interested, you can find my scraper &lt;a href=&quot;https://github.com/sbaack/github-scraper&quot;&gt;here&lt;/a&gt; and the data used for this post &lt;a href=&quot;https://github.com/sbaack/sbaack.github.io/tree/master/downloads&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I want to emphasize again that GitHub is an &lt;em&gt;inaccurate proxy&lt;/em&gt; to describe the global civic tech community. Individuals or groups who are not using GitHub’s social features (such as following or starring) are underrepresented in this data. Moreover, when we talk about civic tech on a global scale we are not only talking about developers. Naturally, activist groups are not using GitHub as much so they are underrepresented as well. Nevertheless, there are some interesting tendencies that this data reveals. If you’re interested, you can find my scraper &lt;a href=&quot;https://github.com/sbaack/github-scraper&quot;&gt;here&lt;/a&gt; and the data used for this post &lt;a href=&quot;https://github.com/sbaack/sbaack.github.io/tree/master/downloads/data_github_scrape_civic-tech_2015-11-19&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&quot;the-follower-network&quot;&gt;The follower network&lt;/h2&gt;
 &lt;p&gt;First, let’s recreate the follower network with the new dataset. Each node is a user; it’s color indicates the organization he or she belongs to, while the size of the nodes reflects the number of followers (the more the bigger):&lt;/p&gt;
 &lt;figure&gt;
