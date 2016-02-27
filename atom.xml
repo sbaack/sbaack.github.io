@@ -4,7 +4,7 @@
  <title>Civic Hacking and Journalism</title>
  <link href="https://sbaack.github.io/atom.xml" rel="self"/>
  <link href="https://sbaack.github.io/"/>
- <updated>2015-11-21T13:37:59+01:00</updated>
+ <updated>2016-02-27T14:26:29+01:00</updated>
  <id>https://sbaack.github.io</id>
  <author>
    <name></name>
@@ -55,7 +55,7 @@
 &lt;h2 id=&quot;the-most-popular-repositories&quot;&gt;The most popular repositories&lt;/h2&gt;
 &lt;p&gt;Let’s check GitHub’s starring feature again:&lt;/p&gt;
 &lt;figure&gt;
-&lt;img src=&quot;https://sbaack.github.io/downloads/starred-repos_2015-11-19.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;https://sbaack.github.io/downloads/starred-repos_2015-11-19.png&quot; /&gt;
 &lt;/figure&gt;
 &lt;ol type=&quot;1&quot;&gt;
 &lt;li&gt;As before, the left side lists the repositories owned by the civic tech organizations sorted by the number of stars. This means it shows which civic tech repositories are most starred among GitHub users in total, including those who are not part of any civic tech organization. Surprisingly, we have a new winner: &lt;a href=&quot;https://github.com/neo/ruby_koans&quot;&gt;Neo’s Ruby Koans&lt;/a&gt; tops &lt;a href=&quot;https://github.com/okfn/recline&quot;&gt;Recline&lt;/a&gt;. Beside that, not much has changed: the most popular civic tech repositories are a mix of data tools, tutorials, and ‘proof of concept’ exemplars of civic tech applications.&lt;/li&gt;
@@ -64,7 +64,7 @@
 &lt;h2 id=&quot;locations-and-differences-in-civic-tech-around-the-world&quot;&gt;Locations and differences in civic tech around the world&lt;/h2&gt;
 &lt;p&gt;Last but not least, I recreated the map showing the location of different civic hackers around the world. Again, GitHub allows users to specify their location in whatever way they want, if they specify their location at all. Often, only the home country or the continent is mentioned, which means that &lt;a href=&quot;http://www.mapcustomizer.com/map/civic_tech_scrape2&quot;&gt;this map&lt;/a&gt; is inaccurate but shows some general tendencies:&lt;/p&gt;
 &lt;figure&gt;
-&lt;img src=&quot;https://sbaack.github.io/downloads/locations_civic-hackers_2015-11-19.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;https://sbaack.github.io/downloads/locations_civic-hackers_2015-11-19.png&quot; /&gt;
 &lt;/figure&gt;
 &lt;p&gt;Again, not much changed. We have a few more civic hackers in Mexico, the Middle East and Asia, but my previous analysis still holds, so I just repeat it here: Despite being increasingly global, this maps shows how much civic tech is a Western phenomenon. This is reflected in the interviews I had with members of mySociety, where it was pointed out the UK websites are a “magnitude busier and perhaps more successful” than in other places (especially in Africa) because they had ten years to grow.&lt;/p&gt;
 &lt;p&gt;Given that GitHub is platform for developers, this map also seems to underline some of the other comments from my interviews about the cultural differences in civic tech around the world. The dominance of developers in Europe and the US might be due to the fact that civic tech has stronger roots in the technology scene in these areas. By contrast, civic tech in Latin America is driven more strongly by activist groups who have discovered how useful civic tech applications can be to support their cause.&lt;/p&gt;
@@ -115,7 +115,7 @@ azavea&lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&quot;the-follower-network&quot;&gt;The follower network&lt;/h2&gt;
 &lt;p&gt;I generated a follower network to see how these organizations are connected with each other and which individuals are best connected within the larger civic tech community, i.e. who has the most connections across different organizations. This is the result (with the size of the nodes reflecting how many followers a user has):&lt;/p&gt;
 &lt;figure&gt;
-&lt;img src=&quot;https://sbaack.github.io/downloads/narrow_follower_network.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;https://sbaack.github.io/downloads/narrow_follower_network.png&quot; /&gt;
 &lt;/figure&gt;
 &lt;ol type=&quot;1&quot;&gt;
 &lt;li&gt;The most striking result is the key position of &lt;a href=&quot;https://github.com/maxogden&quot;&gt;maxogden&lt;/a&gt;. One reason: He develops some of the most popular tools among civic hackers, especially &lt;a href=&quot;https://github.com/maxogden/dat&quot;&gt;dat&lt;/a&gt; (see below). Another, more simple explanation is that he makes extensive use of GitHub’s social features.&lt;/li&gt;
@@ -125,7 +125,7 @@ azavea&lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&quot;the-most-popular-repositories&quot;&gt;The most popular repositories&lt;/h2&gt;
 &lt;p&gt;To get a sense of which repositories are most popular among civic hackers, I looked at GitHub’s ‘starring’ feature:&lt;/p&gt;
 &lt;figure&gt;
-&lt;img src=&quot;https://sbaack.github.io/downloads/starred_repos.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;https://sbaack.github.io/downloads/starred_repos.png&quot; /&gt;
 &lt;/figure&gt;
 &lt;ol type=&quot;1&quot;&gt;
 &lt;li&gt;The left side lists the repositories owned by the civic tech organizations sorted by the number of stars. This means it shows which civic tech repositories are most starred among GitHub users in total, including those who are not part of any civic tech organization. Most popular by far is &lt;a href=&quot;https://github.com/okfn/recline&quot;&gt;Recline&lt;/a&gt;, a library for ‘building data applications in pure Javascript and HTML’. Ushahidi appears twice in the top 20, which indicates again that the follower network above is a bit off. In general, it’s interesting to see how the most popular civic tech repositories are a mix of data tools, tutorials, and ‘proof of concept’ exemplars of civic tech applications.&lt;/li&gt;
@@ -134,7 +134,7 @@ azavea&lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&quot;locations-and-differences-in-civic-tech-around-the-world&quot;&gt;Locations and differences in civic tech around the world&lt;/h2&gt;
 &lt;p&gt;GitHub allows users to specify their location. However, users are free to do that in whatever way they want, if they specify their location at all. Often, users just mention their home country or in some cases the continent they live on. It goes without saying that the &lt;a href=&quot;http://www.mapcustomizer.com/map/civic_tech_scrape&quot;&gt;resulting map&lt;/a&gt; is inaccurate, but good enough to show the general direction:&lt;/p&gt;
 &lt;figure&gt;
-&lt;img src=&quot;https://sbaack.github.io/downloads/locations_civic_hackers.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;https://sbaack.github.io/downloads/locations_civic_hackers.png&quot; /&gt;
 &lt;/figure&gt;
 &lt;p&gt;Despite being increasingly global, this maps shows how much civic tech is a Western phenomenon. This is reflected in the interviews I had with members of mySociety, where it was pointed out the UK websites are a “magnitude busier and perhaps more successful” than in other places (especially in Africa) because they had ten years to grow.&lt;/p&gt;
 &lt;p&gt;Given that GitHub is platform for developers, this map also seems to underline some of the other comments from my interviews about the cultural differences in civic tech around the world. The dominance of developers in Europe and the US might be due to the fact that civic tech has stronger roots in the technology scene in these areas. By contrast, civic tech in Latin America is driven more strongly by activist groups who have discovered how useful civic tech applications can be to support their cause.&lt;/p&gt;
