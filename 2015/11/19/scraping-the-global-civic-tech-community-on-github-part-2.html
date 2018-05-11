@@ -123,7 +123,7 @@
         <div class="post">
   <h1 class="post-title">Scraping the global civic tech community on GitHub, part 2</h1>
   <span class="post-date">19 Nov 2015</span>
-  <p>After I shared the post about my little <a href="/2015/11/17/mapping-the-civic-hacking-community.html">GitHub experiment</a> in <a href="https://groups.google.com/a/mysociety.org/d/msg/mysociety-community/DyCFE7bk4_U/Diq9f9kqDwAJ">mySociety’s community mailing list</a>, it became much more <a href="https://twitter.com/jwyg/status/667056707504316416">popular than I anticipated</a>. In the meantime, I got some help to compile <a href="http://localhost:4000/downloads/data_github_scrape_civic-tech_2015-11-19/organizations.txt">a more complete list of civic tech organizations on GitHub</a> and spent all day scraping. Will the more complete list yield different results? Let’s see!</p>
+  <p>After I shared the post about my little <a href="/2015/11/17/mapping-the-civic-hacking-community.html">GitHub experiment</a> in <a href="https://groups.google.com/a/mysociety.org/d/msg/mysociety-community/DyCFE7bk4_U/Diq9f9kqDwAJ">mySociety’s community mailing list</a>, it became much more <a href="https://twitter.com/jwyg/status/667056707504316416">popular than I anticipated</a>. In the meantime, I got some help to compile <a href="https://sbaack.github.io/downloads/data_github_scrape_civic-tech_2015-11-19/organizations.txt">a more complete list of civic tech organizations on GitHub</a> and spent all day scraping. Will the more complete list yield different results? Let’s see!</p>
 
 <p>I want to emphasize again that GitHub is an <em>inaccurate proxy</em> to describe the global civic tech community. Individuals or groups who are not using GitHub’s social features (such as following or starring) are underrepresented in this data. Moreover, when we talk about civic tech on a global scale we are not only talking about developers. Naturally, activist groups are not using GitHub as much so they are underrepresented as well. Nevertheless, there are some interesting tendencies that this data reveals. If you’re interested, you can find my scraper <a href="https://github.com/sbaack/github-scraper">here</a> and the data used for this post <a href="https://github.com/sbaack/sbaack.github.io/tree/master/downloads/data_github_scrape_civic-tech_2015-11-19">here</a>.</p>
 
@@ -133,7 +133,7 @@
 
 <p>First, let’s recreate the follower network with the new dataset. Each node is a user; it’s color indicates the organization he or she belongs to, while the size of the nodes reflects the number of followers (the more the bigger):</p>
 
-<p><img src="http://localhost:4000/downloads/follower-network_2015-11-19.png" alt="[Download HiRes version](http://localhost:4000/downloads/follower-network_2015-11-19.png)" /></p>
+<p><img src="https://sbaack.github.io/downloads/follower-network_2015-11-19.png" alt="[Download HiRes version](https://sbaack.github.io/downloads/follower-network_2015-11-19.png)" /></p>
 
 <p><a href="https://github.com/maxogden">maxogden</a> still has a very central position and is best connected across different continents. In my last post, I suggested that this is due to his extensive use of GitHub’s social features and because he develops one of the most popular tools among civic hackers, <a href="https://github.com/maxogden/dat">dat</a>. Meanwhile maxogden <a href="https://groups.google.com/a/mysociety.org/d/msg/mysociety-community/DyCFE7bk4_U/_rAKxaw7DwAJ">commented</a> on it in mySociety’s community mailing list:</p>
 
@@ -157,7 +157,7 @@
 
 <p>As <a href="https://groups.google.com/a/mysociety.org/d/msg/mysociety-community/DyCFE7bk4_U/7Gu9SLo3DwAJ">Zarino rightfully pointed out</a>, we might get a more realistic picture of actual community ties when we look at who contributes to repos. I suggest that we can best understand the follower network above as a proxy for <em>exchange</em> (of ideas etc.), while the contributor network is more a proxy for <em>collaboration</em>. This time the color of the edges illustrates to which organization a repo belongs, while the size of the nodes reflects how many repositories a user has contributed to (the more the bigger):</p>
 
-<p><img src="http://localhost:4000/downloads/contributor-network_2015-11-19.png" alt="[Download HiRes version](http://localhost:4000/downloads/contributor-network_2015-11-19.png)" /></p>
+<p><img src="https://sbaack.github.io/downloads/contributor-network_2015-11-19.png" alt="[Download HiRes version](https://sbaack.github.io/downloads/contributor-network_2015-11-19.png)" /></p>
 
 <p>This network is a lot busier. I should point out that I had to filter out nodes with a low degree range to allow the remaining nodes to group up nicely. This means, to be precise, that every user who has contributed to less than five repos is filtered out.</p>
 
@@ -175,7 +175,7 @@
 
 <p>Let’s check GitHub’s starring feature again:</p>
 
-<p><img src="http://localhost:4000/downloads/starred-repos_2015-11-19.png" alt="" /></p>
+<p><img src="https://sbaack.github.io/downloads/starred-repos_2015-11-19.png" alt="" /></p>
 
 <ol>
   <li>As before, the left side lists the repositories owned by the civic tech organizations sorted by the number of stars. This means it shows which civic tech repositories are most starred among GitHub users in total, including those who are not part of any civic tech organization. Surprisingly, we have a new winner: <a href="https://github.com/neo/ruby_koans">Neo’s Ruby Koans</a> tops <a href="https://github.com/okfn/recline">Recline</a>. Beside that, not much has changed: the most popular civic tech repositories are a mix of data tools, tutorials, and ‘proof of concept’ exemplars of civic tech applications.</li>
@@ -186,7 +186,7 @@
 
 <p>Last but not least, I recreated the map showing the location of different civic hackers around the world. Again, GitHub allows users to specify their location in whatever way they want, if they specify their location at all. Often, only the home country or the continent is mentioned, which means that <a href="http://www.mapcustomizer.com/map/civic_tech_scrape2">this map</a> is inaccurate but shows some general tendencies:</p>
 
-<p><img src="http://localhost:4000/downloads/locations_civic-hackers_2015-11-19.png" alt="" /></p>
+<p><img src="https://sbaack.github.io/downloads/locations_civic-hackers_2015-11-19.png" alt="" /></p>
 
 <p>Again, not much changed. We have a few more civic hackers in Mexico, the Middle East and Asia, but my previous analysis still holds, so I just repeat it here: Despite being increasingly global, this maps shows how much civic tech is a Western phenomenon. This is reflected in the interviews I had with members of mySociety, where it was pointed out the UK websites are a “magnitude busier and perhaps more successful” than in other places (especially in Africa) because they had ten years to grow.</p>
 
