@@ -1,1 +1,0 @@
-This is the generated version of my personal blog using a modified version of https://github.com/poole/lanyon.

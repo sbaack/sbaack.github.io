@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns# fb: https://www.facebook.com/2008/fbml">
+<head>
+    <title>"(Outdated) Mapping the civic tech community on GitHub" - Stefan Baack</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+<link rel="canonical" href="http://sbaack.com/blog/outdated-mapping-the-civic-tech-community-on-github.html">
+
+        <meta name="author" content="Stefan Baack" />
+        <meta name="description" content="Check updated version here How can we describe the global civic tech community? To date, it’s pretty hard to find answers to this question given that there is not even a consensus on how to define civic tech. However, there are some interesting proxies to explore this community. One …" />
+
+        <meta property="og:site_name" content="Stefan Baack" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="&#34;(Outdated) Mapping the civic tech community on GitHub&#34;"/>
+        <meta property="og:url" content="http://sbaack.com/blog/outdated-mapping-the-civic-tech-community-on-github.html"/>
+        <meta property="og:description" content="Check updated version here How can we describe the global civic tech community? To date, it’s pretty hard to find answers to this question given that there is not even a consensus on how to define civic tech. However, there are some interesting proxies to explore this community. One …"/>
+        <meta property="article:published_time" content="2015-11-17" />
+            <meta property="article:section" content="Blog" />
+            <meta property="article:author" content="Stefan Baack" />
+
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="http://sbaack.com/theme/css/bootstrap.paper.min.css" type="text/css"/>
+    <link href="http://sbaack.com/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="http://sbaack.com/theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="http://sbaack.com/theme/css/style.css" type="text/css"/>
+        <link href="http://sbaack.com/static/custom.css" rel="stylesheet">
+
+
+
+
+
+</head>
+<body>
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="http://sbaack.com/" class="navbar-brand">
+Stefan Baack            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                         <li><a href="http://sbaack.com/pages/contact.html">
+                             Contact
+                          </a></li>
+                         <li><a href="http://sbaack.com/pages/publications.html">
+                             Publications
+                          </a></li>
+                        <li class="active">
+                            <a href="http://sbaack.com/category/blog.html">Blog</a>
+                        </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="http://sbaack.com/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+
+<!-- Banner -->
+<!-- End Banner -->
+
+<!-- Content Container -->
+<div class="container">
+    <div class="row">
+        <div class="col-sm-9">
+    <section id="content">
+        <article>
+            <header class="page-header">
+                <h1>
+                    <a href="http://sbaack.com/blog/outdated-mapping-the-civic-tech-community-on-github.html"
+                       rel="bookmark"
+                       title="Permalink to "(Outdated) Mapping the civic tech community on GitHub"">
+                        "(Outdated) Mapping the civic tech community on GitHub"
+                    </a>
+                </h1>
+            </header>
+            <div class="entry-content">
+                <div class="panel">
+                    <div class="panel-body">
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2015-11-17T15:05:00+01:00"> 2015-11-17</time>
+    </span>
+
+
+
+
+
+    
+</footer><!-- /.post-info -->                    </div>
+                </div>
+                <p><strong>Check updated version <a href="scraping-the-global-civic-tech-community-on-github-part-2">here</a></strong></p>
+<p>How can we describe the global civic tech community? To date, it’s pretty hard to find answers to this question given that there is not even a consensus <a href="https://www.mysociety.org/2014/09/08/civic-tech-has-won-the-name-game-but-what-does-it-mean/">on how to define civic tech</a>. However, there are some interesting proxies to explore this community. One of them is <a href="https://github.com/">GitHub</a> as most civic tech projects and developers are using it. Another one is the <a href="http://poplus.org/">Poplus community</a>, which is a deliberate attempt to create a ‘global federation for civic tech’.</p>
+<p>I took <a href="https://www.google.com/maps/d/u/0/edit?mid=zIRpJTfhUk3U.kz3_0IC6HoQ4">this list</a> of Poplus members and added a few organizations which were mentioned in the interviews I had with members of <a href="https://www.mysociety.org/">mySociety</a>. Then I searched each organization on GitHub and ended up with this list of accounts:</p>
+<pre><code>mysociety
+poplus
+everypolitician
+sinar
+opennorth
+okfn
+codeforamerica
+Code-for-All
+okfde
+openaustralia
+ushahidi
+sunlightlabs
+datauy
+congresointeractivo
+ciudadanointeligente
+govtrack
+MuckRock
+g0v
+civio
+openkratio
+KohoVolit
+regardscitoyens
+teampopong
+openpolis
+TEDICpy
+e-democracy
+azavea</code></pre>
+<p>I then wrote a <a href="https://github.com/sbaack/github-scraper">GitHub scraper</a> to gather some information about the activities of the members of these organizations. I should note directly that GitHub is just an <em>inaccurate proxy</em> to describe this community. To illustrate this with a very specific example, I talked with <a href="https://github.com/mhl">Mark Longair</a> who is a senior developer at mySociety. He has worked on many projects over the years and is an active member of the Poplus community – but this is poorly reflected in my data because he is not making much use of GitHub’s social features such as following other users or starring repositories. Therefore, these findings should be met with skepticism. Nevertheless, I think a few interesting tendencies surfaced.</p>
+<h2 id="the-follower-network">The follower network</h2>
+<p>I generated a follower network to see how these organizations are connected with each other and which individuals are best connected within the larger civic tech community, i.e. who has the most connections across different organizations. This is the result (with the size of the nodes reflecting how many followers a user has):</p>
+<p><img src="/images/narrow_follower_network.png" /></p>
+<ol type="1">
+<li>The most striking result is the key position of <a href="https://github.com/maxogden">maxogden</a>. One reason: He develops some of the most popular tools among civic hackers, especially <a href="https://github.com/maxogden/dat">dat</a> (see below). Another, more simple explanation is that he makes extensive use of GitHub’s social features.</li>
+<li>It’s interesting to see how the different organizations group up by regions. In the upper right we have Asian groups, especially <a href="https://github.com/g0v">g0v</a> (green). At the bottom is the US with <a href="https://github.com/codeforamerica">Code for America</a> (red) being the dominant actor. Most interestingly, at the upper left we have a mix of mostly European and Latin American groups, but also some groups from Canada or Australia. This might be unsurprising considering that the Poplus federation was founded by mySociety from the UK and <a href="http://en.ciudadanointeligente.org/">Ciudadano Inteligente</a> from Chile. Still, it’s curious that European and Latin American groups seem so well connected, while North American and Asian groups are relatively separate (with the exception of maxogden, who is well connected to every continent).</li>
+<li>At the far left is the African NGO <a href="https://github.com/ushahidi">Ushahidi</a>, which only has a few connections to European groups. I would have expected them to be better connected. Maybe this is due to GitHub being an inaccurate proxy to illustrate these larger structures.</li>
+</ol>
+<h2 id="the-most-popular-repositories">The most popular repositories</h2>
+<p>To get a sense of which repositories are most popular among civic hackers, I looked at GitHub’s ‘starring’ feature:</p>
+<p><img src="/images/starred_repos.png" /></p>
+<ol type="1">
+<li>The left side lists the repositories owned by the civic tech organizations sorted by the number of stars. This means it shows which civic tech repositories are most starred among GitHub users in total, including those who are not part of any civic tech organization. Most popular by far is <a href="https://github.com/okfn/recline">Recline</a>, a library for ‘building data applications in pure Javascript and HTML’. Ushahidi appears twice in the top 20, which indicates again that the follower network above is a bit off. In general, it’s interesting to see how the most popular civic tech repositories are a mix of data tools, tutorials, and ‘proof of concept’ exemplars of civic tech applications.</li>
+<li>The right side shows the repositories which have been starred by the members of the civic tech organizations listed above, regardless of whether the starred repositories are own by civic tech organizations or not. A bit surprisingly, there are <em>no</em> civic tech repositories in the top 20. Beside that, the results are pretty much what one would expect: Tools to help developing websites and working with data. The popularity of <a href="https://github.com/impress/impress.js">impress.js</a> and <a href="https://github.com/hakimel/reveal.js">reveal.js</a> indicates that presenting at conferences or workshops about ideas and experiences is very common. I suggest that is also an expression of civic tech being a relatively new field with a lot of experimentation. What I could not figure out is the popularity of <a href="https://github.com/discourse/discourse">Discourse</a>, an open source discussion platform.</li>
+</ol>
+<h2 id="locations-and-differences-in-civic-tech-around-the-world">Locations and differences in civic tech around the world</h2>
+<p>GitHub allows users to specify their location. However, users are free to do that in whatever way they want, if they specify their location at all. Often, users just mention their home country or in some cases the continent they live on. It goes without saying that the <a href="http://www.mapcustomizer.com/map/civic_tech_scrape">resulting map</a> is inaccurate, but good enough to show the general direction:</p>
+<p><img src="/images/locations_civic_hackers.png" /></p>
+<p>Despite being increasingly global, this maps shows how much civic tech is a Western phenomenon. This is reflected in the interviews I had with members of mySociety, where it was pointed out the UK websites are a “magnitude busier and perhaps more successful” than in other places (especially in Africa) because they had ten years to grow.</p>
+<p>Given that GitHub is platform for developers, this map also seems to underline some of the other comments from my interviews about the cultural differences in civic tech around the world. The dominance of developers in Europe and the US might be due to the fact that civic tech has stronger roots in the technology scene in these areas. By contrast, civic tech in Latin America is driven more strongly by activist groups who have discovered how useful civic tech applications can be to support their cause.</p>
+
+            </div>
+            <!-- /.entry-content -->
+        </article>
+    </section>
+
+        </div>
+        <div class="col-sm-3" id="sidebar">
+            <aside>
+<!-- Sidebar -->
+<section class="well well-sm">
+  <ul class="list-group list-group-flush">
+
+<!-- Sidebar/Links -->
+<li class="list-group-item">
+  <h4><i class="fa fa-external-link-square fa-lg"></i><span class="icon-label">Links</span></h4>
+  <ul class="list-group" id="links">
+    <li class="list-group-item">
+      <a href="https://twitter.com/tweetbaack" target="_blank">Twitter</a>
+    </li>
+    <li class="list-group-item">
+      <a href="https://www.researchgate.net/profile/Stefan_Baack" target="_blank">Researchgate</a>
+    </li>
+    <li class="list-group-item">
+      <a href="https://de.linkedin.com/in/stefanbaack" target="_blank">LinkedIn</a>
+    </li>
+    <li class="list-group-item">
+      <a href="https://github.com/sbaack" target="_blank">GitHub</a>
+    </li>
+    <li class="list-group-item">
+      <a href="https://medium.com/@sbaack" target="_blank">Medium</a>
+    </li>
+    <li class="list-group-item">
+      <a href="/atom.xml" target="_blank">RSS</a>
+    </li>
+  </ul>
+</li>
+<!-- End Sidebar/Links -->
+  </ul>
+</section>
+<!-- End Sidebar -->            </aside>
+        </div>
+    </div>
+</div>
+<!-- End Content Container -->
+
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2015 Stefan Baack
+            &middot; Powered by <a href="https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+   </div>
+</footer>
+<script src="http://sbaack.com/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="http://sbaack.com/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="http://sbaack.com/theme/js/respond.min.js"></script>
+
+
+
+
+</body>
+</html>
