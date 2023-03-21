@@ -1,0 +1,657 @@
+organization,login,name,url,type,company,blog,location
+mysociety,alexjs,Alex Smith,https://api.github.com/users/alexjs,User,None,http://alexsmith.org,Singapore
+mysociety,BenJam,Benjamin Nickolls,https://api.github.com/users/BenJam,User,mySociety,mysociety.org,Bath
+mysociety,chrismytton,Chris Mytton,https://api.github.com/users/chrismytton,User,mySociety.org,https://www.chrismytton.uk/,"Bristol, UK"
+mysociety,crowbot,Louise Crow,https://api.github.com/users/crowbot,User,mySociety,www.louisecrow.com,London
+mysociety,davea,Dave Arter,https://api.github.com/users/davea,User,mySociety,,"South Wales, UK"
+mysociety,davewhiteland,Dave Whiteland,https://api.github.com/users/davewhiteland,User,mySociety,,None
+mysociety,dracos,M Somerville,https://api.github.com/users/dracos,User,mySociety,http://www.dracos.co.uk/,UK
+mysociety,duncanparkes,Duncan Parkes,https://api.github.com/users/duncanparkes,User,mySociety,,"Lampeter, Wales"
+mysociety,garethrees,Gareth Rees,https://api.github.com/users/garethrees,User,mySociety,http://garethrees.co.uk,"Cardiff, Wales UK"
+mysociety,jacksonj04,Nick Jackson,https://api.github.com/users/jacksonj04,User,mySociety,http://nickjackson.me,"Leeds, UK"
+mysociety,JenMysoc,Jen Bramley,https://api.github.com/users/JenMysoc,User,mySociety,www.mysociety.org,London
+mysociety,lizconlan,Liz Conlan,https://api.github.com/users/lizconlan,User,None,,London
+mysociety,markcridge,Mark Cridge,https://api.github.com/users/markcridge,User,None,,London
+mysociety,mhl,Mark Longair,https://api.github.com/users/mhl,User,None,http://longair.net/mark/,London
+mysociety,MyfanwyNixon,None,https://api.github.com/users/MyfanwyNixon,User,mySociety,,Brighton
+mysociety,paullenz,None,https://api.github.com/users/paullenz,User,None,,None
+mysociety,stevenday,Steven Day,https://api.github.com/users/stevenday,User,None,,"Exeter, UK"
+mysociety,struan,Struan Donald,https://api.github.com/users/struan,User,mySociety,http://exo.org.uk/blah/,UK
+mysociety,tmtmtmtm,Tony Bowden,https://api.github.com/users/tmtmtmtm,User,None,http://discomposer.com/,"Tallinn, Estonia"
+mysociety,wrightmartin,Martin Wright,https://api.github.com/users/wrightmartin,User,mySociety,http://mynameismartin.com,UK
+mysociety,zarino,Zarino Zappia,https://api.github.com/users/zarino,User,None,http://zarino.co.uk,"Liverpool, UK"
+poplus,jdgarrido,ジョセフ·ダミアン·ガリード,https://api.github.com/users/jdgarrido,User,None,,"Santiago, Chile"
+poplus,jpmckinney,James McKinney,https://api.github.com/users/jpmckinney,User,None,https://twitter.com/mckinneyjames,"Montreal, Quebec"
+poplus,mlandauer,Matthew Landauer,https://api.github.com/users/mlandauer,User,None,,"Sydney, Australia"
+poplus,rezzo,J. Pablo Pérez Trabucco,https://api.github.com/users/rezzo,User,Fundación Ciudadano Inteligente,,"Santiago, Chile"
+poplus,tmtmtmtm,Tony Bowden,https://api.github.com/users/tmtmtmtm,User,None,http://discomposer.com/,"Tallinn, Estonia"
+everypolitician,chrismytton,Chris Mytton,https://api.github.com/users/chrismytton,User,mySociety.org,https://www.chrismytton.uk/,"Bristol, UK"
+everypolitician,tmtmtmtm,Tony Bowden,https://api.github.com/users/tmtmtmtm,User,None,http://discomposer.com/,"Tallinn, Estonia"
+everypolitician,zarino,Zarino Zappia,https://api.github.com/users/zarino,User,None,http://zarino.co.uk,"Liverpool, UK"
+sinar,Hazwany,Hazwany,https://api.github.com/users/Hazwany,User,Sinar Project,http://sinarproject.org,Malaysia
+sinar,kaerumy,Khairil Yusof,https://api.github.com/users/kaerumy,User,Sinar Project,http://sinarproject.org,Malaysia
+sinar,klrkdekira,Chee Leong,https://api.github.com/users/klrkdekira,User,None,,Kuala Lumpur
+sinar,sausheong,Sau Sheong Chang,https://api.github.com/users/sausheong,User,PayPal,http://blog.saush.com,Singapore
+sinar,sweemeng,sweemeng,https://api.github.com/users/sweemeng,User,None,http://www.nomadiccodemonkey.com/,kuala lumpur
+sinar,sybreon,Shawn Tan,https://api.github.com/users/sybreon,User,Aeste Works (M) Sdn Bhd,http://www.aeste.my,"Kuala Lumpur, Malaysia"
+opennorth,Hoedic,Stéphane Guidoin,https://api.github.com/users/Hoedic,User,Open North,http://dataholic.ca,Montréal
+opennorth,jpmckinney,James McKinney,https://api.github.com/users/jpmckinney,User,None,https://twitter.com/mckinneyjames,"Montreal, Quebec"
+opennorth,rhymeswithcycle,Michael Mulley,https://api.github.com/users/rhymeswithcycle,User,None,http://michaelmulley.com/,Montreal
+okfn,aaronbassett,Aaron Bassett,https://api.github.com/users/aaronbassett,User,None,http://aaronbassett.com,"Glasgow, Scotland"
+okfn,aliounedia,aliounedia,https://api.github.com/users/aliounedia,User,None,http://github.com/aliounedia,Senegal
+okfn,amercader,Adrià Mercader,https://api.github.com/users/amercader,User,Open Knowledge,http://amercader.net,"Newcastle upon Tyne, UK"
+okfn,aron,Aron Carroll,https://api.github.com/users/aron,User,None,http://aroncarroll.com,"Berlin, Germany"
+okfn,brew,Brook Elgie,https://api.github.com/users/brew,User,Open Knowledge,http://brookelgie.com,"New Forest, Hampshire, UK"
+okfn,davidmiller,David Miller,https://api.github.com/users/davidmiller,User,None,deadpansincerity.com,None
+okfn,davidread,David Read,https://api.github.com/users/davidread,User,None,,UK
+okfn,ddie,Daniel Dietrich,https://api.github.com/users/ddie,User,Open Knowledge Foundation,http://ddie.me,Berlin
+okfn,dgraziotin,Daniel Graziotin,https://api.github.com/users/dgraziotin,User,None,ineed.coffee,"Bolzano, IT"
+okfn,edchamberlain,Ed Chamberlain,https://api.github.com/users/edchamberlain,User,Cambridge University Library,edchamberlain.wordpress.com,Cambridge
+okfn,everton137,Tom,https://api.github.com/users/everton137,User,None,,"Sao Paulo, Brazil"
+okfn,Feng-Gao,Feng Gao,https://api.github.com/users/Feng-Gao,User,None,http://fenggao.me,"Shanghai,China"
+okfn,flowma,Florian Marienfeld,https://api.github.com/users/flowma,User,None,,Berlin
+okfn,fontanon,J. Félix Ontañón,https://api.github.com/users/fontanon,User,Podsystem Ltd.,http://fontanon.org/nosigasleyendo,Sevilla
+okfn,FrancoisDupayrat,François Dupayrat,https://api.github.com/users/FrancoisDupayrat,User,None,,France
+okfn,gka,Gregor Aisch,https://api.github.com/users/gka,User,The New York Times,http://driven-by-data.net,Brooklyn
+okfn,guoxu,None,https://api.github.com/users/guoxu,User,None,,None
+okfn,hlainchb,Herb Lainchbury,https://api.github.com/users/hlainchb,User,Dynamic Solutions Inc.,www.dynamic-solutions.com,"Victoria, BC"
+okfn,jamescasbon,James Casbon,https://api.github.com/users/jamescasbon,User,None,http://casbon.me/,"Cambridge, UK"
+okfn,jamiefolsom,Jamie Folsom,https://api.github.com/users/jamiefolsom,User,"MIT ODL Engineering, MIT Hyperstudio emeritus, Hofstra DRC, Gilead Brook Web Consulting LLC",http://jamiefolsom.com,Boston MA
+okfn,jcmolloy,Jenny Molloy,https://api.github.com/users/jcmolloy,User,None,,None
+okfn,jgkim,James G. Kim,https://api.github.com/users/jgkim,User,Tipplr,http://jayg.org/,"Seoul, Korea"
+okfn,joetsoi,Joe Tsoi,https://api.github.com/users/joetsoi,User,None,http://leastsignificant.blogspot.co.uk/,London
+okfn,jpmckinney,James McKinney,https://api.github.com/users/jpmckinney,User,None,https://twitter.com/mckinneyjames,"Montreal, Quebec"
+okfn,juliakloiber,Julia Kloiber,https://api.github.com/users/juliakloiber,User,None,,None
+okfn,jwyg,Jonathan Gray,https://api.github.com/users/jwyg,User,Open Knowledge Foundation,http://jonathangray.org/,Europe
+okfn,lucychambers,Lucy Chambers,https://api.github.com/users/lucychambers,User,None,http://techtohuman.com/,Berlin
+okfn,marians,Marian Steinbach,https://api.github.com/users/marians,User,Giant Swarm,https://twitter.com/MarianSteinbach,"Cologne, Germany"
+okfn,markbrough,None,https://api.github.com/users/markbrough,User,None,,Berlin
+okfn,markmacgillivray,None,https://api.github.com/users/markmacgillivray,User,None,,None
+okfn,maxious,Alexander Sadleir,https://api.github.com/users/maxious,User,LambdaComplex.org,http://maxious.lambdacomplex.org,"Canberra, Australia"
+okfn,maxogden,Err:501,https://api.github.com/users/maxogden,User,recruiters: dont email me,http://maxogden.com,None
+okfn,Mibou,Nicolas Pieuchot,https://api.github.com/users/Mibou,User,Zéro-Gâchis,https://zero-gachis.com,"Naoned, Breizh"
+okfn,mihi-tr,Michael Bauer,https://api.github.com/users/mihi-tr,User,None,,None
+okfn,mk270,Martin Keegan,https://api.github.com/users/mk270,User,None,http://mk.ucant.org/,None
+okfn,napo,Maurizio Napolitano,https://api.github.com/users/napo,User,FBK,http://de.straba.us,"Trento, Italy"
+okfn,nickstenning,Nick Stenning,https://api.github.com/users/nickstenning,User,None,https://whiteink.com,None
+okfn,nigelbabu,Nigel Babu,https://api.github.com/users/nigelbabu,User,Open Knowledge,http://nigelb.me,India
+okfn,noelmas,None,https://api.github.com/users/noelmas,User,None,,None
+okfn,peterdesmet,Peter Desmet,https://api.github.com/users/peterdesmet,User,INBO & Datafable,http://peterdesmet.com,"Ghent, Belgium"
+okfn,PhilippePlagnol,Philippe Plagnol,https://api.github.com/users/PhilippePlagnol,User,Natixis - Business Intelligence,http://product.okfn.org,Hong Kong
+okfn,pietercolpaert,Pieter Colpaert,https://api.github.com/users/pietercolpaert,User,"iMinds, Ghent University, MMLab, Open Knowledge Belgium",http://pieter.pm,"Gent, Belgium"
+okfn,pirhoo,Pierre Romera,https://api.github.com/users/pirhoo,User,Journalism++,http://www.pirhoo.com,Paris
+okfn,pudo,Friedrich Lindenberg,https://api.github.com/users/pudo,User,None,http://pudo.org,Berlin
+okfn,pwalsh,Paul Walsh,https://api.github.com/users/pwalsh,User,None,http://pwalsh.me/,Tel Aviv
+okfn,rgrp,Rufus Pollock,https://api.github.com/users/rgrp,User,Open Knowledge Foundation <http://okfn.org/>,http://rufuspollock.org/,None
+okfn,roll,roll,https://api.github.com/users/roll,User,Respect31,,"Moscow, Russia"
+okfn,smth,Sam Smith,https://api.github.com/users/smth,User,None,http://smth.uk,None
+okfn,stefanw,Stefan Wehrmeyer,https://api.github.com/users/stefanw,User,None,http://stefanwehrmeyer.com,"Berlin, Germany"
+okfn,stevenlivz,Steven Livingstone-Perez,https://api.github.com/users/stevenlivz,User,Paramount Ventures,http://livz.org,None
+okfn,teleyinex,Daniel Lombraña González,https://api.github.com/users/teleyinex,User,Crowdcrafting and PyBossa,http://daniellombrana.es,"Madrid, Spain"
+okfn,tilgovi,Randall Leeds,https://api.github.com/users/tilgovi,User,None,http://randall.bleeds.info/,"Oakland, CA"
+okfn,trickvi,Trickvi B10n,https://api.github.com/users/trickvi,User,Hagstofa Íslands,,Iceland
+okfn,yaoe,None,https://api.github.com/users/yaoe,User,None,,None
+okfn,zephod,Tom Rees,https://api.github.com/users/zephod,User,DataPress,http://datapress.io,"London, England"
+codeforamerica,aashishmittal,Aashish Mittal,https://api.github.com/users/aashishmittal,User,None,,None
+codeforamerica,ahhrrr,Ezra Spier,https://api.github.com/users/ahhrrr,User,None,http://ahhrrr.com,"Oakland, California"
+codeforamerica,alexpandel,Alex Pandel,https://api.github.com/users/alexpandel,User,18F,http://www.alexpandel.com/,"SF, CA"
+codeforamerica,amirbey,None,https://api.github.com/users/amirbey,User,None,,"Oakland, CA"
+codeforamerica,angel,Angel Kittiyachavalit,https://api.github.com/users/angel,User,Code for America,http://angellov.es,"San Francisco, CA"
+codeforamerica,anselmbradford,Ans,https://api.github.com/users/anselmbradford,User,Consumer Financial Protection Bureau,http://twitter.com/anselmbradford,New England
+codeforamerica,arouault,None,https://api.github.com/users/arouault,User,None,,None
+codeforamerica,atogle,Aaron Ogle,https://api.github.com/users/atogle,User,City of Philadelphia,http://twitter.com/atogle,"Philadelphia, PA"
+codeforamerica,avbloom,None,https://api.github.com/users/avbloom,User,None,,None
+codeforamerica,baileyspace,Bailey Smith,https://api.github.com/users/baileyspace,User,University of California- Berkeley,https://audiosear.ch,"Oakland, California"
+codeforamerica,beaugunderson,Beau Gunderson,https://api.github.com/users/beaugunderson,User,None,https://beaugunderson.com/,"Seattle, WA"
+codeforamerica,bensheldon,Ben Sheldon,https://api.github.com/users/bensheldon,User,None,http://island94.org,"San Francisco, CA"
+codeforamerica,blakeshall,Blake Hall,https://api.github.com/users/blakeshall,User,None,http://www.blakeshall.github.com,"San Francisco, CA"
+codeforamerica,boundsj,Jesse Bounds,https://api.github.com/users/boundsj,User,None,http://rebounds.net,San Francisco
+codeforamerica,bsmithgall,Ben Smithgall,https://api.github.com/users/bsmithgall,User,Code for America,,None
+codeforamerica,cdjeremy,None,https://api.github.com/users/cdjeremy,User,None,,None
+codeforamerica,chachasikes,Chach Sikes,https://api.github.com/users/chachasikes,User,None,http://www.chachaville.com,Bay Area
+codeforamerica,ctbarna,Chris Barna,https://api.github.com/users/ctbarna,User,None,,"Silicon Valley, CA"
+codeforamerica,dianavtran,Diana Tran,https://api.github.com/users/dianavtran,User,None,www.dianatran.com,"San Francisco, CA"
+codeforamerica,drewda,Drew Dara-Abrams,https://api.github.com/users/drewda,User,None,http://drew.dara-abrams.com/,California
+codeforamerica,eddietejeda,Eddie A Tejeda,https://api.github.com/users/eddietejeda,User,None,http://eddietejeda.com,None
+codeforamerica,eeeschwartz,Erik Schwartz,https://api.github.com/users/eeeschwartz,User,Code for America,http://erikschwartz.net,San Francisco/Lexington/Nomad
+codeforamerica,emilyville,emilyville,https://api.github.com/users/emilyville,User,Digital Service at Veterans Affairs,http://www.emilyville.com,San Francisco
+codeforamerica,englishmace,Macey,https://api.github.com/users/englishmace,User,None,,"Mountain View, CA"
+codeforamerica,ErikVictory,None,https://api.github.com/users/ErikVictory,User,None,,None
+codeforamerica,ezoehunt,Elizabeth Hunt,https://api.github.com/users/ezoehunt,User,Mozilla,ezoehunt.com,"San Francisco, California"
+codeforamerica,gangleton,Serena Wales,https://api.github.com/users/gangleton,User,GovDelivery,,"San Francisco, CA/ New York, NY"
+codeforamerica,geeosh,Josh Schwartzman,https://api.github.com/users/geeosh,User,Newzwag,,San Francisco
+codeforamerica,gov20cto,Javier Muniz,https://api.github.com/users/gov20cto,User,"Granicus, Inc.",www.granicus.com,"San Francisco, CA"
+codeforamerica,greggersh,Greg Gershman,https://api.github.com/users/greggersh,User,Ad Hoc LLC,http://www.linkedin.com/in/greggershman,"Washington, DC"
+codeforamerica,hale,Philip Hale,https://api.github.com/users/hale,User,PG Hale Ltd.,http://www.pghale.com,"51.14268, -2.65182"
+codeforamerica,hamhands,Patrick Hammons,https://api.github.com/users/hamhands,User,None,http://hamhanded.ly,"Philadelphia, PA"
+codeforamerica,hampelm,Matt Hampel,https://api.github.com/users/hampelm,User,LocalData,http://matth.org,"Brooklyn, NY"
+codeforamerica,homeyer,Andrew Homeyer,https://api.github.com/users/homeyer,User,None,,"Boulder, CO"
+codeforamerica,invisiblefunnel,Danny Whalen,https://api.github.com/users/invisiblefunnel,User,Remix,http://getremix.com,"San Francisco, CA"
+codeforamerica,jackowaya,Alan Jackoway,https://api.github.com/users/jackowaya,User,None,,None
+codeforamerica,jackowayed,Daniel Jackoway,https://api.github.com/users/jackowayed,User,None,danieljackoway.com,"Stanford, CA"
+codeforamerica,jasonody,Jason Ody,https://api.github.com/users/jasonody,User,None,http://blog.theodybrothers.com/,"Sacramento, CA"
+codeforamerica,jcody,Joey Cody,https://api.github.com/users/jcody,User,HotelTonight,joeycody.com,"San Francisco, CA"
+codeforamerica,jerseycoder,None,https://api.github.com/users/jerseycoder,User,None,http://www.codeforamerica.org,None
+codeforamerica,jimcraner,Jim Craner,https://api.github.com/users/jimcraner,User,None,http://jimcraner.com,USA
+codeforamerica,jlord,Jessica Lord,https://api.github.com/users/jlord,User,GitHub,https://jlord.github.io,"Portland, Ore"
+codeforamerica,jmadans,Jack Madans,https://api.github.com/users/jmadans,User,Code for America,,Oakland
+codeforamerica,joelmahoney,Joel Mahoney,https://api.github.com/users/joelmahoney,User,Code for America,http://twitter.com/joelmahoney,"San Francisco, CA"
+codeforamerica,joemerante,Joe Merante,https://api.github.com/users/joemerante,User,None,http://www.joemerante.com/projects,None
+codeforamerica,johnfn,Grant Mathews,https://api.github.com/users/johnfn,User,None,,None
+codeforamerica,justinstoller,Justin Stoller,https://api.github.com/users/justinstoller,User,None,,None
+codeforamerica,kieftrav,None,https://api.github.com/users/kieftrav,User,None,,None
+codeforamerica,kmacedo,Karla Macedo,https://api.github.com/users/kmacedo,User,FABERNOVEL,twitter.com/#!/KMimagine,United States
+codeforamerica,kmcurry,Kevin Curry,https://api.github.com/users/kmcurry,User,3Scape,http://3Scape.me,"Virginia Beach, Virginia"
+codeforamerica,linh8u,Linh Vuong,https://api.github.com/users/linh8u,User,"University of California, Berkeley",http://www.about.me/linhvuong,"Berkeley, CA"
+codeforamerica,louh,Lou Huang,https://api.github.com/users/louh,User,Mapzen,http://louhuang.com,"Brooklyn, NY"
+codeforamerica,lovehandle,RON VRON CLAWS,https://api.github.com/users/lovehandle,User,Kickstarter,,"Brooklyn, NY"
+codeforamerica,luigi,Luigi Montanez,https://api.github.com/users/luigi,User,Upworthy,http://luigimontanez.com,"Atlanta, GA"
+codeforamerica,mapmeld,Nick Doiron,https://api.github.com/users/mapmeld,User,The Asia Foundation,http://mapmeld.com,"San Francisco, CA"
+codeforamerica,mapsam,Sam Matthews,https://api.github.com/users/mapsam,User,Code for America,http://mapsam.com,Seattle - San Francisco
+codeforamerica,mattCFA,Matt Lewis,https://api.github.com/users/mattCFA,User,None,,None
+codeforamerica,maxogden,Err:501,https://api.github.com/users/maxogden,User,recruiters: dont email me,http://maxogden.com,None
+codeforamerica,mertonium,John Mertens,https://api.github.com/users/mertonium,User,Versa,http://www.mertonium.com,"SF, CA"
+codeforamerica,michaelcurry,Michael Curry,https://api.github.com/users/michaelcurry,User,None,,"San Francisco, CA"
+codeforamerica,mick,Mick Thompson,https://api.github.com/users/mick,User,Mapbox,http://mick.im,"San Francisco, CA"
+codeforamerica,mishmosh,Michelle Lee,https://api.github.com/users/mishmosh,User,Code for America,http://mishmosh.org,"San Francisco, CA"
+codeforamerica,mjumbewu,Mjumbe Poe,https://api.github.com/users/mjumbewu,User,None,flavors.me/mjumbewu,"Philadelphia, PA"
+codeforamerica,mlevans,Michael Lawrence Evans,https://api.github.com/users/mlevans,User,Mayor's Office of New Urban Mechanics,http://twitter.com/EvansML,"Boston, MA"
+codeforamerica,monfresh,Moncef Belyamani,https://api.github.com/users/monfresh,User,18F,http://www.moncefbelyamani.com,"Washington, D.C."
+codeforamerica,Mr0grog,Rob Brackett,https://api.github.com/users/Mr0grog,User,None,robbrackett.com,None
+codeforamerica,nolastan,Stan,https://api.github.com/users/nolastan,User,None,http://dribbble.com/stanford,"Oakland, CA"
+codeforamerica,noneck,Noel Hidalgo,https://api.github.com/users/noneck,User,betaNYC,http://noneck.org,"New York, NY"
+codeforamerica,nouyang,Nancy Ouyang,https://api.github.com/users/nouyang,User,None,,None
+codeforamerica,ohrite,Doc Ritezel,https://api.github.com/users/ohrite,User,Ministry of Velocity,ministryofvelocity.com,"San Francisco, CA"
+codeforamerica,ondrae,Andrew Hyder,https://api.github.com/users/ondrae,User,Code For America,http://hackyourcity.com,SF / KC
+codeforamerica,onezerojeremy,Jeremy Canfield,https://api.github.com/users/onezerojeremy,User,18F,http://jeremycanfield.com,"New York, mostly"
+codeforamerica,pahlkadot,Jennifer Pahlka,https://api.github.com/users/pahlkadot,User,Code for America,codeforamerica.org,"San Francisco, CA"
+codeforamerica,plusjeff,Jeff Maher,https://api.github.com/users/plusjeff,User,None,http://jeffmaher.me,None
+codeforamerica,prashtx,Prashant Singh,https://api.github.com/users/prashtx,User,None,http://prashtx.com,None
+codeforamerica,quadrismegistus,Ryan Heuser,https://api.github.com/users/quadrismegistus,User,None,http://twitter.com/quadrismegistus,None
+codeforamerica,redcap3000,Ronaldo Barbachano,https://api.github.com/users/redcap3000,User,None,http://doinglines.com,San Francisco CA & Alaska
+codeforamerica,richaagarwal,richa,https://api.github.com/users/richaagarwal,User,None,,san francisco
+codeforamerica,rishibajekal,Rishi Bajekal,https://api.github.com/users/rishibajekal,User,None,,None
+codeforamerica,ryanatwork,Ryan Resella,https://api.github.com/users/ryanatwork,User,Upworthy,ryanresella.com,"Los Angeles, CA"
+codeforamerica,samfoy,Samuel Painter,https://api.github.com/users/samfoy,User,None,,"Gastonia, NC"
+codeforamerica,SantiMunin,Santiago Munín,https://api.github.com/users/SantiMunin,User,Google,,Zürich (Switzerland)
+codeforamerica,scottsil,Scott Silverman,https://api.github.com/users/scottsil,User,Airbnb,www.scottsil.com,"San Francisco, CA"
+codeforamerica,sferik,Erik Michaels-Ober,https://api.github.com/users/sferik,User,None,http://twitter.com/sferik,None
+codeforamerica,snajmi,None,https://api.github.com/users/snajmi,User,None,,None
+codeforamerica,ssfinney,Stephen Finney,https://api.github.com/users/ssfinney,User,"Specialized Information Environments, Inc.",http://www.linkd.in/ssfinney,"Macon, GA"
+codeforamerica,tacaswell,Thomas A Caswell,https://api.github.com/users/tacaswell,User,Brookhaven National Lab,,New York
+codeforamerica,TamaraShopsin,None,https://api.github.com/users/TamaraShopsin,User,None,,None
+codeforamerica,thomguertin,thomguertin,https://api.github.com/users/thomguertin,User,RI,http://www.ri.gov,"Providence,RI"
+codeforamerica,timtimedin,None,https://api.github.com/users/timtimedin,User,None,,None
+codeforamerica,tinio,Aurelio Tinio,https://api.github.com/users/tinio,User,Code for America,http://www.tinio.org,"San Francisco, CA"
+codeforamerica,tomharris,Tom Harris,https://api.github.com/users/tomharris,User,None,http://bigendian.net,North Carolina
+codeforamerica,tylerstalder,Tyler Stalder,https://api.github.com/users/tylerstalder,User,Wagon,http://tylerstalder.com,"San Francisco, CA"
+codeforamerica,unruthless,Ruthie BenDor,https://api.github.com/users/unruthless,User,None,,None
+codeforamerica,waltz,CJ Bryan,https://api.github.com/users/waltz,User,None,http://christianbryan.net,"Oakland, CA"
+codeforamerica,webmaven,Michael R. Bernstein,https://api.github.com/users/webmaven,User,None,http://www.michaelbernstein.com,"Albuquerque, NM"
+codeforamerica,wjdix,None,https://api.github.com/users/wjdix,User,Braintree Payments,,"Chicago, IL"
+codeforamerica,wpietri,William Pietri,https://api.github.com/users/wpietri,User,None,http://williampietri.com/,"San Francisco, CA"
+codeforamerica,ycombinator,Shaunak Kashyap,https://api.github.com/users/ycombinator,User,Elastic,,"San Jose, CA"
+codeforamerica,YenTheFirst,T S,https://api.github.com/users/YenTheFirst,User,Trulia,,San Francisco
+codeforamerica,yuletide,Alex Yule,https://api.github.com/users/yuletide,User,Textizen,http://alexyule.com,"San Francisco, CA"
+codeforamerica,zachwill,Zach Williams,https://api.github.com/users/zachwill,User,Portland Trail Blazers,zachwill.com,"Portland, OR"
+codeforamerica,zzolo,Alan Palazzolo,https://api.github.com/users/zzolo,User,None,http://zzolo.org,"Minneapolis, MN"
+Code-for-All,ondrae,Andrew Hyder,https://api.github.com/users/ondrae,User,Code For America,http://hackyourcity.com,SF / KC
+okfde,burnoutberni,Bernhard Hayden,https://api.github.com/users/burnoutberni,User,None,http://nini.su,"Vienna, Austria"
+okfde,ddie,Daniel Dietrich,https://api.github.com/users/ddie,User,Open Knowledge Foundation,http://ddie.me,Berlin
+okfde,juliakloiber,Julia Kloiber,https://api.github.com/users/juliakloiber,User,None,,None
+okfde,maliena,None,https://api.github.com/users/maliena,User,None,,None
+okfde,MichaelKreil,Michael Kreil,https://api.github.com/users/MichaelKreil,User,OpenDataCity,www.michael-kreil.de,Berlin
+okfde,milafrerichs,Mila Frerichs,https://api.github.com/users/milafrerichs,User,None,http://milafrerichs.de,"Münster, Germany"
+okfde,moklick,Moritz,https://api.github.com/users/moklick,User,http://webkid.io,http://twitter.com/moklick,Berlin
+okfde,pudo,Friedrich Lindenberg,https://api.github.com/users/pudo,User,None,http://pudo.org,Berlin
+okfde,sjockers,Simon Jockers,https://api.github.com/users/sjockers,User,correctiv.org,,Berlin
+okfde,stefanw,Stefan Wehrmeyer,https://api.github.com/users/stefanw,User,None,http://stefanwehrmeyer.com,"Berlin, Germany"
+okfde,toxic2302,Florian Kolb,https://api.github.com/users/toxic2302,User,None,http://floriankolb.de,"Giessen, HE Germany"
+openaustralia,DylanFM,Dylan Fogarty-MacDonald,https://api.github.com/users/DylanFM,User,Insured By Us,http://dylan.fm,Australia
+openaustralia,equivalentideas,Luke Bacon,https://api.github.com/users/equivalentideas,User,OpenAustralia Foundation,http://equivalentideas.com,"Sydney, Australia"
+openaustralia,henare,Henare Degan,https://api.github.com/users/henare,User,OpenAustralia Foundation,http://www.henaredegan.com/,"Sydney, Australia"
+openaustralia,katska,None,https://api.github.com/users/katska,User,None,,None
+openaustralia,mlandauer,Matthew Landauer,https://api.github.com/users/mlandauer,User,None,,"Sydney, Australia"
+openaustralia,pezholio,None,https://api.github.com/users/pezholio,User,None,,None
+ushahidi,aoduor,Angela Oduor Lungati,https://api.github.com/users/aoduor,User,None,,None
+ushahidi,dalezak,Dale Zak,https://api.github.com/users/dalezak,User,Whitespace.io,http://dalezak.ca,"Saskatoon, Saskatchewan"
+ushahidi,dkobia,David Kobia,https://api.github.com/users/dkobia,User,BRCK Inc.,http://www.kobia.net,"Atlanta, GA"
+ushahidi,ehersman,Erik Hersman,https://api.github.com/users/ehersman,User,Ushahidi,http://whiteafrican.com,Nairobi
+ushahidi,ekala,Emmanuel Kala,https://api.github.com/users/ekala,User,Ushahidi Inc,,"Nairobi, Kenya"
+ushahidi,eyedol,Henry Addo,https://api.github.com/users/eyedol,User,None,http://www.addhen.org,"Accra, Ghana"
+ushahidi,gr2m,Gregor Martynus,https://api.github.com/users/gr2m,User,Hoodie,http://hood.ie,Zurich
+ushahidi,julianar,Juliana Rotich,https://api.github.com/users/julianar,User,Ushahidi,http://afromusing.com,Internet
+ushahidi,kamaulynder,Linda Kamau,https://api.github.com/users/kamaulynder,User,Ushahidi Inc,www.codediva.co.ke,None
+ushahidi,middle8media,Seth Hall,https://api.github.com/users/middle8media,User,Ushahidi,http://ushahidi.com,"Greensboro, NC"
+ushahidi,natmanning,Nat,https://api.github.com/users/natmanning,User,Ushahidi,natmanning.com,San Francisco
+ushahidi,pdestefanis,Pablo Destefanis,https://api.github.com/users/pdestefanis,User,None,,"Washington, DC, USA"
+ushahidi,rjmackay,Robbie Mackay,https://api.github.com/users/rjmackay,User,Ushahidi,http://blog.robbiemackay.com,"Auckland, NZ"
+ushahidi,spaudanjo,Daniel Spaude,https://api.github.com/users/spaudanjo,User,None,,Berlin
+ushahidi,ymohii,Yassin Mohii,https://api.github.com/users/ymohii,User,CamelCaseTech,,Egypt
+sunlightlabs,boblannon,Bob Lannon,https://api.github.com/users/boblannon,User,Sunlight Foundation,http://boblannon.com,"Philadelphia, PA and Washington, DC"
+sunlightlabs,crdunwel,Clayton Dunwell,https://api.github.com/users/crdunwel,User,None,,"Washington, DC"
+sunlightlabs,cweber,Caitlin,https://api.github.com/users/cweber,User,Sunlight Foundation,http://caitlinweber.com,"Washington, DC"
+sunlightlabs,dcloud,Daniel Cloud,https://api.github.com/users/dcloud,User,None,http://danielcloud.org/,"Bloomington, IN"
+sunlightlabs,heyitsolivia,Olivia Cheng,https://api.github.com/users/heyitsolivia,User,Sunlight Foundation,https://twitter.com/heyits0livia,"Washington, DC"
+sunlightlabs,jamesturk,James Turk,https://api.github.com/users/jamesturk,User,PBS Digital,https://jamesturk.net,"Washington, DC"
+sunlightlabs,jsfenfen,Jacob Fenton,https://api.github.com/users/jsfenfen,User,None,http://www.jacobfenton.com,Bay Area
+sunlightlabs,nickom,Nicko,https://api.github.com/users/nickom,User,None,,None
+sunlightlabs,rshorey,Rachel,https://api.github.com/users/rshorey,User,New York Times,,United States
+sunlightlabs,timball,None,https://api.github.com/users/timball,User,None,,None
+datauy,danielcarranza,Daniel Carranza,https://api.github.com/users/danielcarranza,User,None,http://tanconectados.com,Uruguay
+datauy,fernandouval,Fernando Uval,https://api.github.com/users/fernandouval,User,None,,None
+datauy,gabelula,Gabriela R. Berón,https://api.github.com/users/gabelula,User,DATAUY - Freelancer,http://about.me/gabelula,PDX <--> MVD
+datauy,picandocodigo,Fernando Briano,https://api.github.com/users/picandocodigo,User,None,http://picandocodigo.net,"Montevideo, Uruguay"
+congresointeractivo,alfredormz,Alfredo Ramírez,https://api.github.com/users/alfredormz,User,None,,"Ciudad Autónoma de Buenos Aires, Argentina"
+congresointeractivo,betinagarcia,Betina,https://api.github.com/users/betinagarcia,User,None,,None
+congresointeractivo,demenece,demenece,https://api.github.com/users/demenece,User,None,http://twitter.com/demenece,"Corrientes, Argentina"
+congresointeractivo,etagwerker,Ernesto Tagwerker,https://api.github.com/users/etagwerker,User,Ombu Labs,http://www.ombulabs.com,None
+congresointeractivo,jenri,None,https://api.github.com/users/jenri,User,None,,None
+congresointeractivo,joseallona,José,https://api.github.com/users/joseallona,User,None,,None
+congresointeractivo,martinszy,Martín Szyszlican,https://api.github.com/users/martinszy,User,Clínica web,http://www.martinszyszlican.com,Buenos Aires - Planet Earth
+congresointeractivo,maxidr,Maximiliano Dello Russo,https://api.github.com/users/maxidr,User,mxhero,https://coderwall.com/maxidr,"Buenos Aires, Argentina"
+congresointeractivo,mmmarcos,Marcos,https://api.github.com/users/mmmarcos,User,None,,"Toulouse, France"
+congresointeractivo,sebazelonka,Sebastian Zelonka,https://api.github.com/users/sebazelonka,User,None,http://sebazelonka.com,"Buenos Aires, Argentina"
+ciudadanointeligente,camargozzini,Catalina Margozzini,https://api.github.com/users/camargozzini,User,Fundación Ciudadano Inteligente,,Chile
+ciudadanointeligente,chrismytton,Chris Mytton,https://api.github.com/users/chrismytton,User,mySociety.org,https://www.chrismytton.uk/,"Bristol, UK"
+ciudadanointeligente,fheusser,Felipe I. Heusser,https://api.github.com/users/fheusser,User,Rhinobird,www.rhinobird.tv,"New York, Santiago, Boston"
+ciudadanointeligente,jdgarrido,ジョセフ·ダミアン·ガリード,https://api.github.com/users/jdgarrido,User,None,,"Santiago, Chile"
+ciudadanointeligente,lavalebarahona,Valentina Barahona,https://api.github.com/users/lavalebarahona,User,Ciudadano Inteligente,,None
+ciudadanointeligente,lfalvarez,Luis Felipe Álvarez Burgos,https://api.github.com/users/lfalvarez,User,Fundación Ciudadano Inteligente,http://felipe.al,"Santiago, Chile"
+ciudadanointeligente,lissteilor,Lissett García Albornoz,https://api.github.com/users/lissteilor,User,None,,None
+ciudadanointeligente,maugsbur,Marcel Augsburger,https://api.github.com/users/maugsbur,User,Fundación Ciudadano Inteligente,,"Santiago, Chile"
+ciudadanointeligente,mjosetapia,María José,https://api.github.com/users/mjosetapia,User,Ciudadano Inteligente,,"Santiago, Chile"
+ciudadanointeligente,rezzo,J. Pablo Pérez Trabucco,https://api.github.com/users/rezzo,User,Fundación Ciudadano Inteligente,,"Santiago, Chile"
+ciudadanointeligente,tmtmtmtm,Tony Bowden,https://api.github.com/users/tmtmtmtm,User,None,http://discomposer.com/,"Tallinn, Estonia"
+govtrack,GPHemsley,Gordon P. Hemsley,https://api.github.com/users/GPHemsley,User,None,http://gphemsley.org/,"Wayne, PA"
+govtrack,JoshData,Joshua Tauberer,https://api.github.com/users/JoshData,User,GovTrack / if.then.fund / etc,https://razor.occams.info,"Washington, DC"
+MuckRock,allanlasser,Allan Lasser,https://api.github.com/users/allanlasser,User,MuckRock,http://www.allanlasser.com,"Boston, MA"
+MuckRock,morisy,Michael Morisy,https://api.github.com/users/morisy,User,MuckRock,https://muckrock.com,"Palo Alto, CA"
+g0v,a-tsioh,None,https://api.github.com/users/a-tsioh,User,None,,None
+g0v,audreyt,唐鳳,https://api.github.com/users/audreyt,User,g0v.tw ; Socialtext ; Apple,http://www.linkedin.com/in/tangaudrey,"Taipei, Taiwan"
+g0v,bater,None,https://api.github.com/users/bater,User,None,http://fb.me/baterme,Taipei
+g0v,billy3321,雨蒼,https://api.github.com/users/billy3321,User,None,http://billy3321.blogspot.com/,Taiwan Kaohsiung
+g0v,blue119,Yao-Po Wang,https://api.github.com/users/blue119,User,ruckuswireless,http://www.ypwang.info/,"Taiwan, Taipei"
+g0v,c9s,Yo-An Lin,https://api.github.com/users/c9s,User,Corneltek,http://gotray.extremedev.org,"Taipei, Taiwan"
+g0v,caasi,caasi Huang,https://api.github.com/users/caasi,User,None,caasih.net,Taiwan
+g0v,chhsiao1981,None,https://api.github.com/users/chhsiao1981,User,None,,None
+g0v,Chien19861128,None,https://api.github.com/users/Chien19861128,User,None,,None
+g0v,chilijung,LiJung Chi,https://api.github.com/users/chilijung,User,Canner / Taiwanstat,http://chilijung.me,Taiwan
+g0v,clkao,Chia-liang Kao,https://api.github.com/users/clkao,User,None,www.clkao.org,"Taipei, Taiwan"
+g0v,cpyang,Chih-Peng Yang,https://api.github.com/users/cpyang,User,None,,"Kaohsiung, Taiwan"
+g0v,ctiml,Timothy Lee,https://api.github.com/users/ctiml,User,None,http://ctiml.tw,"Taipei, Taiwan"
+g0v,czchen,ChangZhuo Chen (陳昌倬),https://api.github.com/users/czchen,User,None,http://czchen.info,Taipei
+g0v,dannvix,Shao-Chung Chen,https://api.github.com/users/dannvix,User,Trend Micro,http://owo.tw,"Taipei, Taiwan"
+g0v,darbychang,None,https://api.github.com/users/darbychang,User,None,,None
+g0v,denny0223,Denny Huang,https://api.github.com/users/denny0223,User,None,http://denny.one,"Taipei, Taiwan"
+g0v,egistli,Egist Li,https://api.github.com/users/egistli,User,None,http://egistli.com,Taiwan
+g0v,EragonJ,EragonJ (E.J.),https://api.github.com/users/EragonJ,User,Vectr,http://eragonj.me,"Taipei, Taiwan"
+g0v,ETBlue,ETBlue,https://api.github.com/users/ETBlue,User,Dr. Blue Medical Content Studio,etblue.blogspot.com,Taiwan
+g0v,ethantw,Chen Yijun,https://api.github.com/users/ethantw,User,Beijing University,http://Yijun.me/,Chinese Beijing
+g0v,evenwu,evenwu,https://api.github.com/users/evenwu,User,evendesign,http://evendesign.tw,"Taiwan, Taipei"
+g0v,favonia,西風,https://api.github.com/users/favonia,User,None,favonia.org,None
+g0v,fourdollars,Shih-Yuan Lee,https://api.github.com/users/fourdollars,User,Taipei Open Source Software User Group,http://fourdollars.blogspot.com,"Taiwan, Taipei"
+g0v,fukuball,fukuball,https://api.github.com/users/fukuball,User,iNDIEVOX Inc.,http://www.fukuball.com,"Taipei, Taiwan"
+g0v,gsklee,G. Kay Lee,https://api.github.com/users/gsklee,User,None,http://gsklee.im/about,None
+g0v,gugod,Kang-min Liu,https://api.github.com/users/gugod,User,Booking.com,gugod.org,"Amsterdam, Netherlands"
+g0v,hanksudo,Hank Wang,https://api.github.com/users/hanksudo,User,Health2Sync,,"Taipei, Taiwan"
+g0v,hlb,Liang-Bin Hsueh,https://api.github.com/users/hlb,User,KKBOX,http://iamhlb.com/,Taiwan
+g0v,hychen,"Hsin Yi, Chen",https://api.github.com/users/hychen,User,None,http://hychen.wuweig.org,"Tainan, Taiwan"
+g0v,iamblue,blue chen,https://api.github.com/users/iamblue,User,Mediatek,iamblue.github.io,Taipei
+g0v,imgarylai,Gary ,https://api.github.com/users/imgarylai,User,Jungllle,http://jungllle.com,"Taipei, Taiwan"
+g0v,imwithye,Ciel,https://api.github.com/users/imwithye,User,None,,Singapore
+g0v,ipaaa,ipa ,https://api.github.com/users/ipaaa,User,None,http://ipaway.org,"Taipei, Taiwan"
+g0v,jbytw,jackie,https://api.github.com/users/jbytw,User,None,http://jbytw.com/,Taiwan
+g0v,jeffhung,Jeff Hung,https://api.github.com/users/jeffhung,User,Trend Micro,http://www.jeffhung.net/blog/,"Taipei, Taiwan"
+g0v,jessy1092,Lee,https://api.github.com/users/jessy1092,User,None,,"Taipei, Taiwan"
+g0v,jimyhuang,Jimmy Huang,https://api.github.com/users/jimyhuang,User,None,,None
+g0v,jjjenq,None,https://api.github.com/users/jjjenq,User,None,,None
+g0v,johnlinp,John Lin,https://api.github.com/users/johnlinp,User,Synology,http://johnlin.tw,Taiwan
+g0v,jsleetw,jsleetw,https://api.github.com/users/jsleetw,User,YouHack.com,https://tw.linkedin.com/in/jsleetw,Taiwan
+g0v,kcliu,kcliu,https://api.github.com/users/kcliu,User,Accuvally,https://medium.com/@kcliutw,Taipei
+g0v,kcwu,Kuang-che Wu,https://api.github.com/users/kcwu,User,None,,None
+g0v,kentwelcome,Kent Huang,https://api.github.com/users/kentwelcome,User,VMFive,http://about.me/kentwelcome,Taiwan
+g0v,kewang,Kewang,https://api.github.com/users/kewang,User,Mitake,http://blog.kewang.tw,Taiwan
+g0v,kiang,kiang,https://api.github.com/users/kiang,User,Just This Computer Studio,http://olc.tw,Taiwan
+g0v,kmsheng,kmsheng,https://api.github.com/users/kmsheng,User,None,http://kmsheng.com,Taiwan
+g0v,kong0107,Kong Kao,https://api.github.com/users/kong0107,User,None,http://kong0107.blogspot.tw,Taiwan
+g0v,lis186,Justin Lee,https://api.github.com/users/lis186,User,None,www.lis186.com,Taipei
+g0v,littleq0903,Colin Su,https://api.github.com/users/littleq0903,User,Microsoft,http://about.me/littleq,"Beijing, China"
+g0v,lwhsu,Li-Wen Hsu,https://api.github.com/users/lwhsu,User,None,http://lwhsu.org,Taipei
+g0v,miaout17,Mr. Big Cat,https://api.github.com/users/miaout17,User,None,http://blog.miaout17.net,None
+g0v,MIND0S,None,https://api.github.com/users/MIND0S,User,None,,None
+g0v,MnO2,MnO2,https://api.github.com/users/MnO2,User,None,http://paulme.ng,Singapore
+g0v,muan,Mu-An Chiou,https://api.github.com/users/muan,User,GitHub,http://muan.co/,Travelling
+g0v,onlinemad,Ian Wu,https://api.github.com/users/onlinemad,User,Sleepnova Inc.,http://blog.ianwu.tw/,Taiwan
+g0v,pm5,Pomin Wu,https://api.github.com/users/pm5,User,None,,None
+g0v,racklin,Rack Lin (阿土伯),https://api.github.com/users/racklin,User,"VIVIPOS Co.,Ltd",https://twitter.com/racklin,Taiwan
+g0v,raejin,Rae Liu,https://api.github.com/users/raejin,User,None,http://raejin.com,"San Francisco, CA"
+g0v,repeat,Repeat Yang,https://api.github.com/users/repeat,User,PIXNET Digital Media Corporation,http://repeat.tw/blog,"New Taipei City, Taiwan"
+g0v,ronnywang,Ronny Wang,https://api.github.com/users/ronnywang,User,https://sheethub.com/,https://sheethub.com/ronnywang,Taiwan
+g0v,rschiang,Poren Chiang,https://api.github.com/users/rschiang,User,None,http://poren.tw,"Taipei, Taiwan"
+g0v,shawn111,Shawn,https://api.github.com/users/shawn111,User,Canonical,,Taipei
+g0v,shelling,shelling,https://api.github.com/users/shelling,User,handlino,,Taiwan
+g0v,snowmantw,Greg Weng,https://api.github.com/users/snowmantw,User,Mozilla,http://about.me/snowmantw,None
+g0v,Superbil,Cheng Kai Yuan,https://api.github.com/users/Superbil,User,g0v,http://about.me/superbil,"Hsinchu, Taiwan"
+g0v,timchen86,timchen86,https://api.github.com/users/timchen86,User,None,,Taiwan
+g0v,timdream,Timothy Guan-tin Chien,https://api.github.com/users/timdream,User,Mozilla Corporation,http://timdream.org/,"Taipei, Taiwan"
+g0v,tomchentw,Tom Chen,https://api.github.com/users/tomchentw,User,Freelancer,https://medium.com/@tomchentw,"Remotely from Taipei, Taiwan"
+g0v,ttcat,None,https://api.github.com/users/ttcat,User,None,,None
+g0v,victorhsieh,Victor Hsieh,https://api.github.com/users/victorhsieh,User,Google,http://victor.csie.org/,"Sunnyvale, CA"
+g0v,virus-warnning,Raymond Wu (小璋丸),https://api.github.com/users/virus-warnning,User,Softnext Inc.,,Taipei
+g0v,walkingice,Julian Chu,https://api.github.com/users/walkingice,User,0xLab,http://blog.julianchu.net,Taiwan/Hsinchu
+g0v,wi1d5ky,Wildsky Fann,https://api.github.com/users/wi1d5ky,User,MozTW,https://wildsky.cc,Taiwan
+g0v,wildjcrt,Jerry Lee,https://api.github.com/users/wildjcrt,User,womany.net,wildjcrt.pixnet.net/blog,"Taipei, Taiwan"
+g0v,yhsiang,Yuanhsiang Cheng,https://api.github.com/users/yhsiang,User,g0v.tw,,"Hsinchu, Taiwan"
+g0v,yjlou,None,https://api.github.com/users/yjlou,User,None,,None
+g0v,youchenlee,Youchen Lee,https://api.github.com/users/youchenlee,User,unisharp.com,http://utcr.org,Taiwan
+g0v,yutin1987,YuTin Liu,https://api.github.com/users/yutin1987,User,MediaTek Inc.,http://www.utin.tw/,"Taipei, Taiwan"
+g0v,zbryikt,None,https://api.github.com/users/zbryikt,User,None,,"Taipei, Taiwan"
+civio,dcabo,David Cabo,https://api.github.com/users/dcabo,User,None,,It depends
+civio,jjelosua,Juan Elosua,https://api.github.com/users/jjelosua,User,Freelance,,"Vigo, Spain"
+openkratio,anarey,Ana Rey,https://api.github.com/users/anarey,User,None,www.anarey.info,None
+openkratio,ewokcillo,Diego,https://api.github.com/users/ewokcillo,User,None,http://endornotieneplaya.org,Barcelona
+openkratio,fontanon,J. Félix Ontañón,https://api.github.com/users/fontanon,User,Podsystem Ltd.,http://fontanon.org/nosigasleyendo,Sevilla
+openkratio,imonteroperez,Ildefonso Montero,https://api.github.com/users/imonteroperez,User,None,http://imonteroperez.blogspot.com,"Seville, Spain"
+openkratio,JJ,Juan Julián Merelo Guervós,https://api.github.com/users/JJ,User,"Oficina de Software Libre, UGR",http://goo.gl/IlWG8U,"Granada, Spain, Europe"
+openkratio,jneight,Javier Cordero,https://api.github.com/users/jneight,User,None,www.corderomartinez.es,Granada
+openkratio,jnillo,Juan,https://api.github.com/users/jnillo,User,Wargos,www.juanvazquez.me,Sevilla
+openkratio,manufloresv,Manuel Flores,https://api.github.com/users/manufloresv,User,None,,None
+openkratio,penyaskito,Christian López Espínola,https://api.github.com/users/penyaskito,User,Cocomore AG,http://penyaskito.com,"Sevilla, Spain"
+openkratio,pr3ssh,Pablo Martín,https://api.github.com/users/pr3ssh,User,ENREDA Cooperativa,http://edipotrebol.es,el Sur
+openkratio,pulimento,Javi Pulido,https://api.github.com/users/pulimento,User,None,,"Seville, Spain"
+KohoVolit,girogiro,Jaroslav Semančík,https://api.github.com/users/girogiro,User,None,,Slovakia
+KohoVolit,michalskop,Michal Škop,https://api.github.com/users/michalskop,User,KohoVolit.eu,http://cz.linkedin.com/in/skopmichal/,None
+regardscitoyens,fenicento,Daniele Ciminieri,https://api.github.com/users/fenicento,User,"DensityDesign, Geppetto Lab",http://www.densitydesign.org/person/daniele-ciminieri/,Milan
+regardscitoyens,fmassot,François Massot,https://api.github.com/users/fmassot,User,None,,None
+regardscitoyens,RouxRC,Benjamin Ooghe-Tabanou,https://api.github.com/users/RouxRC,User,None,,None
+regardscitoyens,uf0,uf0,https://api.github.com/users/uf0,User,None,,None
+teampopong,e9t,Lucy Park,https://api.github.com/users/e9t,User,None,http://lucypark.kr,"Seoul, Korea"
+teampopong,jooddang,jooddang,https://api.github.com/users/jooddang,User,UC Berkeley,bit.ly/EKjoo,"Berkeley, CA"
+teampopong,sairion,Jaeho Lee,https://api.github.com/users/sairion,User,Fancy.com,http://www.jaeholee.org,"Seoul, Korea"
+teampopong,stray-leone,None,https://api.github.com/users/stray-leone,User,None,,None
+openpolis,eraclitux,Andrea Masi,https://api.github.com/users/eraclitux,User,None,eraclitux.com,None
+openpolis,guglielmo,Guglielmo Celata,https://api.github.com/users/guglielmo,User,DEPP Srl,http://dlogging.wordpress.com,"Rome, Italy"
+openpolis,vittorioa,None,https://api.github.com/users/vittorioa,User,None,,None
+e-democracy,eostrom,Erik Ostrom,https://api.github.com/users/eostrom,User,None,http://echographia.com/,"Minneapolis, MN"
+e-democracy,tleisio,Tim Leisio,https://api.github.com/users/tleisio,User,None,,None
+e-democracy,wbushey,Bill Bushey,https://api.github.com/users/wbushey,User,None,https://www.linkedin.com/in/williambushey,"Minneapolis, MN"
+azavea,caseypt,Casey Thomas,https://api.github.com/users/caseypt,User,Azavea,cpt.ph,"Philadelphia, PA"
+azavea,CloudNiner,Andrew Fink,https://api.github.com/users/CloudNiner,User,Azavea,github.com/CloudNiner,Philadelphia
+azavea,hectcastro,Hector Castro,https://api.github.com/users/hectcastro,User,"Azavea, Inc.",,"Philadelphia, PA"
+azavea,jerheff,Jeremy Heffner,https://api.github.com/users/jerheff,User,None,,"Philadelphia, PA"
+azavea,jfrankl,Jeff Frankl,https://api.github.com/users/jfrankl,User,Azavea,,None
+azavea,jwalgran,Justin Walgran,https://api.github.com/users/jwalgran,User,Azavea,http://walgran.com,"Mesa, Arizona, USA"
+azavea,kdeloach,Kevin DeLoach,https://api.github.com/users/kdeloach,User,Azavea,,"Philadelphia, PA"
+azavea,kshepard,Kenny Shepard,https://api.github.com/users/kshepard,User,Azavea,,"Philadelphia, PA"
+azavea,lliss,None,https://api.github.com/users/lliss,User,None,,None
+azavea,lossyrob,Rob Emanuele,https://api.github.com/users/lossyrob,User,None,,None
+azavea,mapadelphia,Sarah Cordivano,https://api.github.com/users/mapadelphia,User,Azavea,http://www.sarahcordivano.com,Philadelphia
+azavea,maurizi,Michael Maurizi,https://api.github.com/users/maurizi,User,Azavea,,Philadelphia
+azavea,mmcfarland,Matthew McFarland,https://api.github.com/users/mmcfarland,User,"Azavea, Inc.",,"Philadelphia, Pa"
+azavea,mtedeschi,Michael Tedeschi,https://api.github.com/users/mtedeschi,User,None,http://www.mtedeschi.com,Philadelphia
+azavea,rcheetham,Robert Cheetham,https://api.github.com/users/rcheetham,User,Azavea,http://www.azavea.com/,"Philadelphia, PA"
+azavea,RickMohr,Rick Mohr,https://api.github.com/users/RickMohr,User,None,rick@rickmohr.net,None
+azavea,sharph,Sharp Hall,https://api.github.com/users/sharph,User,Azavea,http://sharphall.org,"Philadelphia, PA"
+azavea,steventlamb,Steve Lamb,https://api.github.com/users/steventlamb,User,Azavea,,"Philadelphia, PA"
+azavea,zifeo,Teo Stocco,https://api.github.com/users/zifeo,User,EPFL,http://www.zifeo.com,Switzerland
+Accela-Inc,axtheset,Seth Axthelm,https://api.github.com/users/axtheset,User,"Accela, Inc.",,"Cleveland, OH"
+Accela-Inc,code4value,Jing Liu,https://api.github.com/users/code4value,User,Accela Inc.,,CA
+Accela-Inc,mheadd,Mark Headd,https://api.github.com/users/mheadd,User,"Accela, Inc.",http://civic.io,"Syracuse, NY"
+AidData,owenscott,Owen Scott,https://api.github.com/users/owenscott,User,None,,"Oxford, UK"
+akvo,aadvaark,Samuel Rajkumar,https://api.github.com/users/aadvaark,User,None,http://caddisfly.ternup.com,None
+akvo,analapat,analapat,https://api.github.com/users/analapat,User,None,,None
+akvo,Anna-Marthe,Anna-Marthe Sessink,https://api.github.com/users/Anna-Marthe,User,Akvo,,Amsterdam
+akvo,bjelkeman,Thomas Bjelkeman-Pettersson,https://api.github.com/users/bjelkeman,User,Akvo Foundation,http://www.akvo.org/blog,Sweden
+akvo,CharlotteSoed,Charlotte,https://api.github.com/users/CharlotteSoed,User,None,,None
+akvo,Daviddebruijne,David de Bruijne,https://api.github.com/users/Daviddebruijne,User,None,www.CommonSites.net,Amsterdam
+akvo,henryjewell,None,https://api.github.com/users/henryjewell,User,None,,None
+akvo,ichinaski,Iñigo,https://api.github.com/users/ichinaski,User,None,,Barcelona
+akvo,iperdomo,Iván Perdomo,https://api.github.com/users/iperdomo,User,None,https://perdomo.me,Spain
+akvo,JosjeS,None,https://api.github.com/users/JosjeS,User,None,,None
+akvo,joycarpediem,Joy Ghosh,https://api.github.com/users/joycarpediem,User,Akvo,http://akvo.org,Bangalore
+akvo,kardan,Daniel Karlsson,https://api.github.com/users/kardan,User,Fraction 4,http://www.kardans.com,"Gothenburg, Sweden"
+akvo,lauraroverts,None,https://api.github.com/users/lauraroverts,User,None,,None
+akvo,Lissyvn,None,https://api.github.com/users/Lissyvn,User,None,,None
+akvo,loicsans,Loïc Sans,https://api.github.com/users/loicsans,User,Akvo,http://www.loicsans.com,Helsinki
+akvo,Lynngre,Lynn,https://api.github.com/users/Lynngre,User,Akvo.org,www.akvo.org,Sweden
+akvo,mtwestra,Mark Westra,https://api.github.com/users/mtwestra,User,Akvo Foundation,www.akvo.org,Amsterdam
+akvo,osgl,Oliver Galloway,https://api.github.com/users/osgl,User,Aecher Limited,,"London, UK"
+akvo,rumca,Ruarcc McAloon,https://api.github.com/users/rumca,User,None,,"London, UK"
+akvo,stellanl,Stellan Lagerström,https://api.github.com/users/stellanl,User,akvo.org,,Stockholm
+akvo,zzgvh,Gabriel von Heijne,https://api.github.com/users/zzgvh,User,Akvo Foundation,www.akvo.org,Stockholm
+appsembler,bezidejni,Filip Jukić,https://api.github.com/users/bezidejni,User,Appsembler / BytePanda,http://www.bytepanda.io,"Zagreb, Croatia"
+appsembler,tkeemon,TJ Keemon,https://api.github.com/users/tkeemon,User,None,http://www.keemon.info,"Boston, MA"
+ASU,alwold,Al Wold,https://api.github.com/users/alwold,User,None,http://alwold.com,"Phoenix, AZ"
+ASU,mlsamuelson,Michael Samuelson,https://api.github.com/users/mlsamuelson,User,None,http://mlsamuelson.com,United States
+ballotbox,breadknock,Christopher Brenon,https://api.github.com/users/breadknock,User,Rensselaer Polytechnic Institute,,"Syracuse, NY"
+ballotbox,JGrippo,James Grippo,https://api.github.com/users/JGrippo,User,None,,None
+ballotbox,XenosInAHat,Kirk Smith,https://api.github.com/users/XenosInAHat,User,None,,None
+BetaNYC,akilism,Akil Harris,https://api.github.com/users/akilism,User,None,www.grizzlebees.com,"Brooklyn, NY"
+BetaNYC,dirkkelly,Dirk Kelly,https://api.github.com/users/dirkkelly,User,InterExchange,http://www.dirkkelly.com,"Brooklyn, New York"
+BetaNYC,excepttheweasel,John Barker,https://api.github.com/users/excepttheweasel,User,None,,New York
+BetaNYC,fma2,Farheen Malik,https://api.github.com/users/fma2,User,None,http://farheen.nyc,"Brooklyn, NY"
+BetaNYC,noneck,Noel Hidalgo,https://api.github.com/users/noneck,User,betaNYC,http://noneck.org,"New York, NY"
+BetaNYC,tomca32,Tomislav Pesut,https://api.github.com/users/tomca32,User,Two Sigma,,None
+BytemarkHosting,iamkimiam,None,https://api.github.com/users/iamkimiam,User,None,,None
+BytemarkHosting,ichilton,Ian Chilton,https://api.github.com/users/ichilton,User,None,http://www.ichilton.co.uk,United Kingdom
+BytemarkHosting,jiphex,James Hannah,https://api.github.com/users/jiphex,User,None,http://tlyk.eu,"Abingdon, UK"
+BytemarkHosting,lupine,Nick Thomas,https://api.github.com/users/lupine,User,None,https://ur.gs,York
+BytemarkHosting,patch0,Patrick Cherry,https://api.github.com/users/patch0,User,Bytemark Hosting,www.bytemark.co.uk,Manchester
+BytemarkHosting,technicalfault,None,https://api.github.com/users/technicalfault,User,None,,None
+BytemarkHosting,telyn,Telyn ZF R,https://api.github.com/users/telyn,User,None,http://aetheria.co.uk,"York, UK"
+Code4SA,adieyal,Adi Eyal,https://api.github.com/users/adieyal,User,None,,None
+Code4SA,longhotsummer,Greg Kempe,https://api.github.com/users/longhotsummer,User,None,http://kempe.net,"Cape Town, South Africa"
+Code4SA,nefiger,nefiger,https://api.github.com/users/nefiger,User,None,,None
+CodeandoMexico,acrogenesis,Adrian Rangel,https://api.github.com/users/acrogenesis,User,Disruptive Angels | Münett,https://acrogenesis.com,"Monterrey, Mexico"
+CodeandoMexico,Adrian2112,Adrian Gonzalez,https://api.github.com/users/Adrian2112,User,None,,"Mountain View, California"
+CodeandoMexico,eddie-ruva,Edilberto Ruvalcaba,https://api.github.com/users/eddie-ruva,User,None,http://www.twitter.com/eddie_ruvalcaba,"Mountain View, CA"
+CodeandoMexico,edolopez,Eduardo López De León,https://api.github.com/users/edolopez,User,Icalia Labs,http://edolopez.io,Mexico
+CodeandoMexico,ememorato,Manuel Morato,https://api.github.com/users/ememorato,User,Codeando México,http://codeandomexico.org,México
+CodeandoMexico,epadillas,Everardo Padilla,https://api.github.com/users/epadillas,User,None,http://epadillas.com,Finland
+CodeandoMexico,juanpabloe,Juan Pablo Escobar L,https://api.github.com/users/juanpabloe,User,None,codeandomexico.org,None
+CodeandoMexico,kurenn,Abraham,https://api.github.com/users/kurenn,User,Icalia Labs,https://twitter.com/kurenn,Monterrey
+CodeandoMexico,lalo,Eduardo Salinas,https://api.github.com/users/lalo,User,None,,None
+CodeandoMexico,poguez,Noé Domínguez Porras,https://api.github.com/users/poguez,User,Codeando México,,"Puebla, MX"
+CodeandoMexico,rodowi,ro*_wilhelmy[2],https://api.github.com/users/rodowi,User,México Abierto,http://wilhel.me,Mexico City
+CodeandoMexico,tlacoyodefrijol,Oscar Montiel,https://api.github.com/users/tlacoyodefrijol,User,Codeando México,,DF
+CodeandoMexico,zoek1,Miguel Angel Gordián,https://api.github.com/users/zoek1,User,Codeando México,http://zoek1.github.com,México
+CraftedCode,CraftedCodeBot,Crafted Code Bot,https://api.github.com/users/CraftedCodeBot,User,Crafted Code,http://craftedcode.co.uk,None
+CraftedCode,JonRowe,Jon Rowe,https://api.github.com/users/JonRowe,User,Crafted Code Ltd,jonrowe.co.uk,"Sydney, Australia"
+Curatur,allolex,Damon Davison,https://api.github.com/users/allolex,User,"Curatur, LLC",http://curatur.com,"Fort Lauderdale, Florida, USA (Fort Lauderdale, FL - Miami, FL)"
+datamade,cathydeng,Cathy Deng,https://api.github.com/users/cathydeng,User,None,twitter.com/cthydng,Chicago
+datamade,derekeder,Derek Eder,https://api.github.com/users/derekeder,User,"DataMade, Open City",derekeder.com,"Chicago, IL"
+datamade,evz,Eric van Zanten,https://api.github.com/users/evz,User,None,www.static-eric.com,"Chicago, IL"
+datamade,fgregg,Forest Gregg,https://api.github.com/users/fgregg,User,"University of Chicago, Department of Sociology",http://bunkum.us,"Chicago, IL"
+democracyworks,7maples,Jennifer Eliuk,https://api.github.com/users/7maples,User,"Democracy Works, Inc.",jennifereliuk.com,"Denver, Colorado"
+democracyworks,cap10morgan,Wes Morgan,https://api.github.com/users/cap10morgan,User,"Democracy Works, Inc. (https://democracy.works/)",http://wesmorgan.svbtle.com/,"Denver, CO, USA"
+democracyworks,kep,Kathryn Peters,https://api.github.com/users/kep,User,"Democracy Works, Inc.",turbovote.org,"Brooklyn, NY"
+democracyworks,tank157,Troy,https://api.github.com/users/tank157,User,None,,None
+democracyworks,tie-rack,Christopher Shea,https://api.github.com/users/tie-rack,User,None,,"New York, NY"
+desarrollandoAmericaLatina,atma,Oleh Burkhay,https://api.github.com/users/atma,User,None,http://www.atmaworks.com,"Santiago, Chile"
+desarrollandoAmericaLatina,CristobalM,None,https://api.github.com/users/CristobalM,User,None,,None
+desarrollandoAmericaLatina,git2samus,Michael Cetrulo,https://api.github.com/users/git2samus,User,None,https://www.linkedin.com/in/web2samus,Uruguay
+desarrollandoAmericaLatina,jalmenarez,Jose Almenarez,https://api.github.com/users/jalmenarez,User,Kibernum,https://cl.linkedin.com/in/jalmenarez,"Santiago, Chile"
+desarrollandoAmericaLatina,knxroot,Gustavo Lacoste,https://api.github.com/users/knxroot,User,None,http://lacosox.org,"Santiago, Chile"
+desarrollandoAmericaLatina,picandocodigo,Fernando Briano,https://api.github.com/users/picandocodigo,User,None,http://picandocodigo.net,"Montevideo, Uruguay"
+desarrollandoAmericaLatina,rebagliatte,Vero Rebagliatte,https://api.github.com/users/rebagliatte,User,None,http://rebagliatte.com,"Montevideo, Uruguay"
+desarrollandoAmericaLatina,rezzo,J. Pablo Pérez Trabucco,https://api.github.com/users/rezzo,User,Fundación Ciudadano Inteligente,,"Santiago, Chile"
+desarrollandoAmericaLatina,rogeliog,Rogelio Guzman,https://api.github.com/users/rogeliog,User,None,rogelio.mx,"Monterrey, NL, Mexico"
+devinit,dalepotter,Dale Potter,https://api.github.com/users/dalepotter,User,None,,None
+digitalbutter,digibutt,None,https://api.github.com/users/digibutt,User,None,,None
+digitalbutter,edbo,Ed Bosher,https://api.github.com/users/edbo,User,Bitgame Labs Inc.,http://www.bitgamelabs.com,Hong Kong
+digitalbutter,grachov,Andrey Grachov,https://api.github.com/users/grachov,User,None,,None
+digitalbutter,judereid,Jude,https://api.github.com/users/judereid,User,None,,New Zealand
+digitalbutter,justinkv,Justin Vogel,https://api.github.com/users/justinkv,User,None,,"Austin, TX"
+digitalbutter,kisov,None,https://api.github.com/users/kisov,User,None,,None
+digitalbutter,loveevelyn,None,https://api.github.com/users/loveevelyn,User,None,,None
+digitalbutter,maxmaster82,None,https://api.github.com/users/maxmaster82,User,None,,None
+digitalbutter,n0r8-ecomarkup,Misha Krit,https://api.github.com/users/n0r8-ecomarkup,User,htmlexperts.ru,,Ukraine
+digitalbutter,rahul-rkt,Rahul Kumar Thakur,https://api.github.com/users/rahul-rkt,User,None,rahulthakur.me,Hong Kong
+digitalbutter,Wangoviridans,Kirill Popov,https://api.github.com/users/Wangoviridans,User,Ecomarkup,http://ecomarkup.com,"Ilyichevsk, Ukraine"
+CDECatapult,Jimflip,James Birmingham,https://api.github.com/users/Jimflip,User,None,,None
+CDECatapult,mattijohn,Matti John,https://api.github.com/users/mattijohn,User,None,,"London, UK"
+CDECatapult,otfrom,Bruce Durling,https://api.github.com/users/otfrom,User,Mastodon C,http://otfrom.wordpress.com,London
+CDECatapult,yiliev,Yordan Iliev,https://api.github.com/users/yiliev,User,DIZITNOW LTD,http://dizitnow.com,London
+CodeForAfrica,4bic,robin kiplangat,https://api.github.com/users/4bic,User,None,,Africa
+CodeForAfrica,adieyal,Adi Eyal,https://api.github.com/users/adieyal,User,None,,None
+CodeForAfrica,callmealien,Serah Njambi Rono,https://api.github.com/users/callmealien,User,Code For Africa,,None
+CodeForAfrica,DavidLemayian,David Lemayian,https://api.github.com/users/DavidLemayian,User,Code for Africa,https://twitter.com/DavidLemayian,"Nairobi, Kenya"
+CodeForAfrica,JustinArenstein,Justin Arenstein,https://api.github.com/users/JustinArenstein,User,Code for Africa,http://code-africa.org,Africa
+CodeForAfrica,nickhargreaves,Nick Hargreaves,https://api.github.com/users/nickhargreaves,User,CodeForAfrica,http://www.nickhargreaves.com,Nairobi
+govdelivery,adamlund,None,https://api.github.com/users/adamlund,User,None,,None
+govdelivery,edlebert,None,https://api.github.com/users/edlebert,User,None,,None
+govdelivery,jsarne,James Sarne,https://api.github.com/users/jsarne,User,None,,None
+govdelivery,msute,Michael Sutehall,https://api.github.com/users/msute,User,None,,Minneapolis
+govdelivery,substars,Benjamin Ortega,https://api.github.com/users/substars,User,None,http://thesubstars.com,"Minneapolis, MN"
+govdelivery,tylerholien,Tyler Holien,https://api.github.com/users/tylerholien,User,None,https://twitter.com/tylerholien,"Rosemount, Minnesota"
+govdelivery,unclebilly,Billy Reisinger,https://api.github.com/users/unclebilly,User,GovDelivery,http://www.billyreisinger.com,"Saint Paul, Minnesota, USA"
+govdelivery,wbushey,Bill Bushey,https://api.github.com/users/wbushey,User,None,https://www.linkedin.com/in/williambushey,"Minneapolis, MN"
+govdelivery,zeckalpha,Kyle Marek-Spartz,https://api.github.com/users/zeckalpha,User,None,http://kyle.marek-spartz.org,"Saint Paul, MN"
+Granicus,ajhenriques,A.J. Henriques,https://api.github.com/users/ajhenriques,User,The What,,CA
+Granicus,benlucchesi,Ben Lucchesi,https://api.github.com/users/benlucchesi,User,None,,None
+Granicus,erikmcdaniel,Erik McDaniel,https://api.github.com/users/erikmcdaniel,User,Granicus,,San Francisco
+Granicus,gov20cto,Javier Muniz,https://api.github.com/users/gov20cto,User,"Granicus, Inc.",www.granicus.com,"San Francisco, CA"
+Granicus,GranicusJay,None,https://api.github.com/users/GranicusJay,User,None,,None
+Granicus,mattkasa,Matt Kasa,https://api.github.com/users/mattkasa,User,"Granicus, Inc.",,"Reno, NV"
+Granicus,nholland94,Nathan Holland,https://api.github.com/users/nholland94,User,Granicus,,"San Francisco, USA"
+Granicus,umidt,Umid Tadjiev,https://api.github.com/users/umidt,User,Granicus,,None
+Hutspace,eokyere,Emmanuel Okyere,https://api.github.com/users/eokyere,User,Hutspace,http://eokyere.blogspot.com,"Accra, Ghana"
+Hutspace,idesouza,None,https://api.github.com/users/idesouza,User,None,,None
+lawpal,jamieconnolly,Jamie Connolly,https://api.github.com/users/jamieconnolly,User,"LawPal, Inc.",http://jamieconnolly.com,"London, UK"
+neo,afomi,Ryan Wold,https://api.github.com/users/afomi,User,"Neo Innovation - NY, SF, Singapore",http://afomi.com,"San Francisco, CA"
+neo,gaqzi,Björn Andersson,https://api.github.com/users/gaqzi,User,None,http://sanitarium.se/,Singapore
+neo,giffc,Giff Constable,https://api.github.com/users/giffc,User,None,,None
+neo,imf,Ian McFarland,https://api.github.com/users/imf,User,Neo,http://neo.com,San Francisco
+neo,miccheng,Michael Cheng,https://api.github.com/users/miccheng,User,Neo Innocation Inc.,http://coderkungfu.com,Singapore
+neo,mikem,Mike Mazur,https://api.github.com/users/mikem,User,None,,None
+neo,rahulrajeev91,Rahul Rajeev,https://api.github.com/users/rahulrajeev91,User,Neo Innovation,http://www.rahulrajeev.co/,Singapore
+nzherald,tuttinator,Caleb Tutty,https://api.github.com/users/tuttinator,User,New Zealand Herald,,New Zealand
+GovLab,luisdaniel,Luis,https://api.github.com/users/luisdaniel,User,The GovLab,luisdaniel.com,New York City
+onesky,chakming,chakming,https://api.github.com/users/chakming,User,None,http://chakming.com,Hong Kong
+onesky,vincentchan,Vincent Chan,https://api.github.com/users/vincentchan,User,OneSky,http://aneverendingdream.com,Hong Kong
+openstate,anneschuth,Anne Schuth,https://api.github.com/users/anneschuth,User,University of Amsterdam,www.anneschuth.nl,"Amsterdam, Netherlands"
+openstate,bennokr,Benno Kruit,https://api.github.com/users/bennokr,User,None,bennokruit.nl,Utrecht
+openstate,breyten,Breyten Ernsting,https://api.github.com/users/breyten,User,Open State Foundation,http://yerb.net/,"Amsterdam, The Netherlands"
+openstate,bteeuwen,None,https://api.github.com/users/bteeuwen,User,None,,None
+openstate,Dirklectisch,Dirk Geurs,https://api.github.com/users/Dirklectisch,User,None,,"Amsterdam, Netherlands"
+openstate,janpaul123,Jan Paul Posma,https://api.github.com/users/janpaul123,User,Brigade,http://janpaulposma.nl,SF Bay Area
+openstate,jgelens,Jeffrey Gelens,https://api.github.com/users/jgelens,User,Silver Egg Technology & Noppo,http://www.noppo.pro,None
+openstate,mgbearda,None,https://api.github.com/users/mgbearda,User,None,,None
+openstate,ndkv,Simeon Nedkov,https://api.github.com/users/ndkv,User,NDKV,http://ndkv.nl,The Hague
+openstate,Rosalinde,Rosalinde,https://api.github.com/users/Rosalinde,User,None,,None
+openstate,SamiraZ,None,https://api.github.com/users/SamiraZ,User,None,,None
+openstate,siccovansas,Sicco van Sas,https://api.github.com/users/siccovansas,User,Open State Foundation,http://openstate.eu,"Amsterdam, The Netherlands"
+openstate,stefvangrieken,Stef van Grieken,https://api.github.com/users/stefvangrieken,User,None,,San Francisco
+openstate,wieger,Wieger Uffink,https://api.github.com/users/wieger,User,Lazzo,http://www.lazzo.nl,"Amsterdam, Netherlands"
+opentechinstitute,elationfoundation,Seamus Tuohy,https://api.github.com/users/elationfoundation,User,None,,None
+opentechinstitute,georgiamoon,georgia bullen,https://api.github.com/users/georgiamoon,User,Open Technology Institute,http://georgiabullen.com,"Washington, DC"
+opentechinstitute,glamrock,Griffin Boyce,https://api.github.com/users/glamrock,User,absurdist censorship researcher,http://cryptic.be,"Cambridge, MA"
+opentechinstitute,jheretic,Josh King,https://api.github.com/users/jheretic,User,None,,None
+opentechinstitute,jrbaldwin,Alyx Baldwin,https://api.github.com/users/jrbaldwin,User,Kip,http://jrbaldwin.com,NYC
+opengovfoundation,cmbirk,Chris Birk,https://api.github.com/users/cmbirk,User,OpenGov Foundation,,"Chicago, IL"
+opengovfoundation,krues8dr,Bill Hunt,https://api.github.com/users/krues8dr,User,None,http://krues8dr.com/,"Washington, DC"
+opengovfoundation,seamuskraft,Seamus Kraft,https://api.github.com/users/seamuskraft,User,OpenGov Foundation,http://opengovfoundation.org/,"Washington, DC"
+opengovfoundation,sethetter,Seth Etter,https://api.github.com/users/sethetter,User,"BalancedComp, LLC",http://sethetter.com,"Wichita, KS"
+openoakland,eddietejeda,Eddie A Tejeda,https://api.github.com/users/eddietejeda,User,None,http://eddietejeda.com,None
+openoakland,erin-hancock,Erin Hancock,https://api.github.com/users/erin-hancock,User,None,,None
+openoakland,ixley,Jeff French,https://api.github.com/users/ixley,User,None,ixley.com,"Oakland, CA"
+openoakland,kleinlieu,Klein Lieu,https://api.github.com/users/kleinlieu,User,None,www.kleinlieu.com,None
+openoakland,maxogden,Err:501,https://api.github.com/users/maxogden,User,recruiters: dont email me,http://maxogden.com,None
+openoakland,robert-chiniquy,Robert Chiniquy,https://api.github.com/users/robert-chiniquy,User,ScaleFT,http://robert-chiniquy.github.io/,"Eas{t,y} Bay"
+openoakland,RobertStewart,Robert Stewart,https://api.github.com/users/RobertStewart,User,Castlight Health,http://wombatnation.com/,"Oakland, CA, USA"
+openoakland,spjika,Spike,https://api.github.com/users/spjika,User,Urban Strategies Council + OpenOakland,http://stevespiker.com,"Oakland,CA"
+openoakland,tdooner,Tom Dooner,https://api.github.com/users/tdooner,User,Brigade,http://tomdooner.com,"San Francisco, CA"
+oxfordinternetinstitute,amedhat,None,https://api.github.com/users/amedhat,User,None,,None
+oxfordinternetinstitute,avorio,André Avorio,https://api.github.com/users/avorio,User,None,http://avor.io,London
+oxfordinternetinstitute,berniehogan,None,https://api.github.com/users/berniehogan,User,None,,None
+oxfordinternetinstitute,computermacgyver,Scott Hale,https://api.github.com/users/computermacgyver,User,None,http://www.scotthale.net/,None
+oxfordinternetinstitute,DGaffney,Devin Gaffney,https://api.github.com/users/DGaffney,User,Northeastern University,http://devingaffney.com,"Boston, MA"
+oxfordinternetinstitute,jthrilly,Joshua Melville,https://api.github.com/users/jthrilly,User,Oxford Internet Institute,http://mors-ontologica.com,Oxford/London
+oxfordinternetinstitute,markgraham,None,https://api.github.com/users/markgraham,User,None,,None
+oxfordinternetinstitute,neokoenig,Tom King,https://api.github.com/users/neokoenig,User,OxAlto Design,http://www.oxalto.co.uk,Oxford
+oxfordinternetinstitute,pmyteh,Tom Nicholls,https://api.github.com/users/pmyteh,User,"Oxford Internet Institute, University of Oxford",http://www.oii.ox.ac.uk/people/?id=211,None
+oxfordinternetinstitute,wybo,Wybo Wiersma,https://api.github.com/users/wybo,User,Oxford Internet Institute,http://wybowiersma.net,Oxford
+oxfordinternetinstitute,xpressyoo,Florian Bersier,https://api.github.com/users/xpressyoo,User,"Oxford Internet Institute, University of Oxford (PhD)",http://florianbersier.com,"Geneva, Switzerland"
+votesmart,asonnenschein,Adrian Sonnenschein,https://api.github.com/users/asonnenschein,User,None,http://adrianlikescomputers.com,"Tucson, AZ"
+votesmart,mikeshultz,Mike Shultz,https://api.github.com/users/mikeshultz,User,Project Vote Smart,http://www.mikeshultz.com/,"Montana, USA"
+hasadna,akariv,Adam Kariv,https://api.github.com/users/akariv,User,None,,Israel
+hasadna,amirnissim,Amir Nissim,https://api.github.com/users/amirnissim,User,None,http://bit.ly/amirn ,Tel Aviv
+hasadna,ArnonEilat,Arnon,https://api.github.com/users/ArnonEilat,User,None,,None
+hasadna,danielhers,Daniel Hershcovich,https://api.github.com/users/danielhers,User,None,,None
+hasadna,daonb,benny daon,https://api.github.com/users/daonb,User,Tuzig,http://tuzig.com,Tel-Aviv
+hasadna,eyalliebermann,Eyal Liebermann אייל ליברמן,https://api.github.com/users/eyalliebermann,User,The Public Knowledge Workshop ( הסדנא לידע ציבורי) - Volunterring,eyalliebermann.com,"Google Campus, Tel-Aviv"
+hasadna,gardenofwine,None,https://api.github.com/users/gardenofwine,User,None,,None
+hasadna,gl1000007,Gilad L,https://api.github.com/users/gl1000007,User,None,,None
+hasadna,habeanf,Amir More,https://api.github.com/users/habeanf,User,None,,None
+hasadna,MeirKriheli,Meir Kriheli,https://api.github.com/users/MeirKriheli,User,Meir Kriheli - Technology & Development,http://meirkriheli.com/en/,None
+hasadna,morchickit,None,https://api.github.com/users/morchickit,User,None,,None
+hasadna,mushon,Mushon Zer-Aviv,https://api.github.com/users/mushon,User,Shual.com,http://www.mushon.com,None
+hasadna,nonZero,Udi Oron,https://api.github.com/users/nonZero,User,10x.org.il,http://www.10x.org.il,Israel
+hasadna,ofri,Ofri Raviv,https://api.github.com/users/ofri,User,None,,"Tel Aviv, Israel"
+hasadna,pwalsh,Paul Walsh,https://api.github.com/users/pwalsh,User,None,http://pwalsh.me/,Tel Aviv
+hasadna,ricardinho,Ricardo Moreno,https://api.github.com/users/ricardinho,User,None,,None
+hasadna,romansky,Roman Landenband,https://api.github.com/users/romansky,User,None,www.uniformlyrandom.com,Israel
+hasadna,shakhal,Shakhal Levinson,https://api.github.com/users/shakhal,User,None,,None
+hasadna,SoapSeller,None,https://api.github.com/users/SoapSeller,User,None,,None
+hasadna,uda,Yehuda Deutsch,https://api.github.com/users/uda,User,None,http://0x59.net/,None
+hasadna,ydaniv,Yehonatan Daniv,https://api.github.com/users/ydaniv,User,None,,Tel Aviv
+pwyf,andylolz,Andy Lulham,https://api.github.com/users/andylolz,User,None,http://treadsoft.ly,"London, UK"
+pwyf,markbrough,None,https://api.github.com/users/markbrough,User,None,,Berlin
+regardscitoyens,fenicento,Daniele Ciminieri,https://api.github.com/users/fenicento,User,"DensityDesign, Geppetto Lab",http://www.densitydesign.org/person/daniele-ciminieri/,Milan
+regardscitoyens,fmassot,François Massot,https://api.github.com/users/fmassot,User,None,,None
+regardscitoyens,RouxRC,Benjamin Ooghe-Tabanou,https://api.github.com/users/RouxRC,User,None,,None
+regardscitoyens,uf0,uf0,https://api.github.com/users/uf0,User,None,,None
+seegno,fixe,Tiago Ribeiro,https://api.github.com/users/fixe,User,Uphold,http://tiagoribeiro.net,"Braga, Portugal"
+seegno,franciscocardoso,Francisco Cardoso,https://api.github.com/users/franciscocardoso,User,None,,None
+seegno,joaonice,João Gonçalves,https://api.github.com/users/joaonice,User,Seegno,,Braga
+seegno,jrpereira,Jorge Pereira,https://api.github.com/users/jrpereira,User,Seegno,http://seegno.com,"Braga, Portugal"
+seegno,nunofgs,Nuno Sousa,https://api.github.com/users/nunofgs,User,Bitreserve,http://twitter.com/nunofgs,"Braga, Portugal"
+seegno,nunorafaelrocha,Nuno Rafael Rocha,https://api.github.com/users/nunorafaelrocha,User,Seegno,,Portugal
+seegno,ruimarinho,Rui Marinho,https://api.github.com/users/ruimarinho,User,Bitreserve,https://twitter.com/ruipmarinho,Portugal
+seegno,ruipenso,Rui Silva,https://api.github.com/users/ruipenso,User,Uphold Inc,https://uphold.com,"Braga, Portugal"
+slashroots,paradoxxjm,paradoxxjm,https://api.github.com/users/paradoxxjm,User,None,http://mamcnaughton.posterous.com/,"Kingston, Jamaica"
+tag1consulting,bdragon28,None,https://api.github.com/users/bdragon28,User,None,,None
+tag1consulting,catch56,Nathaniel Catchpole,https://api.github.com/users/catch56,User,Tag1 Consulting,,None
+tag1consulting,gchaix,Greg Lund-Chaix,https://api.github.com/users/gchaix,User,Tag1 Consulting,,"Portland, Oregon, USA"
+tag1consulting,jeffsheltren,Jeff Sheltren,https://api.github.com/users/jeffsheltren,User,None,,None
+tag1consulting,jeremyandrews,Jeremy Andrews,https://api.github.com/users/jeremyandrews,User,"Tag1 Consulting, Inc.",http://tag1consulting.com/,United States
+tag1consulting,killes,None,https://api.github.com/users/killes,User,None,,None
+tag1consulting,mmolinari,Marco Molinari,https://api.github.com/users/mmolinari,User,None,,None
+tag1consulting,nnewton,None,https://api.github.com/users/nnewton,User,None,,None
+tag1consulting,sdboyer,Sam Boyer,https://api.github.com/users/sdboyer,User,Tag1 Consulting,,"Detroit, MI, USA"
+the-engine-room,mayarichman,Maya,https://api.github.com/users/mayarichman,User,None,,Berlin
+titansgroup,Andersonsa,None,https://api.github.com/users/Andersonsa,User,None,,None
+titansgroup,antoniograeff,Antonio Graeff,https://api.github.com/users/antoniograeff,User,None,http://www.antoniograeff.com/,"São Paulo, SP - Brazil"
+titansgroup,caioborges,Caio Borges,https://api.github.com/users/caioborges,User,Knowledge 4 Life,,São Paulo - BR
+titansgroup,dvainsencher,None,https://api.github.com/users/dvainsencher,User,None,,None
+titansgroup,EmilioAiolfi,Emilio Aiolfi,https://api.github.com/users/EmilioAiolfi,User,None,,None
+titansgroup,erickwilder,Erick Wilder,https://api.github.com/users/erickwilder,User,None,http://erickwilder.com,São Paulo
+titansgroup,jonasborges,Jonas Borges Alves,https://api.github.com/users/jonasborges,User,None,,"São Paulo, Brazil"
+titansgroup,jsbueno,Joao S. O. Bueno,https://api.github.com/users/jsbueno,User,C.D.S.F.U.,http://jsbueno.blogspot.com,Campinas SP
+titansgroup,lhonda,None,https://api.github.com/users/lhonda,User,None,,None
+titansgroup,reinaldons,Reinaldo Nolasco Sanches,https://api.github.com/users/reinaldons,User,None,http://reinaldons.github.com,São Paulo / Brazil
+titansgroup,rreimberg,Rafael Reimberg Lima,https://api.github.com/users/rreimberg,User,None,twitter.com/rreimberg,São Paulo
+titansgroup,thiromi,Thiago Hiromi,https://api.github.com/users/thiromi,User,None,thiromi.com,Brasil
+titansgroup,wiliamsouza,Wiliam Souza,https://api.github.com/users/wiliamsouza,User,None,wiliamsouza.github.com,"Colombo, Paraná, Brazil"
+Tuxuri,angch,Ang Chin Han,https://api.github.com/users/angch,User,None,,"Kuala Lumpur, Malaysia"
+UCL,abbot,Lev Shamardin,https://api.github.com/users/abbot,User,Google UK Ltd.,http://www.google.com/about/company/,"London, UK"
+UCL,AndrewCRMartin,Andrew Martin,https://api.github.com/users/AndrewCRMartin,User,UCL,http://www.bioinf.org.uk,London
+UCL,floswald,Florian Oswald,https://api.github.com/users/floswald,User,Sciences Po,http://floswald.github.io,Paris
+UCL,garymacindoe,Gary Macindoe,https://api.github.com/users/garymacindoe,User,University College London,http://www.garymacindoe.co.uk/,London
+UCL,kynan,Florian Rathgeber,https://api.github.com/users/kynan,User,ECMWF,,"Reading, UK"
+UCL,maximilianallan,Max Allan,https://api.github.com/users/maximilianallan,User,University College London,http://www.cs.ucl.ac.uk/staff/m.allan/,"London, UK"
+UCL,mdavezac,Mayeul d'Avezac,https://api.github.com/users/mdavezac,User,University College London,,London
+UCL,michel-kraemer,Michel Krämer,https://api.github.com/users/michel-kraemer,User,Fraunhofer IGD,http://www.michel-kraemer.com,Germany
+UCL,miepstei,None,https://api.github.com/users/miepstei,User,None,,None
+UCL,qfma,Fabian Zimmer,https://api.github.com/users/qfma,User,None,https://qfma.de,London
+UCL,scidom,Theodore Papamarkou,https://api.github.com/users/scidom,User,University of Glasgow,,None
+UCL,simonbyrne,Simon Byrne,https://api.github.com/users/simonbyrne,User,UCL,,London
+UCL,tbs1980,Sreekumar Thaithara Balan,https://api.github.com/users/tbs1980,User,University College London,http://tbs1980.github.io,"London, United Kingdon"
+UCL,uschille,Ulf Schiller,https://api.github.com/users/uschille,User,University College London,,"London, United Kingdom"
+UCL,willu47,Will Usher,https://api.github.com/users/willu47,User,UCL Energy Institute,www.ucl.ac.uk/energy,"London, United Kingdom"
+UCL,ziyiJ,None,https://api.github.com/users/ziyiJ,User,None,,None
+une,mdebus4,None,https://api.github.com/users/mdebus4,User,None,,None
+une,rzzmttzz,Ben Funnell,https://api.github.com/users/rzzmttzz,User,None,,None
+UrbanStrategies,ploebus,None,https://api.github.com/users/ploebus,User,None,,None
+UrbanStrategies,spjika,Spike,https://api.github.com/users/spjika,User,Urban Strategies Council + OpenOakland,http://stevespiker.com,"Oakland,CA"
