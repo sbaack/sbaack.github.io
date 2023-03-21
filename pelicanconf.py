@@ -26,10 +26,9 @@ AUTHOR_FEED_RSS = None
 LINKS = (
     ("Mastodon", "https://mozilla.social/@tootbaack"),
     ("Google Scholar", "https://scholar.google.com/citations?hl=en&user=cphFdLUAAAAJ"),
-    ("Researchgate", "https://www.researchgate.net/profile/Stefan_Baack"),
+    ("ORCID", "https://orcid.org/0000-0002-2464-7699"),
     ("LinkedIn", "https://de.linkedin.com/in/stefanbaack"),
     ("GitHub", "https://github.com/sbaack"),
-    ("Medium", "https://medium.com/@sbaack"),
     ("Twitter", "https://twitter.com/tweetbaack"),
     ("RSS", f"{SITEURL}/feeds/all.atom.xml"),
 )
