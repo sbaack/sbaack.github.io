@@ -35,10 +35,32 @@ LINKS = (
 
 DEFAULT_PAGINATION = 5
 
-STATIC_PATHS = ["extra/custom.css", "extra/CNAME", "images", "downloads"]
+# By default, HTML files get processed by the article and page generators before the
+# static generator, meaning that they won't be included in the generated output as is.
+# These settings make sure HTML files in the 'extra' directory are treated as static.
+PAGE_EXCLUDES = ["extra"]
+ARTICLE_EXCLUDES = ["extra"]
+
+STATIC_PATHS = [
+    "extra/custom.css",
+    "extra/CNAME",
+    "images",
+    "downloads",
+    # These files are for redirecting old URLs which are used in some publications
+    "extra/mapping-the-civic-hacking-community.html",
+    "extra/scraping-the-global-civic-tech-community-on-github-part-2.html",
+]
+
 EXTRA_PATH_METADATA = {
     "extra/CNAME": {"path": "CNAME"},
     "extra/custom.css": {"path": "static/custom.css"},
+    # For redirection to work properly, imitate directory structure used by Jekyll
+    "extra/mapping-the-civic-hacking-community.html": {
+        "path": "2015/11/17/mapping-the-civic-hacking-community.html"
+    },
+    "extra/scraping-the-global-civic-tech-community-on-github-part-2.html": {
+        "path": "2015/11/19/scraping-the-global-civic-tech-community-on-github-part-2.html"
+    },
 }
 CUSTOM_CSS = "static/custom.css"
 
@@ -48,7 +70,7 @@ ARTICLE_SAVE_AS = "blog/{slug}.html"
 ARCHIVES_SAVE_AS = "archives.html"
 
 PLUGIN_PATHS = ["pelican-plugins"]
-PLUGINS = ["pelican_alias", "i18n_subsites"]
+PLUGINS = ["i18n_subsites"]
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True

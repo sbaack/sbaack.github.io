@@ -1,7 +1,6 @@
 Title: #asmc14 afterthoughts: Big Data and Democracy
 Date: 2014-07-04 13:05
 Category: Blog
-Alias: 2014/07/04/asmc14-afterthoughts-big-data-and-democracy.html
 
 'Big data' is usually conceived as a way to generate knowledge by analyzing ever larger and 'messier' quantities of data. The rationality behind big data is often associated with centralized control and surveillance: Grab as much (if possible: all) data there is about a phenomenon and analyze it to discover patterns and predict future behavior. Not something one would easily associate with democratic values or citizen empowerment.
 

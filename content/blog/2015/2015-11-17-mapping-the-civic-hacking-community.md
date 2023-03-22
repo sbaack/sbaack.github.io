@@ -1,7 +1,6 @@
 Title: (Outdated) Mapping the civic tech community on GitHub
 Date: 2015-11-17 15:05
 Category: Blog
-Alias: 2015/11/17/mapping-the-civic-hacking-community.html
 
 **Check updated version [here](scraping-the-global-civic-tech-community-on-github-part-2.html)**
 

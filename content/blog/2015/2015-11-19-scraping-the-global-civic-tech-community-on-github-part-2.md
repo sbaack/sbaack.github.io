@@ -1,7 +1,6 @@
 Title: Scraping the global civic tech community on GitHub, part 2
 Date: 2015-11-19 17:20
 Category: Blog
-Alias: 2015/11/19/scraping-the-global-civic-tech-community-on-github-part-2.html
 
 After I shared the post about my little [GitHub experiment]({filename}/blog/2015/2015-11-17-mapping-the-civic-hacking-community.md) in [mySociety's community mailing list](https://groups.google.com/a/mysociety.org/d/msg/mysociety-community/DyCFE7bk4_U/Diq9f9kqDwAJ), it became much more [popular than I anticipated](https://twitter.com/jwyg/status/667056707504316416). In the meantime, I got some help to compile [a more complete list of civic tech organizations on GitHub]({static}/downloads/data_github_scrape_civic-tech_2015-11-19/organizations.txt) and spent all day scraping. Will the more complete list yield different results? Let's see!
 
