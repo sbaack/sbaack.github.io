@@ -133,7 +133,7 @@ def gh_pages(c):
 
 
 @task
-def setup_submodules(c):
+def init(c):
     """Initialize and setup submodules."""
     c.run("git submodule update --init --remote")
 

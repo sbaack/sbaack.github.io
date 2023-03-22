@@ -19,8 +19,8 @@ make init
 Or `invoke` as a cross-platform solution:
 
 ```bash
-python -m pip install -U pip invoke -Ur requirements.in
-invoke setup-submodules
+python -m pip install -U pip -Ur requirements-invoke.in
+invoke init
 ```
 
 # How to publish
