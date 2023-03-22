@@ -72,5 +72,5 @@ ARCHIVES_SAVE_AS = "archives.html"
 PLUGIN_PATHS = ["pelican-plugins"]
 PLUGINS = ["i18n_subsites"]
 
-# Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
+# Relative URLs for testing locally
+RELATIVE_URLS = True
