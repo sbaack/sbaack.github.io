@@ -91,4 +91,4 @@ update:
 
 init: update setup_submodules
 
-.PHONY: html help clean regenerate serve serve-global devserver publish github setup_submodules update init
+.PHONY: html help clean regenerate serve serve-global devserver publish github dev-preview setup_submodules update init
