@@ -3,9 +3,6 @@
 ```bash
 git clone git@github.com:sbaack/sbaack.github.io.git
 cd sbaack.github.io
-# Github user pages require static files in the main branch.
-# Therefore, switch to branch containing the source code for editing
-git checkout pelican
 # Create a new virtualenv using your preferred tool, e.g.:
 python -m venv .venv && source .venv/bin/activate
 ```
@@ -31,7 +28,7 @@ After you've done some changes or created new content in the `pelican` branch (e
 
 - Preview your changes before publication. Use `make dev-preview` or `invoke dev-preview`. This (re-)creates an `output` folder containing the updated static files and serves them at <http://localhost:8000/> by default.
 - If you didn't encounter any issues in the preview, commit your changes to the `pelican` branch.
-- Publish your content with `make github` or `invoke gh-pages`. This first moves and commits the contents of the `output` directory in the `pelican` branch to the `main` branch using `ghp-import`, and then pushes an update to `origin main`.
+- Publish your content with `make github` or `invoke gh-pages`. This first moves and commits the contents of the `output` directory in the `main` branch to the `gh-pages` branch using `ghp-import`, and then pushes an update to `origin gh-pages`. The `gh-pages` branch is used by Github to build and deploy the page (which can be configured in the repository's settings).
 
 # Additional information about this setup
 
