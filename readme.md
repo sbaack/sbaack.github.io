@@ -3,7 +3,7 @@
 ```bash
 git clone git@github.com:sbaack/sbaack.github.io.git
 cd sbaack.github.io
-# Github user pages require the rendered page in the main branch.
+# Github user pages require static files in the main branch.
 # Therefore, switch to branch containing the source code for editing
 git checkout pelican
 # Create a new virtualenv using your preferred tool, e.g.:
