@@ -24,10 +24,10 @@ invoke init
 
 As a general note, use Chicago Manual of Style 17th edition (author-date) as your citation style to be consistent with the older content.
 
-After you've done some changes or created new content in the `pelican` branch (e.g. a new blog post), do the following:
+After you've done some changes or created new content in the `main` branch, do the following:
 
 - Preview your changes before publication. Use `make dev-preview` or `invoke dev-preview`. This (re-)creates an `output` folder containing the updated static files and serves them at <http://localhost:8000/> by default.
-- If you didn't encounter any issues in the preview, commit your changes to the `pelican` branch.
+- If you didn't encounter any issues in the preview, commit your changes to the `main` branch.
 - Publish your content with `make github` or `invoke gh-pages`. This first moves and commits the contents of the `output` directory in the `main` branch to the `gh-pages` branch using `ghp-import`, and then pushes an update to `origin gh-pages`. The `gh-pages` branch is used by Github to build and deploy the page (which can be configured in the repository's settings).
 
 # Additional information about this setup
