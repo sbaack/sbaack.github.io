@@ -36,10 +36,12 @@ CONFIG = {
 
 @task
 def clean(c):
-    """Remove generated files"""
+    """Remove generated files and cache"""
     if os.path.isdir(CONFIG["deploy_path"]):
         shutil.rmtree(CONFIG["deploy_path"])
         os.makedirs(CONFIG["deploy_path"])
+    if os.path.isdir("cache"):
+        shutil.rmtree("cache")
 
 
 @task
