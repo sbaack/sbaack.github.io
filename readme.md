@@ -16,7 +16,7 @@ To install the project dependencies and set up the necessary submodules you can 
 make init
 ```
 
-Or `invoke` as a cross-platform solution:
+Or [`Invoke`](https://www.pyinvoke.org/) as a cross-platform solution:
 
 ```bash
 python -m pip install -U pip -Ur requirements-invoke.in
@@ -29,7 +29,7 @@ As a general note, use Chicago Manual of Style 17th edition (author-date) as you
 
 After you've done some changes or created new content in the `pelican` branch (e.g. a new blog post), do the following:
 
-- Preview your changes before publication. Use `make clean html serve` or `invoke clean preview serve`. This creates a new `output` folder containing the updated static files and serves them at <http://localhost:8000/> by default.
+- Preview your changes before publication. Use `make dev-preview` or `invoke dev-preview`. This (re-)creates an `output` folder containing the updated static files and serves them at <http://localhost:8000/> by default.
 - If you didn't encounter any issues in the preview, commit your changes to the `pelican` branch.
 - Publish your content with `make github` or `invoke gh_pages`. This first moves and commits the contents of the `output` directory in the `pelican` branch to the `main` branch using `ghp-import`, and then pushes an update to `origin main`.
 

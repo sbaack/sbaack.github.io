@@ -1,6 +1,7 @@
 /output/
 /__pycache__/
 /.vscode/
+/cache/
 .DS_Store
 .venv
 # Override global gitignore to track image files

@@ -160,6 +160,13 @@ def gh_pages(c):
 
 
 @task
+def dev_preview(c):
+    """Rebuild local version of the site and serve livereload."""
+    rebuild(c)
+    livereload(c)
+
+
+@task
 def init(c):
     """Initialize and setup submodules."""
     c.run("git submodule update --init --remote")
