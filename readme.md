@@ -35,8 +35,6 @@ After you've done some changes or created new content in the `pelican` branch (e
 
 # Additional information about this setup
 
-This setup relies on adding `.git` and `.gitignore` to the `OUTPUT_RETENTION` [setting](https://docs.getpelican.com/en/stable/settings.html#basic-settings) in your `publishconf.py`.
-
 `pelican-themes` and `pelican-plugins` are set up as git submodules using the following settings in `.gitmodules`:
 
 ```yaml
