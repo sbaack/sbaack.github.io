@@ -52,9 +52,9 @@ This setup relies on adding `.git` and `.gitignore` to the `OUTPUT_RETENTION` [s
     shallow = true
 ```
 
-First, we only make shallow copies of submodules, as we don't need their full commit history. Second, changes to these submodules are ignored. Instead of tracking changes to submodules in the main repository (and thus having lots of commits that do nothing but updating pointers to submodules), we rely on the  `--remote` flag when cloning or updating the submodules, which tells git to pull the latest versions of the submodules' remotes. If you want to update the submodules at some point, use `git submodule update --remote` or execute `make setup_submodules`/`invoke setup-submodules` again.
+First, we only make shallow copies of submodules, as we don't need their full commit history. Second, changes to these submodules are ignored. Instead of tracking changes to submodules in this repository (and thus having lots of commits that do nothing but updating pointers to submodules), we rely on the  `--remote` flag when cloning or updating the submodules, which tells git to pull the latest versions of the submodules' remotes. If you want to update the submodules at some point, use `git submodule update --remote` or execute `make init`/`invoke init` again.
 
-If you want to manually update the pointers to the submodules within the main repository for whatever reason, you can do this:
+However, if you still want to update pointers to the submodules in this repository:
 
 ```bash
 git submodule update --remote --merge <submodule>
