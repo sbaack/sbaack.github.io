@@ -1,4 +1,4 @@
-Title:
+Title: About
 Status: hidden
 save_as: index.html
 Slug: about
