@@ -1,6 +1,6 @@
 Title: Talk about the practices of values of civic hacking at mySociety
 Date: 2015-06-29
-Category: Blog
+Tags: conferences, civic tech
 
 Last week I gave a talk at the great [Data Power Conference](http://web.archive.org/web/20151216174345/http://www.sheffield.ac.uk/socstudies/datapower/programme) at the University of Sheffield which had a [panel dedicated to civic hacking](http://web.archive.org/web/20160822003422/http://www.sheffield.ac.uk/socstudies/datapower/panel-9). This was a great opportunity to present some findings from my ongoing case study about the practices and values of civic hacking at mySociety.
 

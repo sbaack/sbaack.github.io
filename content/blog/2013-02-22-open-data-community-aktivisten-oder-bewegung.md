@@ -1,6 +1,6 @@
 Title: Open Data...Community, Aktivisten oder Bewegung?
 Date: 2013-02-22
-Category: Blog
+Tags: german, open data movement
 
 In der Diskussion rund um das neue Datenportal govdata.de geht es vordergründig um dessen mangelhafte Umsetzung. Ein Nebenschauplatz scheint dabei aber auch die Schwierigkeit zu sein, sich als Gruppe von Open Data Anhängern selbst zu definieren. Abwechselnd bezeichnet man sich mal als Community, mal als Aktivisten und mal als Bewegung. Was unterscheidet diese Begriffe voneinander? Und noch wichtiger: Was sagt diese Unsicherheit über das Selbstbild der Beteiligten aus?
 

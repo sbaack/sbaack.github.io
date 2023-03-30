@@ -1,8 +1,8 @@
 Title: A few thoughts about data journalism from the Mozfest 2015
 Date: 2015-11-11 21:54
-Category: Blog
+Tags: conferences, journalism, mozilla
 
-A few days ago I attended my very first [Mozfest](http://web.archive.org/web/20160108225114/https://2015.mozillafestival.org/). Now I understand why [survival guides](http://web.archive.org/web/20131024125125/http://digitalbydefault.com/2013/10/19/mozfest-survival-guide/) have been written for this event. It's so huge and busy you can easily get lost and overwhelmed! Just as I [did with the Daten Labor conference a few weeks ago]({filename}/blog/2015/2015-10-26-daten-labor-2015.md), I want to write down some interesting observations here.
+A few days ago I attended my very first [Mozfest](http://web.archive.org/web/20160108225114/https://2015.mozillafestival.org/). Now I understand why [survival guides](http://web.archive.org/web/20131024125125/http://digitalbydefault.com/2013/10/19/mozfest-survival-guide/) have been written for this event. It's so huge and busy you can easily get lost and overwhelmed! Just as I [did with the Daten Labor conference a few weeks ago]({filename}/blog/2015-10-26-daten-labor-2015.md), I want to write down some interesting observations here.
 
 ## The importance of programming languages and computational thinking in data journalism
 
