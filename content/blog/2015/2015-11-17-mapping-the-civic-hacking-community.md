@@ -2,7 +2,7 @@ Title: (Outdated) Mapping the civic tech community on GitHub
 Date: 2015-11-17 15:05
 Category: Blog
 
-**Check updated version [here](scraping-the-global-civic-tech-community-on-github-part-2.html)**
+**Check updated version [here]({filename}/blog/2015/2015-11-19-scraping-the-global-civic-tech-community-on-github-part-2.md)**
 
 How can we describe the global civic tech community? To date, it's pretty hard to find answers to this question given that there is not even a consensus [on how to define civic tech](http://web.archive.org/web/20151009080407/https://www.mysociety.org/2014/09/08/civic-tech-has-won-the-name-game-but-what-does-it-mean/). However, there are some interesting proxies to explore this community. One of them is [GitHub](http://web.archive.org/web/20151117201802/https://github.com/) as most civic tech projects and developers are using it. Another one is the [Poplus community](http://web.archive.org/web/20151112053520/http://poplus.org:80/), which is a deliberate attempt to create a 'global federation for civic tech'.
 
