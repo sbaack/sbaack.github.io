@@ -9,6 +9,7 @@ PATH = "content"
 
 THEME = "pelican-themes/pelican-bootstrap3"
 BOOTSTRAP_THEME = "paper"
+PADDED_SINGLE_COLUMN_STYLE = True
 JINJA_ENVIRONMENT = {"extensions": ["jinja2.ext.i18n"]}
 
 TIMEZONE = "Europe/Paris"
