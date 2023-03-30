@@ -21,6 +21,8 @@ _Knowing what counts: How journalists and civic technologists use and imagine da
 
 Baack, S., Djeffal, C., Jarke, J. & Send, H. (2023). _Civic Tech. Ein Beispiel für Bürgerzentrierung und Bürgerbeteiligung als Leitbild der Verwaltungsdigitalisierung_. In T. Klenk, F. Nullmeier & G. Wewer (Eds.), Handbuch Digitalisierung in Staat und Verwaltung. Springer. <https://doi.org/10.1007/978-3-658-23669-4_29-2>
 
+Baack, S., Cheruiyot, D., Ferrer-Conill, R. (2022), _Journalism is not a one-way street. Recognizing multi-directional dynamics_. In P. Ferrucci & S. A. Eldridge II (Eds.), The Institutions Changing Journalism. Barbarians Inside the Gate. Routledge. <https://www.taylorfrancis.com/chapters/edit/10.4324/9781003140399-10/journalism-one-way-street-stefan-baack-david-cheruiyot-raul-ferrer-conill>. PDF available at <https://hdl.handle.net/11370/5fb08a36-c54e-4320-ad27-e7ef2b27647a>
+
 Baack, S. (2021). _Data Journalism’s Entanglements with Civic Tech_. In J. Gray & L. Bounegru (Eds.), The Data Journalism Handbook: Towards a Critical Data Practice, pp. 286-290. Amsterdam. University Press. <https://library.oapen.org/handle/20.500.12657/47509>
 
 Baack, S. (2013). _A New Style of News Reporting. Wikileaks and Data-driven Journalism_. In B. Rambatan & J. Johanssen (Eds.), Cyborg subjects: discourses on digital culture (pp. 113–122). [S.l.]: CreateSpace Independent Publishing Platform. <https://nbn-resolving.org/urn:nbn:de:0168-ssoar-400253>
