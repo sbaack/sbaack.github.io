@@ -5,7 +5,7 @@ Slug: publications
 
 Heft, A., & Baack, S. (2021). _Cross-Bordering Journalism: How Intermediaries of Change Drive the Adoption of New Practices_. Journalism. <https://doi.org/10.1177/1464884921999540>
 
-Cheruiyot, D., Baack, S. & Ferrer-Conill, R. (2019). _Data journalism beyond legacy media: The case of African and European civic technology organizations_. Digital Journalism 7(9), 1215-1229. <https://doi.org/10.1177%2F2053951715594634>
+Cheruiyot, D., Baack, S. & Ferrer-Conill, R. (2019). _Data journalism beyond legacy media: The case of African and European civic technology organizations_. Digital Journalism 7(9), 1215-1229. <https://doi.org/10.1080/21670811.2019.1591166>
 
 Baack, S. (2018). _Practically Engaged: The entanglements between data journalism and civic tech_. Digital Journalism 6(6), 673-692. <https://doi.org/10.1080/21670811.2017.1375382>
 
@@ -19,9 +19,9 @@ _Knowing what counts: How journalists and civic technologists use and imagine da
 
 ### Book chapters
 
-Baack, S. (2021). _Data Journalism’s Entanglements with Civic Tech_. In J. Gray & L. Bounegru (Eds.), The Data Journalism Handbook: Towards a Critical Data Practice, pp. 286-290. Amsterdam. University Press. <https://library.oapen.org/handle/20.500.12657/47509>
+Baack, S., Djeffal, C., Jarke, J. & Send, H. (2023). _Civic Tech. Ein Beispiel für Bürgerzentrierung und Bürgerbeteiligung als Leitbild der Verwaltungsdigitalisierung_. In T. Klenk, F. Nullmeier & G. Wewer (Eds.), Handbuch Digitalisierung in Staat und Verwaltung. Springer. <https://doi.org/10.1007/978-3-658-23669-4_29-2>
 
-Baack, S., Djeffal, C., Jarke, J. & Send, H. (2020). _Civic Tech. Ein Beispiel für Bürgerzentrierung und Bürgerbeteiligung als Leitbild der Verwaltungsdigitalisierung_. In T. Klenk, F. Nullmeier & G. Wewer (Eds.), Handbuch Digitalisierung in Staat und Verwaltung. Springer. <https://doi.org/10.1007/978-3-658-23669-4_29-1>
+Baack, S. (2021). _Data Journalism’s Entanglements with Civic Tech_. In J. Gray & L. Bounegru (Eds.), The Data Journalism Handbook: Towards a Critical Data Practice, pp. 286-290. Amsterdam. University Press. <https://library.oapen.org/handle/20.500.12657/47509>
 
 Baack, S. (2013). _A New Style of News Reporting. Wikileaks and Data-driven Journalism_. In B. Rambatan & J. Johanssen (Eds.), Cyborg subjects: discourses on digital culture (pp. 113–122). [S.l.]: CreateSpace Independent Publishing Platform. <https://nbn-resolving.org/urn:nbn:de:0168-ssoar-400253>
 
