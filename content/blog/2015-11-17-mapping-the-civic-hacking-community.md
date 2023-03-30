@@ -42,7 +42,8 @@ I then wrote a [GitHub scraper](http://web.archive.org/web/20180612202138/https:
 
 I generated a follower network to see how these organizations are connected with each other and which individuals are best connected within the larger civic tech community, i.e. who has the most connections across different organizations. This is the result (with the size of the nodes reflecting how many followers a user has):
 
-![](/images/narrow_follower_network.png)
+![]({static}/images/narrow_follower_network.png)
+[Download HiRes version]({static}/images/narrow_follower_network.png)
 
 1. The most striking result is the key position of [maxogden](http://web.archive.org/web/20160111191819/https://github.com/maxogden). One reason: He develops some of the most popular tools among civic hackers, especially [dat](http://web.archive.org/web/20151028163917/https://github.com/maxogden/dat) (see below). Another, more simple explanation is that he makes extensive use of GitHub’s social features.
 2. It's interesting to see how the different organizations group up by regions. In the upper right we have Asian groups, especially [g0v](http://web.archive.org/web/20150313164025/https://github.com/g0v) (green). At the bottom is the US with [Code for America](http://web.archive.org/web/20160119073845/https://github.com/codeforamerica) (red) being the dominant actor. Most interestingly, at the upper left we have a mix of mostly European and Latin American groups, but also some groups from Canada or Australia. This might be unsurprising considering that the Poplus federation was founded by mySociety from the UK and [Ciudadano Inteligente](http://web.archive.org/web/20150924165229/http://en.ciudadanointeligente.org/) from Chile. Still, it’s curious that European and Latin American groups seem so well connected, while North American and Asian groups are relatively separate (with the exception of maxogden, who is well connected to every continent).
@@ -52,7 +53,7 @@ I generated a follower network to see how these organizations are connected with
 
 To get a sense of which repositories are most popular among civic hackers, I looked at GitHub's 'starring' feature:
 
-![](/images/starred_repos.png)
+![]({static}/images/starred_repos.png)
 
 1. The left side lists the repositories owned by the civic tech organizations sorted by the number of stars. This means it shows which civic tech repositories are most starred among GitHub users in total, including those who are not part of any civic tech organization. Most popular by far is [Recline](http://web.archive.org/web/20160128144514/https://github.com/okfn/recline/), a library for 'building data applications in pure Javascript and HTML'. Ushahidi appears twice in the top 20, which indicates again that the follower network above is a bit off. In general, it’s interesting to see how the most popular civic tech repositories are a mix of data tools, tutorials, and ‘proof of concept’ exemplars of civic tech applications.
 2. The right side shows the repositories which have been starred by the members of the civic tech organizations listed above, regardless of whether the starred repositories are own by civic tech organizations or not. A bit surprisingly, there are *no* civic tech repositories in the top 20. Beside that, the results are pretty much what one would expect: Tools to help developing websites and working with data. The popularity of [impress.js](http://web.archive.org/web/20151230131930/https://github.com/impress/impress.js) and [reveal.js](http://web.archive.org/web/20151106230937/https://github.com/hakimel/reveal.js) indicates that presenting at conferences or workshops about ideas and experiences is very common. I suggest that is also an expression of civic tech being a relatively new field with a lot of experimentation. What I could not figure out is the popularity of [Discourse](http://web.archive.org/web/20151104014721/https://github.com/discourse/discourse), an open source discussion platform.
@@ -61,7 +62,7 @@ To get a sense of which repositories are most popular among civic hackers, I loo
 
 GitHub allows users to specify their location. However, users are free to do that in whatever way they want, if they specify their location at all. Often, users just mention their home country or in some cases the continent they live on. It goes without saying that the [resulting map](http://web.archive.org/web/20200923052418/https://www.mapcustomizer.com/map/civic_tech_scrape) is inaccurate, but good enough to show the general direction:
 
-![](/images/locations_civic_hackers.png)
+![]({static}/images/locations_civic_hackers.png)
 
 Despite being increasingly global, this maps shows how much civic tech is a Western phenomenon. This is reflected in the interviews I had with members of mySociety, where it was pointed out the UK websites are a "magnitude busier and perhaps more successful" than in other places (especially in Africa) because they had ten years to grow.
 
