@@ -1,53 +1,47 @@
 # Set up blog on new machine
 
+Clone this repository and set up the theme as a submodule:
+
 ```bash
 git clone git@github.com:sbaack/sbaack.github.io.git
 cd sbaack.github.io
-# Create a new virtualenv using your preferred tool, e.g.:
-python -m venv .venv && source .venv/bin/activate
+git submodule update --init --remote
 ```
 
-To install the project dependencies and set up the necessary submodules you can either use `Gnu Make` (Linux or Mac):
+To be able to preview changes before publication, you need to have [Hugo](https://gohugo.io/) installed (`brew install hugo` if you're on Mac).
+
+# Write new content and publish
+
+Optional but useful, you can quickly generate a new file with a header with the `hugo new` command:
 
 ```bash
-make init
+hugo new content/blog/my-new-post.md
+hugo new content/pages/my-new-page.md
 ```
 
-Or [`Invoke`](https://www.pyinvoke.org/) as a cross-platform solution:
+Preview your changes before publication:
 
-```bash
-python -m pip install -U pip -Ur requirements-invoke.in
-invoke init
+```
+hugo server
 ```
 
-# How to publish
+If you didn't encounter any issues, simply create and push a new commit to `origin main`. Github will then generate and deploy the page automatically.
 
-As a general note, use Chicago Manual of Style 17th edition (author-date) as your citation style to be consistent with the older content.
-
-After you've done some changes or created new content in the `main` branch, do the following:
-
-- Preview your changes before publication. Use `make dev-preview` or `invoke dev-preview`. This (re-)creates an `output` folder containing the updated static files and serves them at <http://localhost:8000/> by default.
-- If you didn't encounter any issues in the preview, commit your changes to the `main` branch.
-- Publish your content with `make github` or `invoke gh-pages`. This first copies the contents of the `output` directory in the `main` branch to the `gh-pages` branch using `ghp-import`, and then creates and pushes a new commit to `origin gh-pages`. The `gh-pages` branch is used by Github to build and deploy the page (which can be configured in the repository's settings).
+Tip: Because Github takes care of publishing on each commit, you can also create and edit files in Github's web interface.
 
 # Additional information about this setup
 
-`pelican-themes` and `pelican-plugins` are set up as git submodules using the following settings in `.gitmodules`:
+The git submodule for the [Hugo-Coder theme](https://github.com/luizdepra/hugo-coder) is set up like this:
 
-```yaml
-[submodule "pelican-plugins"]
-    path = pelican-plugins
-    url = https://github.com/getpelican/pelican-plugins
-    ignore = all
-    shallow = true
-[submodule "pelican-themes"]
-    path = pelican-themes
-    url = https://github.com/getpelican/pelican-themes
-    ignore = all
+```bash
+[submodule "themes/hugo-coder"]
+	path = themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+	ignore = all
     shallow = true
 ```
 
-First, we only make shallow copies of submodules, as we don't need their full commit history. Second, changes to these submodules are ignored. Instead of tracking changes to submodules in this repository (and thus having lots of commits that do nothing but updating pointers to submodules), we rely on the  `--remote` flag when cloning or updating the submodules, which tells git to pull the latest versions of the submodules' remotes. If you want to update the submodules at some point, use `git submodule update --remote` or execute `make init`/`invoke init` again.
+First, we only make a shallow copy, as we don't need the full commit history. Second, changes to the submodule are ignored. Instead of tracking changes to the submodule in this repository (and thus accumulating commits that do nothing but updating pointers to it), we rely on the `--remote` flag when cloning or updating it, which tells git to pull the latest version of the submodule's remote. If you want to update the submodules at some point, use `git submodule update --remote`.
 
 However, if you still want to update pointers to the submodules in this repository:
 

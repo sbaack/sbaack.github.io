@@ -1,9 +1,6 @@
-/output/
-/__pycache__/
-/.vscode/
-/cache/
-.DS_Store
-.venv
+/public/
+/resources/
+.hugo_build.lock
 # Override global gitignore to track image files
 !*.jpg
 !*.png

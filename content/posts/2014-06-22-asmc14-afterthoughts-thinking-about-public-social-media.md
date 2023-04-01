@@ -1,6 +1,11 @@
-Title: #asmc14 afterthoughts: Thinking about public social media
-Date: 2014-06-22 12:56
-Tags: conferences, public media, social media
+---
+title: "#asmc14 afterthoughts: Thinking about public social media"
+date: 2014-06-22T12:56:00
+Tags:
+- conferences
+- public media
+- social media
+---
 
 Last week I attended the great [Social Media and the Transformation of Public Space conference](http://web.archive.org/web/20140617170253/http://asca.uva.nl:80/events/start-events/start-events/content/folder/conferences/2014/06/social-media.html) in Amsterdam. It was an exhausting, but very inspiring week! Here, I want to share some of the ideas and impressions while they are still fresh. I want to start with a question that I asked twice in two different Plenary Conversations:
 

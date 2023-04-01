@@ -1,8 +1,13 @@
-Title: A few thoughts about data journalism from the Mozfest 2015
-Date: 2015-11-11 21:54
-Tags: conferences, journalism, mozilla
+---
+title: A few thoughts about data journalism from the Mozfest 2015
+date: 2015-11-11T21:54:00
+tags:
+- conferences
+- journalism
+- mozilla
+---
 
-A few days ago I attended my very first [Mozfest](http://web.archive.org/web/20160108225114/https://2015.mozillafestival.org/). Now I understand why [survival guides](http://web.archive.org/web/20131024125125/http://digitalbydefault.com/2013/10/19/mozfest-survival-guide/) have been written for this event. It's so huge and busy you can easily get lost and overwhelmed! Just as I [did with the Daten Labor conference a few weeks ago]({filename}/blog/2015-10-26-daten-labor-2015.md), I want to write down some interesting observations here.
+A few days ago I attended my very first [Mozfest](http://web.archive.org/web/20160108225114/https://2015.mozillafestival.org/). Now I understand why [survival guides](http://web.archive.org/web/20131024125125/http://digitalbydefault.com/2013/10/19/mozfest-survival-guide/) have been written for this event. It's so huge and busy you can easily get lost and overwhelmed! Just as I [did with the Daten Labor conference a few weeks ago]({{< ref "posts/2015-10-26-daten-labor-2015.md" >}}), I want to write down some interesting observations here.
 
 ## The importance of programming languages and computational thinking in data journalism
 
@@ -18,6 +23,6 @@ As on the Daten Labor conference, the transparency and reproducibility of data j
 
 Coddington, Mark. 2015. ‘Clarifying Journalism’s Quantitative Turn’. _Digital Journalism_ 3 (3): 331–48. <https://doi.org/10.1080/21670811.2014.976400>.
 
-Diakopoulos, Nicholas. 2016. ‘Computational Journalism and the Emergence of News Platforms’. In _The Routledge Companion to Digital Journalism Studies_, edited by Scott Eldridge II and Bob Franklin. <http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/Computational-Journalism-and-the-Emergence-of-News-Platforms.pdf>.
+Diakopoulos, Nicholas. 2016. ‘Computational Journalism and the Emergence of News Platforms’. In _The Routledge Companion to Digital Journalism Studies_, edited by Scott Eldridge II and Bob Franklin. <https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=b401e0517826465d88212a4e38c42e51f6679479>.
 
 Wing, Jeannette M. 2010. ‘Computational Thinking: What and Why?’ Pittsburgh. <https://www.cs.cmu.edu/~CompThink/resources/TheLinkWing.pdf>

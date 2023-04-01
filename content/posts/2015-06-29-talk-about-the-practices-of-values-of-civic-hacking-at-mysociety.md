@@ -1,6 +1,10 @@
-Title: Talk about the practices of values of civic hacking at mySociety
-Date: 2015-06-29
-Tags: conferences, civic tech
+---
+title: Talk about the practices of values of civic hacking at mySociety
+date: 2015-06-29
+tags:
+- conferences
+- civic tech
+---
 
 Last week I gave a talk at the great [Data Power Conference](http://web.archive.org/web/20151216174345/http://www.sheffield.ac.uk/socstudies/datapower/programme) at the University of Sheffield which had a [panel dedicated to civic hacking](http://web.archive.org/web/20160822003422/http://www.sheffield.ac.uk/socstudies/datapower/panel-9). This was a great opportunity to present some findings from my ongoing case study about the practices and values of civic hacking at mySociety.
 
@@ -12,7 +16,7 @@ My presentation revolved around the term *empowerment*. mySociety aims at empowe
 
 1. *Civic hacking aims at giving citizens a greater sense of agency by making it easier for them to engage with authority*
 
-[FixMyStreet](http://web.archive.org/web/20150627191717/https://www.fixmystreet.com/), mySociety's website for reporting local issues to local councils, is a nice example to illustrate this point. At first, it might not be very obvious what reporting potholes, broken street lights, or [dog poop](http://web.archive.org/web/20150719185248/https://www.mysociety.org/2015/04/24/new-poster-to-help-with-dog-fouling-in-your-area/) has to do with empowerment. However, mySociety didn’t build FixMyStreet because they were particularly concerned with how smooth or clean the streets in their neighborhoods are. It rather has to do with "adjusting power relationships"*:
+[FixMyStreet](http://web.archive.org/web/20150627191717/https://www.fixmystreet.com/), mySociety's website for reporting local issues to local councils, is a nice example to illustrate this point. At first, it might not be very obvious what reporting potholes, broken street lights, or [dog poop](http://web.archive.org/web/20150719185248/https://www.mysociety.org/2015/04/24/new-poster-to-help-with-dog-fouling-in-your-area/) has to do with empowerment. However, mySociety didn’t build FixMyStreet because they were particularly concerned with how smooth or clean the streets in their neighborhoods are. It rather has to do with "adjusting power relationships"[^1]:
 
 > If somebody is able to report a problem with a pothole outside their house and next week it's fixed, **they have learned that engagement with authority is not futile**...FixMyStreet is a gateway drug into bigger civic engagement.
 
@@ -32,4 +36,4 @@ How does this create a new 'level of legibility'? To understand this, it is impo
 
 Please note that these are *early* findings on a specific aspect of my study. However, I'm excited about how rich, insightful and interesting these early steps are already and I hope to be able to do more interviews with members of mySociety in the near future!
 
-_​* All quotes used in this article are taken from my interviews with members of mySociety._
+[^1]: All quotes used in this article are taken from my interviews with members of mySociety.

@@ -1,5 +1,12 @@
-Title: Publications
-Slug: publications
+---
+title: Publications
+---
+
+- [Peer-reviewed articles](#peer-reviewed-articles)
+- [Reports](#reports)
+- [Book chapters](#book-chapters)
+- [Other publications (selection)](#other-publications-selection)
+- [Dissertation](#dissertation)
 
 ### Peer-reviewed articles
 
@@ -13,9 +20,13 @@ Baack, S. (2018). _Civic Tech at mySociety: How the Imagined Affordances of Data
 
 Baack, S. (2015). _Datafication and empowerment: How the open data movement re-articulates notions of democracy, participation, and journalism_. Big Data & Society, 2(2). <https://doi.org/10.1177/2053951715594634>
 
-### Dissertation
+### Reports
 
-_Knowing what counts: How journalists and civic technologists use and imagine data_. University of Groningen. <https://research.rug.nl/en/publications/knowing-what-counts-how-journalists-and-civic-technologists-use-a>
+Baack, S., & Larsen, S. (2022). _Who Has Power Over AI?_ Compilation of facts and figures for the Internet Health Report 2022, Mozilla. <https://2022.internethealthreport.org/facts/>
+
+Baack, S., & Maxwell, M. (2020). _Alternative Data Governance Approaches: Global Landscape Scan and Analysis_. <https://assets.mofoprod.net/network/documents/DataGovernanceApproaches.pdf>
+
+Baack, S., Witschge, T. & Ziyatdinova, T. (2018). _The European cultural journals sector. Diversity, common characteristics, and challenges_. Research report for [Eurozine](https://www.eurozine.com/). <https://www.eurozine.com/ecjs/>
 
 ### Book chapters
 
@@ -27,12 +38,6 @@ Baack, S. (2021). _Data Journalism’s Entanglements with Civic Tech_. In J. Gra
 
 Baack, S. (2013). _A New Style of News Reporting. Wikileaks and Data-driven Journalism_. In B. Rambatan & J. Johanssen (Eds.), Cyborg subjects: discourses on digital culture (pp. 113–122). [S.l.]: CreateSpace Independent Publishing Platform. <https://nbn-resolving.org/urn:nbn:de:0168-ssoar-400253>
 
-### Reports
-
-Baack, S., & Maxwell, M. (2020). _Alternative Data Governance Approaches: Global Landscape Scan and Analysis_. <https://assets.mofoprod.net/network/documents/DataGovernanceApproaches.pdf>
-
-Baack, S., Witschge, T. & Ziyatdinova, T. (2018). _The European cultural journals sector. Diversity, common characteristics, and challenges_. Research report for [Eurozine](https://www.eurozine.com/). <https://www.eurozine.com/ecjs/>
-
 ### Other publications (selection)
 
 Baack, S. (2016). _What big data leaks tell us about the future of journalism and its past_. Internet Policy Review. <https://policyreview.info/articles/news/what-big-data-leaks-tell-us-about-future-journalism-and-its-past/413>
@@ -41,8 +46,6 @@ Baack, S. (2013). _Die Open-Data-Bewegung. Das Verhältnis von Praktiken, Zielen
 
 Baack, S. (2012): _Gibt es ein "Open Movement"?_ Gastkommentar auf netzpolitik.org. <https://netzpolitik.org/2012/gibt-es-ein-open-movement/>
 
-### Selected presentations or workshops
+### Dissertation
 
-_'Global, Networked and Collaborative'. How the normalization of leaking shaped the identity and practice of investigative journalism_. AOIR 2019 conference, Brisbane.
-
-_Leaking: Nur Strohfeuer, oder Ausdruck einer nachhaltigen Veränderung im Journalismus?_ (~Leaking: One hit wonders or expression of enduring changes in journalism?). "#krassmedial: Gute Daten, schlechte Daten". Presentation at the workshop "#krassmedial: Gute Daten, schlechte Daten" organized by the German trade union ver.di, Berlin June 2018.
+_Knowing what counts: How journalists and civic technologists use and imagine data_. University of Groningen. <https://research.rug.nl/en/publications/knowing-what-counts-how-journalists-and-civic-technologists-use-a>

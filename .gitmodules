@@ -1,10 +1,5 @@
-[submodule "pelican-plugins"]
-	path = pelican-plugins
-	url = https://github.com/getpelican/pelican-plugins
-    ignore = all
-    shallow = true
-[submodule "pelican-themes"]
-	path = pelican-themes
-	url = https://github.com/getpelican/pelican-themes
-    ignore = all
+[submodule "themes/hugo-coder"]
+	path = themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+	ignore = all
     shallow = true
