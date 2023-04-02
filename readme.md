@@ -12,7 +12,7 @@ To be able to preview changes before publication, you need to have [Hugo](https:
 
 # Write new content and publish
 
-Optional but useful, you can quickly generate new Markdown files with YAML headers with the `hugo new` command (the template for generating the Markdown file is `archetypes/default.md`.):
+Optional but useful, you can quickly generate new Markdown files with YAML headers with the `hugo new` command (the template for generating the Markdown file is `archetypes/default.md`):
 
 ```bash
 hugo new content/posts/my-new-post.md
