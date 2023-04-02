@@ -12,10 +12,10 @@ To be able to preview changes before publication, you need to have [Hugo](https:
 
 # Write new content and publish
 
-Optional but useful, you can quickly generate a new file with a header with the `hugo new` command:
+Optional but useful, you can quickly generate new Markdown files with YAML headers with the `hugo new` command (the template for generating the Markdown file is `archetypes/default.md`.):
 
 ```bash
-hugo new content/blog/my-new-post.md
+hugo new content/posts/my-new-post.md
 hugo new content/pages/my-new-page.md
 ```
 
@@ -25,9 +25,9 @@ Preview your changes before publication:
 hugo server
 ```
 
-If you didn't encounter any issues, simply create and push a new commit to `origin main`. Github will then generate and deploy the page automatically.
+If you don't encounter any issues, simply create and push a new commit to `origin main`. Github will then build and deploy the page automatically.
 
-Tip: Because Github takes care of publishing on each commit, you can also create and edit files in Github's web interface.
+Tip: Because Github takes care of publishing on each push to `main`, you can also update the page by editing or adding files in Github's web interface if you're working on a machine where you don't want or can't install Hugo or Git.
 
 # Additional information about this setup
 
