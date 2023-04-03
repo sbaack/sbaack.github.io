@@ -25,7 +25,7 @@ Preview your changes before publication:
 hugo server
 ```
 
-If you don't encounter any issues, simply create and push a new commit to `origin main`. Github will then build and deploy the page automatically.
+If you don't encounter any issues, simply create and push a new commit to `origin main`. Github will then build and deploy the page automatically. Note that the [Github Actions workflow](.github/workflows/hugo.yaml) specifies a version of Hugo to use remotely. Make sure to update this from time to time so it's consistent with what you're using locally.
 
 Tip: Because Github takes care of publishing on each push to `main`, you can also update the page by editing or adding files in Github's web interface if you're working on a machine where you don't want or can't install Hugo or Git.
 
@@ -38,7 +38,7 @@ The git submodule for the [Hugo-Coder theme](https://github.com/luizdepra/hugo-c
 	path = themes/hugo-coder
 	url = https://github.com/luizdepra/hugo-coder.git
 	ignore = all
-    shallow = true
+        shallow = true
 ```
 
 First, we only make a shallow copy, as we don't need the full commit history. Second, changes to the submodule are ignored. Instead of tracking changes to the submodule in this repository (and thus accumulating commits that do nothing but updating pointers to it), we rely on the `--remote` flag when cloning or updating it, which tells git to pull the latest version of the submodule's remote. To update the theme/submodule, call:
