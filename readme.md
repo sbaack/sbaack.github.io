@@ -41,11 +41,8 @@ The git submodule for the [Hugo-Coder theme](https://github.com/luizdepra/hugo-c
     shallow = true
 ```
 
-First, we only make a shallow copy, as we don't need the full commit history. Second, changes to the submodule are ignored. Instead of tracking changes to the submodule in this repository (and thus accumulating commits that do nothing but updating pointers to it), we rely on the `--remote` flag when cloning or updating it, which tells git to pull the latest version of the submodule's remote. If you want to update the submodules at some point, use `git submodule update --remote`.
-
-However, if you still want to update pointers to the submodules in this repository:
+First, we only make a shallow copy, as we don't need the full commit history. Second, changes to the submodule are ignored. Instead of tracking changes to the submodule in this repository (and thus accumulating commits that do nothing but updating pointers to it), we rely on the `--remote` flag when cloning or updating it, which tells git to pull the latest version of the submodule's remote. To update the theme/submodule, call:
 
 ```bash
-git submodule update --remote --merge <submodule>
-git commit <submodule> -m "Updated submodule <submodule>"
+git submodule update --remote
 ```
