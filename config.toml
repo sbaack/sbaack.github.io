@@ -69,7 +69,7 @@ url = "https://twitter.com/tweetbaack/"
 name = "RSS"
 icon = "fa fa-2x fa-rss"
 weight = 7
-url = "https://sbaack.com/index.xml"
+url = "https://sbaack.com/posts/index.xml"
 rel = "alternate"
 type = "application/rss+xml"
 
