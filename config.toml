@@ -11,7 +11,7 @@ enableEmoji = false
 
 [params]
 author = "Stefan Baack, PhD"
-info = "Researcher and data analyst at Mozilla"
+info = "Researcher and data analyst at the Mozilla Foundation"
 description = "Stefan Baack's personal website"
 keywords = "blog,researcher,personal"
 avatarurl = "images/me.jpg"
