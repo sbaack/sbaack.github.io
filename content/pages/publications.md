@@ -2,11 +2,21 @@
 title: Publications
 ---
 
-- [Peer-reviewed articles](#peer-reviewed-articles)
 - [Reports](#reports)
+- [Peer-reviewed articles](#peer-reviewed-articles)
 - [Book chapters](#book-chapters)
 - [Other publications (selection)](#other-publications-selection)
 - [Dissertation](#dissertation)
+
+### Reports
+
+Baack, S. (2024). _Training Data for the Price of a Sandwich. Common Crawl’s Impact on Generative AI_ Mozilla Foundation. <https://foundation.mozilla.org/en/research/library/generative-ai-training-data/common-crawl/>
+
+Baack, S., & Larsen, S. (2022). _Who Has Power Over AI?_ Compilation of facts and figures for the Internet Health Report 2022, Mozilla. <https://2022.internethealthreport.org/facts/>
+
+Baack, S., & Maxwell, M. (2020). _Alternative Data Governance Approaches: Global Landscape Scan and Analysis_. <https://assets.mofoprod.net/network/documents/DataGovernanceApproaches.pdf>
+
+Baack, S., Witschge, T. & Ziyatdinova, T. (2018). _The European cultural journals sector. Diversity, common characteristics, and challenges_. Research report for [Eurozine](https://www.eurozine.com/). <https://www.eurozine.com/ecjs/>
 
 ### Peer-reviewed articles
 
@@ -20,14 +30,6 @@ Baack, S. (2018). _Civic Tech at mySociety: How the Imagined Affordances of Data
 
 Baack, S. (2015). _Datafication and empowerment: How the open data movement re-articulates notions of democracy, participation, and journalism_. Big Data & Society, 2(2). <https://doi.org/10.1177/2053951715594634>
 
-### Reports
-
-Baack, S., & Larsen, S. (2022). _Who Has Power Over AI?_ Compilation of facts and figures for the Internet Health Report 2022, Mozilla. <https://2022.internethealthreport.org/facts/>
-
-Baack, S., & Maxwell, M. (2020). _Alternative Data Governance Approaches: Global Landscape Scan and Analysis_. <https://assets.mofoprod.net/network/documents/DataGovernanceApproaches.pdf>
-
-Baack, S., Witschge, T. & Ziyatdinova, T. (2018). _The European cultural journals sector. Diversity, common characteristics, and challenges_. Research report for [Eurozine](https://www.eurozine.com/). <https://www.eurozine.com/ecjs/>
-
 ### Book chapters
 
 Baack, S., Djeffal, C., Jarke, J. & Send, H. (2023). _Civic Tech. Ein Beispiel für Bürgerzentrierung und Bürgerbeteiligung als Leitbild der Verwaltungsdigitalisierung_. In T. Klenk, F. Nullmeier & G. Wewer (Eds.), Handbuch Digitalisierung in Staat und Verwaltung. Springer. <https://doi.org/10.1007/978-3-658-23669-4_29-2>
@@ -39,6 +41,8 @@ Baack, S. (2021). _Data Journalism’s Entanglements with Civic Tech_. In J. Gra
 Baack, S. (2013). _A New Style of News Reporting. Wikileaks and Data-driven Journalism_. In B. Rambatan & J. Johanssen (Eds.), Cyborg subjects: discourses on digital culture (pp. 113–122). [S.l.]: CreateSpace Independent Publishing Platform. <https://nbn-resolving.org/urn:nbn:de:0168-ssoar-400253>
 
 ### Other publications (selection)
+
+Baack, S. (2023). _The human decisions that shape generative AI: Who is accountable for what?_ Mozilla Foundation Blog. <https://foundation.mozilla.org/en/blog/the-human-decisions-that-shape-generative-ai-who-is-accountable-for-what/>
 
 Baack, S. (2016). _What big data leaks tell us about the future of journalism and its past_. Internet Policy Review. <https://policyreview.info/articles/news/what-big-data-leaks-tell-us-about-future-journalism-and-its-past/413>
 
