@@ -3,12 +3,6 @@ title = "Stefan Baack"
 theme = "hugo-coder"
 enableEmoji = false
 
-# The following settings make sure that URLs for blog posts are identical to the Pelican version:
-# <base url>/blog/<slug or title>.html
-# uglyURLs = true
-# [permalinks]
-# posts = '/blog/:slug'
-
 [params]
 author = "Stefan Baack, PhD"
 info = "Researcher and data analyst at the Mozilla Foundation"
