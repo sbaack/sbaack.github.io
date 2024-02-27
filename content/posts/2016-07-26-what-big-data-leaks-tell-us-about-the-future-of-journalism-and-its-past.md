@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2016-07-26
 title = "What big data leaks tell us about the future of journalism - and its past"
 description = ""

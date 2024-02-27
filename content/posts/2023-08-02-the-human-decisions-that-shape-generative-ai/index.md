@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2023-08-02
 title = "The human decisions that shape generative AI: Who is accountable for what?"
 description = ""
