@@ -41,7 +41,7 @@ weight = 2
 url = "https://orcid.org/0000-0002-2464-7699"
 [[params.social]]
 name = "Google Scholar"
-icon = "fa-brands fa-google fa-2x"
+icon = "fa-brands fa-google-scholar fa-2x"
 weight = 3
 url = "https://scholar.google.com/citations?hl=en&user=cphFdLUAAAAJ"
 [[params.social]]
