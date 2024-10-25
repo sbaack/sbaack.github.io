@@ -33,7 +33,7 @@ tag = "tags"
 name = "Mastodon"
 icon = "fa-brands fa-mastodon fa-2x"
 weight = 1
-url = "https://mozilla.social/@tootbaack"
+url = "https://infosec.exchange/@tootbaack"
 [[params.social]]
 name = "ORCID"
 icon = "fa-brands fa-orcid fa-2x"
