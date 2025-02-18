@@ -5,7 +5,7 @@ enableEmoji = false
 
 [params]
 author = "Stefan Baack, PhD"
-info = "Researcher and data analyst at the Mozilla Foundation"
+info = "Senior researcher at the Mozilla Foundation"
 description = "Stefan Baack's personal website"
 keywords = "blog,researcher,personal"
 avatarurl = "images/me.jpg"
@@ -35,30 +35,30 @@ icon = "fa-brands fa-mastodon fa-2x"
 weight = 1
 url = "https://infosec.exchange/@tootbaack"
 [[params.social]]
+name = "Bluesky"
+icon = "fa-brands fa-bluesky fa-2x"
+weight = 2
+url = "https://bsky.app/profile/sbaack.com"
+[[params.social]]
 name = "ORCID"
 icon = "fa-brands fa-orcid fa-2x"
-weight = 2
+weight = 3
 url = "https://orcid.org/0000-0002-2464-7699"
 [[params.social]]
 name = "Google Scholar"
 icon = "fa-brands fa-google-scholar fa-2x"
-weight = 3
+weight = 4
 url = "https://scholar.google.com/citations?hl=en&user=cphFdLUAAAAJ"
 [[params.social]]
 name = "Github"
 icon = "fa-brands fa-github fa-2x"
-weight = 4
+weight = 5
 url = "https://github.com/sbaack/"
 [[params.social]]
 name = "LinkedIn"
 icon = "fa-brands fa-linkedin fa-2x"
-weight = 5
-url = "https://www.linkedin.com/in/stefanbaack/"
-[[params.social]]
-name = "Twitter"
-icon = "fa-brands fa-x-twitter fa-2x"
 weight = 6
-url = "https://twitter.com/tweetbaack/"
+url = "https://www.linkedin.com/in/stefanbaack/"
 [[params.social]]
 name = "RSS"
 icon = "fa-solid fa-rss fa-2x"
