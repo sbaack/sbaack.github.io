@@ -2,10 +2,28 @@
 title: "Talks"
 ---
 
-- [Selected workshops and guest lectures](#selected-workshops-and-guest-lectures)
 - [Selected conference presentations](#selected-conference-presentations)
+- [Selected workshops and guest lectures](#selected-workshops-and-guest-lectures)
+
+### Selected conference presentations
+
+Baack, S. & Odrozek, K. (October 2025). _What should open source AI aspire to be?_ Keynote for the _Deep Dive: Data Governance conference_, Open Source Initiative.
+
+Baack, S. (September 2025). _Driving European AI_. Panel of the _2025 European regional Artificial Intelligence for Information Accessibility (AI4IA) conference_, UNESCO. 
+
+Baack, S. (June 2025). _Leveraging Generative AI’s Open Source Communities_. Presented at the AoIR Flashpoint Symposium 2025, University of Bremen.
+
+Baack, S. (June 2024). _A Critical Analysis of the Largest Source for Generative AI Training Data: Common Crawl_. 2024 ACM Conference on Fairness, Accountability, and Transparency, Rio de Janeiro.
+
+Baack, S., & Lämmerhirt, D. (June 2023). _Alternative data governance projects: Pioneers of collective data practices?_  Third Data Justice conference, Cardiff University.
+
+Baack, S., Cheruiyot, D., & Ferrer-Conill, R. (2022). _Interdependent and entangled. The case of journalism's influence on Mozilla_. ECREA conference 2022, Aarhus.
+
+Baack, S. (2019). _‘Global, Networked and Collaborative’. How the normalization of leaking shaped the identity and practice of investigative journalism_. AOIR 2019 conference, Brisbane.
 
 ### Selected workshops and guest lectures
+
+_Fourth Wave of Open Data Seminar: Future-Proofing Open Data: Making Data AI-Ready_. Seminar organized by [The GovLab](https://thegovlab.org/). May 2025. Summary and recording available at <https://medium.com/data-stewards-network/fourth-wave-of-open-data-seminar-future-proofing-open-data-making-data-ai-ready-52aade000158>
 
 _Data Trusts: What could go wrong?_. Online workshop 'Understanding data intermediaries for more inclusive data governance' organized by the [Joint Research Centre](https://joint-research-centre.ec.europa.eu/index_en) of the European Commission. March 2023.
 
@@ -20,10 +38,4 @@ _Mozilla‘s New Mission – New Chances for Internet Research?_. Online lunch l
 I gave several guest lectures on _Working at Mozilla_ (on how I started and what my work looks like), e.g. for Queensland University of Technology (October 2020) or Karlstad University (October 2020).
 
 _Leaking: Nur Strohfeuer, oder Ausdruck einer nachhaltigen Veränderung im Journalismus?_ (~Leaking: One hit wonders or expression of enduring changes in journalism?). "#krassmedial: Gute Daten, schlechte Daten". Presentation at the workshop "#krassmedial: Gute Daten, schlechte Daten" organized by the German trade union ver.di, Berlin June 2018. Slides available at <https://dju.verdi.de/++file++5b35efda56c12f583d38474f/download/Pr%C3%A4sentation%20Dr.%20Stefan%20Baack.pdf>
-
-### Selected conference presentations
-
-_Taking interdependencies seriously. The case of Mozilla’s entanglements with journalism_. ECREA 2022, Aarhus.
-
-_'Global, Networked and Collaborative'. How the normalization of leaking shaped the identity and practice of investigative journalism_. AOIR 2019 conference, Brisbane.
 
