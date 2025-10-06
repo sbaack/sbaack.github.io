@@ -9,7 +9,7 @@ title: "Talks"
 
 Baack, S. & Odrozek, K. (October 2025). _What should open source AI aspire to be?_ Keynote for the _Deep Dive: Data Governance conference_, Open Source Initiative.
 
-Baack, S. (September 2025). _Driving European AI_. Panel of the _2025 European regional Artificial Intelligence for Information Accessibility (AI4IA) conference_, UNESCO. 
+Baack, S. (September 2025). _Driving European AI_. Panel of the _2025 European regional Artificial Intelligence for Information Accessibility (AI4IA) conference_, UNESCO. [Recording](https://www.youtube.com/watch?v=xmkczLmiOf0).
 
 Baack, S. (June 2025). _Leveraging Generative AI’s Open Source Communities_. Presented at the AoIR Flashpoint Symposium 2025, University of Bremen.
 
@@ -27,7 +27,7 @@ _Fourth Wave of Open Data Seminar: Future-Proofing Open Data: Making Data AI-Rea
 
 _Data Trusts: What could go wrong?_. Online workshop 'Understanding data intermediaries for more inclusive data governance' organized by the [Joint Research Centre](https://joint-research-centre.ec.europa.eu/index_en) of the European Commission. March 2023.
 
-_Is My Phone Listening to Me? A chat on privacy with NWC and Mozilla_. Twitter Space chat organized by the [National Whistleblower Center](https://www.whistleblowers.org/), March 2023. Recording available at <https://twitter.com/i/spaces/1MYxNgAmwRnKw>
+_Is My Phone Listening to Me? A chat on privacy with NWC and Mozilla_. Twitter Space chat organized by the [National Whistleblower Center](https://www.whistleblowers.org/), March 2023. [Recording](https://x.com/i/spaces/1MYxNgAmwRnKw/peek)
 
 _Qualitative Data Analysis. A crash course in qualitative coding_. Online course at Mozilla. September 2021.
 
