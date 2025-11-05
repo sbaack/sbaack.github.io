@@ -5,7 +5,7 @@ enableEmoji = false
 
 [params]
 author = "Stefan Baack, PhD"
-info = "Award winning AI researcher cited by Wired, The Washington Post and others"
+info = "Award winning AI researcher cited by The Atlantic, WIRED, The Washington Post and more"
 description = "Stefan Baack's personal website"
 keywords = "blog,researcher,personal"
 avatarurl = "images/me.jpg"
@@ -30,61 +30,65 @@ tag = "tags"
 
 # Social links
 [[params.social]]
-name = "Mastodon"
-icon = "fa-brands fa-mastodon fa-2x"
-weight = 1
-url = "https://infosec.exchange/@tootbaack"
+  name = "Mastodon"
+  icon = "fa-brands fa-mastodon fa-2x"
+  weight = 1
+  url = "https://infosec.exchange/@tootbaack"
 [[params.social]]
-name = "Bluesky"
-icon = "fa-brands fa-bluesky fa-2x"
-weight = 2
-url = "https://bsky.app/profile/sbaack.com"
+  name = "Bluesky"
+  icon = "fa-brands fa-bluesky fa-2x"
+  weight = 2
+  url = "https://bsky.app/profile/sbaack.com"
 [[params.social]]
-name = "ORCID"
-icon = "fa-brands fa-orcid fa-2x"
-weight = 3
-url = "https://orcid.org/0000-0002-2464-7699"
+  name = "ORCID"
+  icon = "fa-brands fa-orcid fa-2x"
+  weight = 3
+  url = "https://orcid.org/0000-0002-2464-7699"
 [[params.social]]
-name = "Google Scholar"
-icon = "fa-brands fa-google-scholar fa-2x"
-weight = 4
-url = "https://scholar.google.com/citations?hl=en&user=cphFdLUAAAAJ"
+  name = "Google Scholar"
+  icon = "fa-brands fa-google-scholar fa-2x"
+  weight = 4
+  url = "https://scholar.google.com/citations?hl=en&user=cphFdLUAAAAJ"
 [[params.social]]
-name = "Github"
-icon = "fa-brands fa-github fa-2x"
-weight = 5
-url = "https://github.com/sbaack/"
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 5
+  url = "https://github.com/sbaack/"
 [[params.social]]
-name = "LinkedIn"
-icon = "fa-brands fa-linkedin fa-2x"
-weight = 6
-url = "https://www.linkedin.com/in/stefanbaack/"
+  name = "LinkedIn"
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 6
+  url = "https://www.linkedin.com/in/stefanbaack/"
 [[params.social]]
-name = "RSS"
-icon = "fa-solid fa-rss fa-2x"
-weight = 7
-url = "https://sbaack.com/index.xml"
-rel = "alternate"
-type = "application/rss+xml"
+  name = "RSS"
+  icon = "fa-solid fa-rss fa-2x"
+  weight = 7
+  url = "https://sbaack.com/index.xml"
+  rel = "alternate"
+  type = "application/rss+xml"
 
-# Menu links
+  # Menu links
 [[languages.en.menu.main]]
-name = "About"
-weight = 1
-url = "/pages/about"
+  name = "About"
+  weight = 1
+  url = "/pages/about"
 [[languages.en.menu.main]]
-name = "Contact"
-weight = 2
-url = "pages/contact"
+  name = "Contact"
+  weight = 2
+  url = "pages/contact"
 [[languages.en.menu.main]]
-name = "Publications"
-weight = 3
-url = "pages/publications"
+  name = "Media mentions"
+  weight = 3
+  url = "pages/media-mentions"
 [[languages.en.menu.main]]
-name = "Talks"
-weight = 4
-url = "pages/talks"
+  name = "Publications"
+  weight = 4
+  url = "pages/publications"
 [[languages.en.menu.main]]
-name = "Blog"
-weight = 5
-url = "posts/"
+  name = "Talks"
+  weight = 5
+  url = "pages/talks"
+[[languages.en.menu.main]]
+  name = "Blog"
+  weight = 6
+  url = "posts/"
