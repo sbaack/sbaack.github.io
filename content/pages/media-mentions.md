@@ -11,3 +11,9 @@ title: "Media mentions"
 **The Washington Post**: [How to opt out of having your data 'train' ChatGPT and other AI chatbots](https://www.washingtonpost.com/technology/2024/05/31/opt-out-ai-training-meta-chatgpt/), by Shira Ovide. May 31, 2024.
 
 **MLex**: [Comment: Questions about little-known US web scraper could mean increased legal scrutiny for AI training data](https://www.mlex.com/mlex/articles/2058034/comment-questions-about-little-known-us-web-scraper-could-mean-increased-legal-scrutiny-for-ai-training-data), by Mike Swift. February 10, 2024.
+
+My work has also been mentioned as a recommended read by the following newsletters:
+
+**Platformer**: [Google’s next top model arrives](https://www.platformer.news/google-gemini-advanced-ultra-chatgpt-comparison/), by Casey Newton. February 9, 2024.
+
+**Techmeme**: [Foldable iPhones in the works, Disney to invest $1.5B in Epic](https://us14.campaign-archive.com/?u=94ccd3ae223561415b05892ab&id=ff8bd1d09d). February 7, 2024.
