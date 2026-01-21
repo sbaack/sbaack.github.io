@@ -5,7 +5,7 @@ enableEmoji = false
 
 [params]
 author = "Stefan Baack, PhD"
-info = "Award winning AI researcher cited by The Atlantic, WIRED, The Washington Post and more"
+info = "Award winning AI researcher cited by [The Atlantic](https://www.theatlantic.com/technology/2025/11/common-crawl-ai-training-data/684567/), [WIRED](https://www.wired.com/story/the-fight-against-ai-comes-to-a-foundational-data-set/), [The Washington Post](https://www.washingtonpost.com/technology/2024/05/31/opt-out-ai-training-meta-chatgpt/) and [more](/pages/media-mentions/)"
 description = "Stefan Baack's personal website"
 keywords = "blog,researcher,personal"
 avatarurl = "images/me.jpg"
