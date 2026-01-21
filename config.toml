@@ -5,7 +5,7 @@ enableEmoji = false
 
 [params]
 author = "Stefan Baack, PhD"
-info = "Award winning AI researcher cited by [The Atlantic](https://www.theatlantic.com/technology/2025/11/common-crawl-ai-training-data/684567/), [WIRED](https://www.wired.com/story/the-fight-against-ai-comes-to-a-foundational-data-set/), [The Washington Post](https://www.washingtonpost.com/technology/2024/05/31/opt-out-ai-training-meta-chatgpt/) and [more](/pages/media-mentions/)"
+info = "[Award winning](/pages/awards/) AI researcher cited by [The Atlantic](https://www.theatlantic.com/technology/2025/11/common-crawl-ai-training-data/684567/), [WIRED](https://www.wired.com/story/the-fight-against-ai-comes-to-a-foundational-data-set/), [The Washington Post](https://www.washingtonpost.com/technology/2024/05/31/opt-out-ai-training-meta-chatgpt/) and [more](/pages/media-mentions/)"
 description = "Stefan Baack's personal website"
 keywords = "blog,researcher,personal"
 avatarurl = "images/me.jpg"
@@ -81,18 +81,22 @@ tag = "tags"
   weight = 3
   url = "pages/media-mentions"
 [[languages.en.menu.main]]
-  name = "Publications"
+  name = "Awards"
   weight = 4
+  url = "pages/awards"
+[[languages.en.menu.main]]
+  name = "Publications"
+  weight = 5
   url = "pages/publications"
 [[languages.en.menu.main]]
   name = "Talks"
-  weight = 5
+  weight = 6
   url = "pages/talks"
 [[languages.en.menu.main]]
   name = "Tools"
-  weight = 6
+  weight = 7
   url = "pages/tools"
 [[languages.en.menu.main]]
   name = "Blog"
-  weight = 7
+  weight = 8
   url = "posts/"
