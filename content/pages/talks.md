@@ -15,6 +15,8 @@ Baack, S. (June 2025). _Leveraging Generative AI’s Open Source Communities_. P
 
 Baack, S. (June 2024). _A Critical Analysis of the Largest Source for Generative AI Training Data: Common Crawl_. 2024 ACM Conference on Fairness, Accountability, and Transparency, Rio de Janeiro.
 
+Baack, S. (May 2024). _Training Data for the Price of a Sandwich: Common Crawl’s Impact on Generative AI_. Presented at re:publica 2024, Berlin. [Summary audio recording](https://re-publica.com/de/session/training-data-price-sandwich-common-crawls-impact-generative-ai) and [video recording](https://www.youtube.com/watch?v=mGQUFLROQhk).
+
 Baack, S., & Lämmerhirt, D. (June 2023). _Alternative data governance projects: Pioneers of collective data practices?_  Third Data Justice conference, Cardiff University.
 
 Baack, S., Cheruiyot, D., & Ferrer-Conill, R. (2022). _Interdependent and entangled. The case of journalism's influence on Mozilla_. ECREA conference 2022, Aarhus.
