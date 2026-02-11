@@ -5,7 +5,7 @@ enableEmoji = false
 
 [params]
 author = "Stefan Baack, PhD"
-info = "[Award winning](/pages/awards/) sociotechnical researcher investigating generative AI, cited by [The Atlantic](https://www.theatlantic.com/technology/2025/11/common-crawl-ai-training-data/684567/), [WIRED](https://www.wired.com/story/the-fight-against-ai-comes-to-a-foundational-data-set/) and [more](/pages/media-mentions/)"
+info = "[Award winning](/pages/awards/) sociotechnical researcher investigating generative AI, cited by [The Atlantic](https://www.theatlantic.com/technology/2025/11/common-crawl-ai-training-data/684567/), [WIRED](https://www.wired.com/story/the-fight-against-ai-comes-to-a-foundational-data-set/) and [more](/pages/featured-in/)"
 description = "Stefan Baack's personal website"
 keywords = "blog,researcher,personal"
 avatarurl = "images/me.jpg"
@@ -77,9 +77,9 @@ tag = "tags"
   weight = 2
   url = "pages/contact"
 [[languages.en.menu.main]]
-  name = "Media mentions"
+  name = "Featured In"
   weight = 3
-  url = "pages/media-mentions"
+  url = "pages/featured-in"
 [[languages.en.menu.main]]
   name = "Awards"
   weight = 4
