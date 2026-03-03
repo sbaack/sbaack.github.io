@@ -7,6 +7,8 @@ title: "Talks"
 
 ### Selected conference presentations
 
+Baack, S. (October 2025). _Controlling robots: Generative AI and the evolving sensemaking of the web_. Presented at _20 Years into the Future: What is our vision of media, data, and society?_, University of Bremen
+
 Baack, S. & Odrozek, K. (October 2025). _What should open source AI aspire to be?_ Keynote for the _Deep Dive: Data Governance conference_, Open Source Initiative. [Recording and summary](https://opensource.org/ai/webinars/what-should-open-source-ai-aspire-to-be).
 
 Baack, S. (September 2025). _Driving European AI_. Panel of the _2025 European regional Artificial Intelligence for Information Accessibility (AI4IA) conference_, UNESCO. [Recording](https://www.youtube.com/watch?v=xmkczLmiOf0).
