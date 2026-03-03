@@ -5,13 +5,13 @@ title: "Talks"
 - [Selected conference presentations](#selected-conference-presentations)
 - [Selected workshops and guest lectures](#selected-workshops-and-guest-lectures)
 
-### Selected conference presentations
+### Selected conference presentations or roundtables
 
 Baack, S. (October 2025). _Controlling robots: Generative AI and the evolving sensemaking of the web_. Presented at _20 Years into the Future: What is our vision of media, data, and society?_, University of Bremen
 
 Baack, S. & Odrozek, K. (October 2025). _What should open source AI aspire to be?_ Keynote for the _Deep Dive: Data Governance conference_, Open Source Initiative. [Recording and summary](https://opensource.org/ai/webinars/what-should-open-source-ai-aspire-to-be).
 
-Baack, S. (September 2025). _Driving European AI_. Panel of the _2025 European regional Artificial Intelligence for Information Accessibility (AI4IA) conference_, UNESCO. [Recording](https://www.youtube.com/watch?v=xmkczLmiOf0).
+_Driving European AI_. Panel of the _2025 European regional Artificial Intelligence for Information Accessibility (AI4IA) conference_, UNESCO (Roundtable). September 2025. [Recording](https://www.youtube.com/watch?v=xmkczLmiOf0).
 
 Baack, S. (June 2025). _Leveraging Generative AI’s Open Source Communities_. Presented at the AoIR Flashpoint Symposium 2025, University of Bremen.
 
@@ -27,7 +27,7 @@ Baack, S. (2019). _‘Global, Networked and Collaborative’. How the normalizat
 
 ### Selected workshops and guest lectures
 
-_Fourth Wave of Open Data Seminar: Future-Proofing Open Data: Making Data AI-Ready_. Seminar organized by [The GovLab](https://thegovlab.org/). May 2025. Summary and recording available at <https://medium.com/data-stewards-network/fourth-wave-of-open-data-seminar-future-proofing-open-data-making-data-ai-ready-52aade000158>
+_Fourth Wave of Open Data Seminar: Future-Proofing Open Data: Making Data AI-Ready_. Seminar organized by [The GovLab](https://thegovlab.org/). May 2025. [Summary and recording](https://medium.com/data-stewards-network/fourth-wave-of-open-data-seminar-future-proofing-open-data-making-data-ai-ready-52aade000158).
 
 _Data Trusts: What could go wrong?_. Online workshop 'Understanding data intermediaries for more inclusive data governance' organized by the [Joint Research Centre](https://joint-research-centre.ec.europa.eu/index_en) of the European Commission. March 2023.
 
