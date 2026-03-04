@@ -7,7 +7,7 @@ title: "Talks"
 
 ### Selected conference presentations or roundtables
 
-Baack, S. (October 2025). _Controlling robots: Generative AI and the evolving sensemaking of the web_. Presented at _20 Years into the Future: What is our vision of media, data, and society?_, University of Bremen
+Baack, S. (October 2025). _Controlling robots: Generative AI and the evolving sensemaking of the web_. Presented at _20 Years into the Future: What is our vision of media, data, and society?_, University of Bremen.
 
 Baack, S. & Odrozek, K. (October 2025). _What should open source AI aspire to be?_ Keynote for the _Deep Dive: Data Governance conference_, Open Source Initiative. [Recording and summary](https://opensource.org/ai/webinars/what-should-open-source-ai-aspire-to-be).
 
@@ -37,9 +37,9 @@ _Qualitative Data Analysis. A crash course in qualitative coding_. Online course
 
 _Civic data: From civic tech to alternative data governance_. Online guest lecture at the University of Groningen. March 2020.
 
-_Mozilla‘s New Mission – New Chances for Internet Research?_. Online lunch lecture at the Leibniz Institute for Media Research | Hans-Bredow-Institut (HBI). September 2020. <https://leibniz-hbi.de/en/events/mozilla-s-new-mission-new-chances-for-internet-research>
+_Mozilla‘s New Mission – New Chances for Internet Research?_. Online lunch lecture at the Leibniz Institute for Media Research | Hans-Bredow-Institut (HBI). September 2020. [Abstract](https://web.archive.org/web/20240524153743/https://www.leibniz-hbi.de/en/events/mozilla-s-new-mission-new-chances-for-internet-research).
 
 I gave several guest lectures on _Working at Mozilla_ (on how I started and what my work looks like), e.g. for Queensland University of Technology (October 2020) or Karlstad University (October 2020).
 
-_Leaking: Nur Strohfeuer, oder Ausdruck einer nachhaltigen Veränderung im Journalismus?_ (~Leaking: One hit wonders or expression of enduring changes in journalism?). "#krassmedial: Gute Daten, schlechte Daten". Presentation at the workshop "#krassmedial: Gute Daten, schlechte Daten" organized by the German trade union ver.di, Berlin June 2018. Slides available at <https://dju.verdi.de/++file++5b35efda56c12f583d38474f/download/Pr%C3%A4sentation%20Dr.%20Stefan%20Baack.pdf>
+_Leaking: Nur Strohfeuer, oder Ausdruck einer nachhaltigen Veränderung im Journalismus?_ (~Leaking: One hit wonders or expression of enduring changes in journalism?). "#krassmedial: Gute Daten, schlechte Daten". Presentation at the workshop "#krassmedial: Gute Daten, schlechte Daten" organized by the German trade union ver.di, Berlin June 2018. [Slides](https://web.archive.org/web/20240705173656/https://dju.verdi.de/++file++5b35efda56c12f583d38474f/download/Pr%C3%A4sentation%20Dr.%20Stefan%20Baack.pdf) and [summary](https://mmm.verdi.de/beruf/krassmedial-gute-daten-schlechte-daten-51631/) (German).
 
