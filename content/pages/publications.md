@@ -14,7 +14,7 @@ Baack, S. et al. (2025). _Towards Best Practices for Open Datasets for LLM Train
 
 Baack, S. (2024). _Training Data for the Price of a Sandwich. Common Crawl’s Impact on Generative AI_. Mozilla Foundation. <https://foundation.mozilla.org/en/research/library/generative-ai-training-data/common-crawl/>
 
-Baack, S., & Larsen, S. (2022). _Who Has Power Over AI?_ Compilation of facts and figures for the Internet Health Report 2022, Mozilla. <https://web.archive.org/web/20221223174051/https://2022.internethealthreport.org/>
+Baack, S., & Larsen, S. (2022). _Who Has Power Over AI?_ Compilation of facts and figures for the Internet Health Report 2022, Mozilla. <https://web.archive.org/web/20230107070050/https://2022.internethealthreport.org/facts/>
 
 Baack, S., & Maxwell, M. (2020). _Alternative Data Governance Approaches: Global Landscape Scan and Analysis_. <https://assets.mofoprod.net/network/documents/DataGovernanceApproaches.pdf>
 
