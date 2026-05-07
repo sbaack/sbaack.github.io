@@ -1,39 +1,47 @@
-{{- $pctx := . -}}
-{{- if .IsHome -}}{{ $pctx = .Site }}{{- end -}}
 {{- $pages := slice -}}
-{{- if or $.IsHome $.IsSection -}}
-{{- $pages = (where (where $pctx.RegularPages ".Section" "posts") "Kind" "page") -}}
+{{- if .IsHome -}}
+{{- $pages = where site.RegularPages "Section" "posts" -}}
 {{- else -}}
-{{- $pages = (where (where $pctx.Pages ".Section" "posts") "Kind" "page") -}}
+{{- $pages = where .RegularPages "Section" "posts" -}}
 {{- end -}}
-{{- $limit := .Site.Config.Services.RSS.Limit -}}
+{{- $limit := site.Config.Services.RSS.Limit -}}
 {{- if ge $limit 1 -}}
 {{- $pages = $pages | first $limit -}}
 {{- end -}}
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ if eq  .Title  .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{.}} on {{ end }}{{ .Site.Title }}{{ end }}</title>
+    <title>{{ if eq .Title site.Title }}{{ site.Title }}{{ else }}{{ with .Title }}{{ . }} on {{ end }}{{ site.Title }}{{ end }}</title>
     <link>{{ .Permalink }}</link>
-    <description>Recent content {{ if ne  .Title  .Site.Title }}{{ with .Title }}in {{.}} {{ end }}{{ end }}on {{ .Site.Title }}</description>
-    <generator>Hugo -- gohugo.io</generator>{{ with .Site.LanguageCode }}
-    <language>{{.}}</language>{{end}}{{ with .Site.Author.email }}
-    <managingEditor>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</managingEditor>{{end}}{{ with .Site.Author.email }}
-    <webMaster>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</webMaster>{{end}}{{ with .Site.Copyright }}
-    <copyright>{{.}}</copyright>{{end}}{{ if not .Date.IsZero }}
-    <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}
-    {{- with .OutputFormats.Get "RSS" -}}
+    <description>Recent content {{ if ne .Title site.Title }}{{ with .Title }}in {{ . }} {{ end }}{{ end }}on {{ site.Title }}</description>
+    <generator>Hugo</generator>
+    {{- with site.Language.Locale }}
+    <language>{{ . }}</language>
+    {{- end }}
+    {{- with site.Params.author_email }}
+    <managingEditor>{{ . }}{{ with site.Params.author }} ({{ . }}){{ end }}</managingEditor>
+    <webMaster>{{ . }}{{ with site.Params.author }} ({{ . }}){{ end }}</webMaster>
+    {{- end }}
+    {{- with site.Params.copyright }}
+    <copyright>{{ . }}</copyright>
+    {{- end }}
+    {{- if not .Date.IsZero }}
+    <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
+    {{- end }}
+    {{- with .OutputFormats.Get "rss" -}}
     {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
-    {{- end -}}
-    {{ range $pages }}
+    {{- end }}
+    {{- range $pages }}
     <item>
       <title>{{ .Title }}</title>
       <link>{{ .Permalink }}</link>
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
-      {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
+      {{- with site.Params.author_email }}
+      <author>{{ . }}{{ with site.Params.author }} ({{ . }}){{ end }}</author>
+      {{- end }}
       <guid>{{ .Permalink }}</guid>
-      <description>{{ .Content | html }}</description>
+      <description>{{ .Content | transform.XMLEscape | safeHTML }}</description>
     </item>
-    {{ end }}
+    {{- end }}
   </channel>
 </rss>
