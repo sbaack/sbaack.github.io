@@ -2,11 +2,15 @@
 title:  "Featured In"
 ---
 
+**Nature**: [Elsevier vs Meta: first science publisher sues over scraped research papers](https://www.nature.com/articles/d41586-026-01481-0), by Elizabeth Gibney. May 11, 2026.
+
 **The Atlantic**: [The Company Quietly Funneling Paywalled Articles to AI Developers](https://www.theatlantic.com/technology/2025/11/common-crawl-ai-training-data/684567/), by Alex Reisner. November 4, 2025.
 
 **United States Copyright Office**: [Copyright and Artificial Intelligence, Part 3: Generative AI Training](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf), Pre-Publication Version. May 2025.
 
 **Freethink**: [AI thinks “vegetative electron microscopy” is real — it’s not](https://www.freethink.com/artificial-intelligence/vegetative-electron-microscopy), by B. David Zarley. May 30, 2025.
+
+**Nature**: [Has your paper been used to train an AI model? Almost certainly](https://www.nature.com/articles/d41586-024-02599-9), by Elizabeth Gibney. August 14, 2024.
 
 **WIRED**: [Publishers Target Common Crawl In Fight Over AI Training Data](https://www.wired.com/story/the-fight-against-ai-comes-to-a-foundational-data-set/), by Kate Knibbs. Jun 13, 2024.
 
