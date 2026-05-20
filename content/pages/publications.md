@@ -8,19 +8,10 @@ title: Publications
 - [Other publications (selection)](#other-publications-selection)
 - [Dissertation](#dissertation)
 
-### Reports
-
-Baack, S. et al. (2025). _Towards Best Practices for Open Datasets for LLM Training_. Mozilla Foundation. <https://arxiv.org/abs/2501.08365>
-
-Baack, S. (2024). _Training Data for the Price of a Sandwich. Common Crawl’s Impact on Generative AI_. Mozilla Foundation. <https://foundation.mozilla.org/en/research/library/generative-ai-training-data/common-crawl/>
-
-Baack, S., & Larsen, S. (2022). _Who Has Power Over AI?_ Compilation of facts and figures for the Internet Health Report 2022, Mozilla. <https://web.archive.org/web/20230107070050/https://2022.internethealthreport.org/facts/>
-
-Baack, S., & Maxwell, M. (2020). _Alternative Data Governance Approaches: Global Landscape Scan and Analysis_. <https://assets.mofoprod.net/network/documents/DataGovernanceApproaches.pdf>
-
-Baack, S., Witschge, T. & Ziyatdinova, T. (2018). _The European cultural journals sector. Diversity, common characteristics, and challenges_. Research report for [Eurozine](https://www.eurozine.com/). <https://www.eurozine.com/ecjs/>
-
 ### Peer-reviewed articles
+
+Baack, S., Buschek, C. & Bohacek, M. (2026). _Unsteady Metrics and Benchmarking Cultures of AI Model Builders_.  	
+https://doi.org/10.48550/arXiv.2605.14164
 
 Baack, S. (2024). _A Critical Analysis of the Largest Source for Generative AI Training Data: Common Crawl_. Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency. <https://dl.acm.org/doi/10.1145/3630106.3659033> (PDF available at <https://facctconference.org/static/papers24/facct24-148.pdf>)
 
@@ -33,6 +24,18 @@ Baack, S. (2018). _Practically Engaged: The entanglements between data journalis
 Baack, S. (2018). _Civic Tech at mySociety: How the Imagined Affordances of Data Shape Data Activism_. Krisis 2018 (1), 44-56. <https://doi.org/10.21827/krisis.38.1.38830>
 
 Baack, S. (2015). _Datafication and empowerment: How the open data movement re-articulates notions of democracy, participation, and journalism_. Big Data & Society, 2(2). <https://doi.org/10.1177/2053951715594634>
+
+### Reports
+
+Baack, S. et al. (2025). _Towards Best Practices for Open Datasets for LLM Training_. Mozilla Foundation. <https://arxiv.org/abs/2501.08365>
+
+Baack, S. (2024). _Training Data for the Price of a Sandwich. Common Crawl’s Impact on Generative AI_. Mozilla Foundation. <https://foundation.mozilla.org/en/research/library/generative-ai-training-data/common-crawl/>
+
+Baack, S., & Larsen, S. (2022). _Who Has Power Over AI?_ Compilation of facts and figures for the Internet Health Report 2022, Mozilla. <https://web.archive.org/web/20230107070050/https://2022.internethealthreport.org/facts/>
+
+Baack, S., & Maxwell, M. (2020). _Alternative Data Governance Approaches: Global Landscape Scan and Analysis_. <https://assets.mofoprod.net/network/documents/DataGovernanceApproaches.pdf>
+
+Baack, S., Witschge, T. & Ziyatdinova, T. (2018). _The European cultural journals sector. Diversity, common characteristics, and challenges_. Research report for [Eurozine](https://www.eurozine.com/). <https://www.eurozine.com/ecjs/>
 
 ### Book chapters
 
