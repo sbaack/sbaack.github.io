@@ -34,6 +34,7 @@ tag = "tags"
   icon = "fa-brands fa-mastodon fa-2x"
   weight = 1
   url = "https://infosec.exchange/@tootbaack"
+  rel = "me"
 [[params.social]]
   name = "Bluesky"
   icon = "fa-brands fa-bluesky fa-2x"
